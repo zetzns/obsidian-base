@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{
+			"id":"0dae328322017471",
+			"type":"file",
+			"file":"sync/STUDY/Security/BurpSuite/Path Traversal/Обход пути.md",
+			"styleAttributes":{},
+			"x":-74,
+			"y":-336,
+			"width":554,
+			"height":816,
+			"color":"#ff0000"
+		},
+		{
+			"id":"f35fdd1ae60ea1dd",
+			"type":"file",
+			"file":"sync/STUDY/Security/BurpSuite/Path Traversal/Чтение произвольных файлов с помощью обхода пути.md",
+			"styleAttributes":{},
+			"x":-27,
+			"y":640,
+			"width":460,
+			"height":855,
+			"color":"6"
+		}
+	],
+	"edges":[
+		{
+			"id":"0b78df84e4199c23",
+			"styleAttributes":{},
+			"fromNode":"0dae328322017471",
+			"fromSide":"bottom",
+			"toNode":"f35fdd1ae60ea1dd",
+			"toSide":"top"
+		}
+	],
+	"metadata":{}
+}

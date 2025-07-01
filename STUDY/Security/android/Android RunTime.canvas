@@ -1,0 +1,133 @@
+{
+	"nodes":[
+		{
+			"id":"d08570c0bc442311",
+			"type":"file",
+			"file":"sync/STUDY/Security/android/Android RunTime/Dalvik Byte-code format.md",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-5200,
+			"width":380,
+			"height":5240,
+			"color":"2"
+		},
+		{
+			"id":"da65bf2a5dbe7d7b",
+			"type":"file",
+			"file":"sync/STUDY/Security/android/Android RunTime/Configure ART.md",
+			"styleAttributes":{},
+			"x":520,
+			"y":-397,
+			"width":400,
+			"height":297,
+			"color":"2"
+		},
+		{
+			"id":"c6d5c688db08b08f",
+			"type":"file",
+			"file":"sync/STUDY/Security/android/Android RunTime/Артефакты.md",
+			"styleAttributes":{},
+			"x":400,
+			"y":240,
+			"width":520,
+			"height":400,
+			"color":"4"
+		},
+		{
+			"id":"409704569340c155",
+			"type":"file",
+			"file":"sync/STUDY/Security/android/Android RunTime/Constant pools.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":240,
+			"width":362,
+			"height":1720,
+			"color":"4"
+		},
+		{
+			"id":"55e8afbf7809e592",
+			"type":"file",
+			"file":"sync/STUDY/Security/android/Android RunTime/Stack Frame.md",
+			"styleAttributes":{},
+			"x":-400,
+			"y":240,
+			"width":362,
+			"height":1100,
+			"color":"4"
+		},
+		{
+			"id":"1555c31b0ecec029",
+			"type":"file",
+			"file":"images/Pasted image 20240905132526.png",
+			"styleAttributes":{},
+			"x":1160,
+			"y":-990,
+			"width":767,
+			"height":820
+		},
+		{
+			"id":"7e3e74599ef46c43",
+			"type":"file",
+			"file":"images/Pasted image 20240905132543.png",
+			"styleAttributes":{},
+			"x":2200,
+			"y":-301,
+			"width":894,
+			"height":566
+		},
+		{
+			"id":"f2a00fb5643c7408",
+			"type":"file",
+			"file":"images/Pasted image 20240905132630.png",
+			"styleAttributes":{},
+			"x":3340,
+			"y":-960,
+			"width":820,
+			"height":892
+		},
+		{
+			"id":"579f773ac546d2c7",
+			"type":"file",
+			"file":"images/Pasted image 20240905132747.png",
+			"styleAttributes":{},
+			"x":4480,
+			"y":-631,
+			"width":760,
+			"height":1127
+		},
+		{
+			"id":"8c15497a9396a9a2",
+			"type":"file",
+			"file":"images/Pasted image 20240905132903.png",
+			"styleAttributes":{},
+			"x":5440,
+			"y":-760,
+			"width":921,
+			"height":829
+		},
+		{
+			"id":"f5fefef9f41cabc5",
+			"type":"file",
+			"file":"sync/STUDY/Security/android/Android RunTime/Dalvik executable format.md",
+			"styleAttributes":{},
+			"x":565,
+			"y":-16910,
+			"width":979,
+			"height":15920,
+			"color":"2"
+		}
+	],
+	"edges":[
+		{"id":"b1ff27f0a3aa746d","fromNode":"409704569340c155","fromSide":"top","toNode":"d08570c0bc442311","toSide":"bottom"},
+		{"id":"4d6e24ccd9e6f478","fromNode":"d08570c0bc442311","fromSide":"right","toNode":"f5fefef9f41cabc5","toSide":"left"},
+		{"id":"8ef1b21d4c9aa754","fromNode":"da65bf2a5dbe7d7b","fromSide":"bottom","toNode":"c6d5c688db08b08f","toSide":"top"},
+		{"id":"2f27c17d57877cc6","fromNode":"f5fefef9f41cabc5","fromSide":"right","toNode":"da65bf2a5dbe7d7b","toSide":"top"},
+		{"id":"6fe0d8333709948d","fromNode":"55e8afbf7809e592","fromSide":"top","toNode":"d08570c0bc442311","toSide":"bottom"},
+		{"id":"585bc286af99f1df","fromNode":"da65bf2a5dbe7d7b","fromSide":"right","toNode":"1555c31b0ecec029","toSide":"left"},
+		{"id":"00b598d8033eeadf","fromNode":"1555c31b0ecec029","fromSide":"right","toNode":"7e3e74599ef46c43","toSide":"left"},
+		{"id":"369be5e21d989ebd","fromNode":"7e3e74599ef46c43","fromSide":"right","toNode":"f2a00fb5643c7408","toSide":"left"},
+		{"id":"fa29917c1831189d","fromNode":"f2a00fb5643c7408","fromSide":"right","toNode":"579f773ac546d2c7","toSide":"left"},
+		{"id":"b9ae3998c0d72471","fromNode":"579f773ac546d2c7","fromSide":"right","toNode":"8c15497a9396a9a2","toSide":"left"}
+	],
+	"metadata":{}
+}
