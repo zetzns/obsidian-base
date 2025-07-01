@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "496ca6f0906aefa8",
+      "type": "file",
+      "file": "sync/STUDY/Trading/MATH/Базовые термины/Доходность инвестиций.md",
+      "styleAttributes": {},
+      "x": 1178,
+      "y": -1440,
+      "width": 400,
+      "height": 640,
+      "color": "4"
+    },
+    {
+      "id": "cbb6732451b4283d",
+      "type": "file",
+      "file": "sync/STUDY/Trading/MATH/Базовые термины/Риск и волатильность.md",
+      "styleAttributes": {},
+      "x": 1178,
+      "y": -680,
+      "width": 400,
+      "height": 629,
+      "color": "4"
+    },
+    {
+      "id": "3e77f085ebd8661a",
+      "type": "file",
+      "file": "sync/STUDY/Trading/MATH/Базовые термины/Value-at-Risk (VaR).md",
+      "styleAttributes": {},
+      "x": 2360,
+      "y": -165,
+      "width": 480,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "179c9d4e097d113b",
+      "type": "file",
+      "file": "sync/STUDY/Trading/MATH/Базовые термины/Expected Shortfall (ES).md",
+      "styleAttributes": {},
+      "x": 2360,
+      "y": -965,
+      "width": 480,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "283590972db89707",
+      "type": "file",
+      "file": "sync/STUDY/Trading/MATH/Базовые термины/Оценка риска.md",
+      "styleAttributes": {},
+      "x": 1760,
+      "y": -622,
+      "width": 400,
+      "height": 514,
+      "color": "2"
+    },
+    {
+      "id": "38a7bdc084a15340",
+      "type": "file",
+      "file": "sync/STUDY/Trading/MATH/Базовые термины/Вероятность и статистика в трейдинге.md",
+      "styleAttributes": {},
+      "x": 1147,
+      "y": 320,
+      "width": 462,
+      "height": 600,
+      "color": "#ff0000"
+    }
+  ],
+  "edges": [
+    {
+      "id": "25e89ebb5661cdee",
+      "styleAttributes": {},
+      "fromNode": "cbb6732451b4283d",
+      "fromSide": "bottom",
+      "toNode": "38a7bdc084a15340",
+      "toSide": "top"
+    },
+    {
+      "id": "14bf0813566b24f1",
+      "styleAttributes": {},
+      "fromNode": "496ca6f0906aefa8",
+      "fromSide": "bottom",
+      "toNode": "cbb6732451b4283d",
+      "toSide": "top"
+    },
+    {
+      "id": "d0c9ae3829b3e934",
+      "styleAttributes": {},
+      "fromNode": "cbb6732451b4283d",
+      "fromSide": "right",
+      "toNode": "283590972db89707",
+      "toSide": "left"
+    },
+    {
+      "id": "fbb8c9d3cf5f6c38",
+      "styleAttributes": {},
+      "fromNode": "283590972db89707",
+      "fromSide": "right",
+      "toNode": "179c9d4e097d113b",
+      "toSide": "left"
+    },
+    {
+      "id": "ca8adbfd45c3b0df",
+      "styleAttributes": {},
+      "fromNode": "283590972db89707",
+      "fromSide": "right",
+      "toNode": "3e77f085ebd8661a",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
