@@ -1,5 +1,0 @@
-
-> [!new] 
-> `am startservice [<options>]`
-
-
