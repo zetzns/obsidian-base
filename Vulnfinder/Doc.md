@@ -2,7 +2,7 @@
 
 
 > [!faq] 
-> `OS`: Debian-based run
+> `OS`: Linux-based run (debian recommended)
 > `version-manager`: gitlab
 > `Engine for preproccessor and parser`: clang
 > 
