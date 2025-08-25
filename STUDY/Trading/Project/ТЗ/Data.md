@@ -987,7 +987,150 @@ abstract class decDimensions
 `def __init__`
 `def __calc__`
 
+```python
+from __future__ import annotations
 
+from abc import ABC, abstractmethod
+from typing import Any, Dict, Optional
+import numpy as np
+from numpy.typing import ArrayLike
+
+
+class DecDimensions(ABC):
+    """
+    Абстрактный базовый класс понижения размерности.
+
+    Контракт:
+      - fit(X) -> self
+      - transform(X) -> np.ndarray (n_samples, n_components)
+      - fit_transform(X) -> np.ndarray
+      - calc(X) -> np.ndarray  # алиас для transform
+      - inverse_transform(Z) -> np.ndarray  # опционально
+      - get_params() / set_params(...)
+    """
+
+    def __init__(
+        self,
+        n_components: Optional[int] = None,
+        *,
+        copy: bool = True,
+        random_state: Optional[int] = None,
+    ) -> None:
+        self._fitted: bool = False
+        self.n_components: Optional[int] = None if n_components is None else int(n_components)
+        if self.n_components is not None and self.n_components <= 0:
+            raise ValueError("n_components должен быть > 0 или None")
+        self.copy: bool = bool(copy)
+        self.random_state: Optional[int] = None if random_state is None else int(random_state)
+
+    # ---------- Обязательные методы для наследников ----------
+
+    @abstractmethod
+    def fit(self, X: ArrayLike) -> "DecDimensions":
+        """
+        Обучение редьюсера на X (n_samples, n_features).
+        Должно устанавливать self._fitted = True.
+        """
+        raise NotImplementedError
+
+    @abstractmethod
+    def transform(self, X: ArrayLike) -> np.ndarray:
+        """
+        Применение понижения размерности к X.
+        Требует self._fitted = True.
+        """
+        raise NotImplementedError
+
+    # ---------- Готовые утилиты базового класса ----------
+
+    def fit_transform(self, X: ArrayLike) -> np.ndarray:
+        self.fit(X)
+        return self.transform(X)
+
+    def calc(self, X: ArrayLike) -> np.ndarray:
+        """Алиас к transform(X)."""
+        return self.transform(X)
+
+    def inverse_transform(self, Z: ArrayLike) -> np.ndarray:
+        """
+        Опционально переопределяется в подклассах.
+        По умолчанию не поддерживается.
+        """
+        raise NotImplementedError("inverse_transform не реализован для данного редьюсера")
+
+    def get_params(self) -> Dict[str, Any]:
+        """Базовые параметры экземпляра."""
+        self._validate_state_read()
+        return {
+            "n_components": self.n_components,
+            "copy": self.copy,
+            "random_state": self.random_state,
+        }
+
+    def set_params(self, **params: Any) -> "DecDimensions":
+        """Обновление базовых параметров с валидацией ключей."""
+        allowed = {"n_components", "copy", "random_state"}
+        unknown = set(params) - allowed
+        if unknown:
+            raise ValueError(f"Неизвестные параметры: {sorted(unknown)}")
+
+        if "n_components" in params:
+            n = params["n_components"]
+            self.n_components = None if n is None else int(n)
+            if self.n_components is not None and self.n_components <= 0:
+                raise ValueError("n_components должен быть > 0 или None")
+
+        if "copy" in params:
+            self.copy = bool(params["copy"])
+
+        if "random_state" in params:
+            rs = params["random_state"]
+            self.random_state = None if rs is None else int(rs)
+
+        # Изменение гиперпараметров подразумевает переобучение
+        self._fitted = False
+        return self
+
+    @property
+    def fitted(self) -> bool:
+        return self._fitted
+
+    # ---------- Вспомогательные методы для наследников ----------
+
+    def _as_2d(self, X: ArrayLike, *, name: str = "X") -> np.ndarray:
+        """
+        Приведение к np.ndarray(float) формы (n_samples, n_features) с проверками.
+        Поддерживает np.ndarray, list/tuple, pandas.DataFrame (через .to_numpy()).
+        """
+        # pandas.DataFrame / Series
+        if hasattr(X, "to_numpy"):
+            arr = np.asarray(X.to_numpy(), dtype=float)
+        else:
+            arr = np.asarray(X, dtype=float)
+
+        if arr.ndim != 2:
+            raise ValueError(f"{name} должен иметь форму (n_samples, n_features)")
+        n_samples, n_features = arr.shape
+        if n_samples == 0 or n_features == 0:
+            raise ValueError(f"{name} не должен иметь пустые оси")
+        if not np.all(np.isfinite(arr)):
+            raise ValueError(f"{name} содержит NaN/inf")
+
+        return arr.copy() if self.copy else np.array(arr, dtype=float, copy=False)
+
+    def _require_fitted(self) -> None:
+        if not self._fitted:
+            raise RuntimeError("Модель не обучена: вызовите fit(...)")
+
+    def _rng(self) -> np.random.Generator:
+        """np.random.Generator с фиксируемым seed (для детерминизма)."""
+        return np.random.default_rng(self.random_state)
+
+    def _validate_state_read(self) -> None:
+        # Разрешаем читать параметры и до fit; метод для единообразия расширений.
+        if False:
+            raise RuntimeError  # зарезервировано под кастомную логику
+```
 
 ---
 
@@ -1003,3 +1146,147 @@ class DataAnalyze
 `def normalize`
 `def decDimensions`
 `def out`
+
+```python
+class DataAnalyzer:
+    """
+    Минимальный конвейер:
+      - getDataViaApi(): получить DataFrame
+      - getFeatures(): посчитать все Feature.calc()
+      - getLabels(): посчитать все Label.calc()
+      - normalize(): применить нормализаторы по колонкам features
+      - decDimensions(): понизить размерность признаков
+      - out(): вернуть артефакты
+    """
+
+    def __init__(
+        self,
+        *,
+        data_source: Union[pd.DataFrame, Callable[[], pd.DataFrame]],
+        features: Optional[List[Feature]] = None,
+        labels: Optional[List[Label]] = None,
+        normalizers: Optional[List[Normalize]] = None,
+        reducer: Optional[DecDimensions] = None,
+        reducer_out_prefix: str = "z",
+    ) -> None:
+        self._data_source = data_source
+        self.features_objs: List[Feature] = features or []
+        self.labels_objs: List[Label] = labels or []
+        self.normalizers: List[Normalize] = normalizers or []
+        self.reducer: Optional[DecDimensions] = reducer
+        self.reducer_out_prefix = reducer_out_prefix
+
+        self.raw: pd.DataFrame = pd.DataFrame()
+        self.features_df: pd.DataFrame = pd.DataFrame()
+        self.labels_df: pd.DataFrame = pd.DataFrame()
+        self.normalized_df: pd.DataFrame = pd.DataFrame()
+        self.reduced_df: pd.DataFrame = pd.DataFrame()
+
+        self._norm_params_: Dict[str, Dict[str, Any]] = {}
+        self._reducer_params_: Optional[Dict[str, Any]] = None
+
+    # -------------------- Data --------------------
+
+    def getDataViaApi(self) -> pd.DataFrame:
+        if callable(self._data_source):
+            df = self._data_source()
+            if not isinstance(df, pd.DataFrame):
+                raise TypeError("data_source() должен вернуть pandas.DataFrame")
+            self.raw = df.copy()
+        elif isinstance(self._data_source, pd.DataFrame):
+            self.raw = self._data_source.copy()
+        else:
+            raise TypeError("data_source должен быть DataFrame или callable()")
+
+        if self.raw.empty:
+            raise ValueError("Пустые данные")
+
+        num = self.raw.select_dtypes(include=[np.number])
+        if not np.all(np.isfinite(num.to_numpy())):
+            raise ValueError("В числовых колонках есть NaN/inf")
+        return self.raw
+
+    # -------------------- Features --------------------
+
+    def getFeatures(self) -> pd.DataFrame:
+        if self.raw.empty:
+            raise RuntimeError("Сначала вызовите getDataViaApi()")
+
+        # Предполагается, что каждый объект Feature уже инициализирован нужными рядами/параметрами.
+        vals = {obj.__class__.__name__: float(obj.calc()) for obj in self.features_objs}
+        # Возвращаем одну строку со значениями на «текущем» баре
+        idx = [self.raw.index[-1] if isinstance(self.raw.index, pd.Index) and len(self.raw.index) > 0 else 0]
+        self.features_df = pd.DataFrame([vals], index=idx)
+        return self.features_df
+
+    # -------------------- Labels --------------------
+
+    def getLabels(self) -> pd.DataFrame:
+        if self.raw.empty:
+            raise RuntimeError("Сначала вызовите getDataViaApi()")
+
+        vals = {obj.__class__.__name__: int(obj.calc()) for obj in self.labels_objs}
+        idx = [self.raw.index[-1] if isinstance(self.raw.index, pd.Index) and len(self.raw.index) > 0 else 0]
+        self.labels_df = pd.DataFrame([vals], index=idx)
+        return self.labels_df
+
+    # -------------------- Normalize --------------------
+
+    def normalize(self) -> pd.DataFrame:
+        if self.features_df.empty:
+            raise RuntimeError("Сначала вызовите getFeatures()")
+
+        df = self.features_df.copy()
+        for col in df.columns:
+            x = df[col].to_numpy(dtype=float)
+            if x.size == 0 or not np.all(np.isfinite(x)):
+                continue
+            # последовательно применяем нормализаторы (копии не делаем — «заглушка»)
+            last_params: Dict[str, Any] | None = None
+            for nrm in self.normalizers:
+                nrm.fit(x)
+                x = nrm.transform(x)
+                last_params = nrm.get_params()
+            df[col] = x
+            if last_params is not None:
+                self._norm_params_[col] = last_params
+
+        self.normalized_df = df
+        return self.normalized_df
+
+    # -------------------- Dimensionality Reduction --------------------
+
+    def decDimensions(self) -> pd.DataFrame:
+        if self.reducer is None:
+            raise RuntimeError("reducer не задан")
+
+        source = self.normalized_df if not self.normalized_df.empty else self.features_df
+        if source.empty:
+            raise RuntimeError("Нет данных для редукции")
+
+        X = source.to_numpy(dtype=float)
+        if X.ndim != 2 or X.shape[1] == 0:
+            raise ValueError("Некорректная матрица признаков для редукции")
+
+        Z = self.reducer.fit_transform(X)
+        if Z.ndim != 2:
+            raise ValueError("Результат редукции должен быть 2D")
+
+        zcols = [f"{self.reducer_out_prefix}{i+1}" for i in range(Z.shape[1])]
+        self.reduced_df = pd.DataFrame(Z, index=source.index, columns=zcols)
+        self._reducer_params_ = self.reducer.get_params()
+        return self.reduced_df
+
+    # -------------------- Output --------------------
+
+    def out(self) -> Dict[str, Any]:
+        return {
+            "raw": self.raw,
+            "features": self.features_df,
+            "labels": self.labels_df,
+            "normalized": self.normalized_df,
+            "reduced": self.reduced_df,
+            "normalizers_params": self._norm_params_,
+            "reducer_params": self._reducer_params_,
+        }
+```
