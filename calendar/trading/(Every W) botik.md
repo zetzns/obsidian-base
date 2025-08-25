@@ -1,0 +1,9 @@
+---
+title: botik
+allDay: false
+startTime: 07:00
+endTime: 08:30
+type: recurring
+daysOfWeek: [W]
+startRecur: 2025-08-27
+---

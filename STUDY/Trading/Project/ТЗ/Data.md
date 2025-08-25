@@ -350,7 +350,6 @@ class NextBarDirectionLabel(Label):
 
     Детерминизм: да, не использует внешнее состояние.
     """
-
     def __init__(self, close: Sequence[float], eps: float = 0.0) -> None:
         if not isinstance(close, (list, tuple, np.ndarray)):
             raise TypeError("close должен быть list/tuple/np.ndarray")
@@ -987,6 +986,7 @@ abstract class decDimensions
 |-----------------|
 `def __init__`
 `def __calc__`
+
 
 
 ---
