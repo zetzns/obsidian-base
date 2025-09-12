@@ -13,11 +13,11 @@ kanban-plugin: board
 
 ## On pen
 
-- [ ] Метрики
 
 
 ## READY
 
+- [ ] Метрики
 
 
 
