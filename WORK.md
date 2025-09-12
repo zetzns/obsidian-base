@@ -6,21 +6,19 @@ kanban-plugin: board
 
 ## tasks
 
-- [ ] тестирование и отладка
-- [ ] CFG: ресёрч
-- [ ] CFG: архитектура
-- [ ] CFG: построение
-- [ ] CFG: тестирование и отладка
+- [ ] Manager: архитектура
+- [ ] Manager: модуль связи с CFG
+- [ ] Manager: модуль обработки CFG
+- [ ] Manager: модуль связи с LLM
+- [ ] Manager: модуль обработки запросов LLM
+- [ ] Manager: связь CFG и LLM - обработка сигналов
+- [ ] Manager: обёртка
 
 
-## today
+## On pen
 
-- [ ] ресёрч готовых тулзов
-
-
-## tommorow
-
-- [ ] реиспользование опыта
+- [ ] CFG: тесты
+- [ ] Manager: идея
 
 
 ## READY
@@ -32,6 +30,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
 ```
 %%

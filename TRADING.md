@@ -6,30 +6,24 @@ kanban-plugin: board
 
 ## tasks
 
+- [ ] (Алго) Волны Эллиота
 - [ ] (Алго) Hidden Markov Model
 - [ ] (Алго) ARIMA-модели временных рядов
 
 
-## today
+## On pen
 
-- [ ] ML
-
-
-## progress
-
-- [ ] (Алго) Волны Эллиота
+- [ ] Метрики
 
 
 ## READY
 
-- [ ] (Архитектура) чекнуть коммит
-- [ ] (Архитектура) разобраться, как вообще её строить
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
