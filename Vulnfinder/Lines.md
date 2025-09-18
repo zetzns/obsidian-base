@@ -7,7 +7,7 @@
 	- [x] Option for moving inside single Branch (from only one entry_point)
 	- [x] Option for moving between Func1 to Func2
 	- [x] LLM Module for analyze a single function
-	- [ ] Moving not only downside, but upside if its needed
+	- [ ] LLM analyze every func and save analyze as a file`
 	- [ ] Condition moving inside branch
 	- [ ] Vulnerability presence as a condition: 
 		- if code inside block have a vulnerability we would move the way we got here upside up to entry_point and analyze it again with the same prompt and after it jump for the vulnerability again continue going downside 
