@@ -1,6 +1,15 @@
 {
   "nodes": [
     {
+      "id": "6f0c656d147e7ac8",
+      "x": -1420,
+      "y": 7180,
+      "width": 1975,
+      "height": 5854,
+      "type": "group",
+      "label": "Модель и Алгоритм обучения"
+    },
+    {
       "id": "3e9e7e039adc0dc2",
       "type": "group",
       "styleAttributes": {},
@@ -240,26 +249,121 @@
       "color": "#e60000"
     },
     {
-      "id": "3514e48b99a0f09e",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Поиск оптимального значения метрик.md",
-      "styleAttributes": {},
-      "x": -787,
-      "y": 7920,
-      "width": 495,
-      "height": 594,
-      "color": "6"
-    },
-    {
       "id": "9ffe31eb71fc3241",
       "type": "file",
       "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Оптимальные модели.md",
       "styleAttributes": {},
       "x": -851,
-      "y": 8700,
+      "y": 7880,
       "width": 623,
       "height": 645,
       "color": "4"
+    },
+    {
+      "id": "3514e48b99a0f09e",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Поиск оптимального значения метрик.md",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 7905,
+      "width": 495,
+      "height": 594,
+      "color": "6"
+    },
+    {
+      "id": "3dcead565b50fb86",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Алгоритм обучения.md",
+      "styleAttributes": {},
+      "x": -739,
+      "y": 8680,
+      "width": 400,
+      "height": 422,
+      "color": "#ff0000"
+    },
+    {
+      "id": "52b53b0f49f8c706",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Бинарная классификация точек на плоскости.md",
+      "styleAttributes": {},
+      "x": -851,
+      "y": 9240,
+      "width": 630,
+      "height": 1151,
+      "color": "6"
+    },
+    {
+      "id": "4cc2444075acc55c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Гиперпараметры.md",
+      "styleAttributes": {},
+      "x": -1249,
+      "y": 11306,
+      "width": 398,
+      "height": 289,
+      "color": "5"
+    },
+    {
+      "id": "f2a22a9177aceefc",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Функция потерь в задаче бинарной классификации.md",
+      "styleAttributes": {},
+      "x": -717,
+      "y": 10520,
+      "width": 363,
+      "height": 484,
+      "color": "2"
+    },
+    {
+      "id": "1b76a59945bffdd4",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Градиентный спуск в задаче бинарной классификации.md",
+      "styleAttributes": {},
+      "x": -735,
+      "y": 11120,
+      "width": 400,
+      "height": 661,
+      "color": "2"
+    },
+    {
+      "id": "b552f3fc692340af",
+      "x": -735,
+      "y": 11960,
+      "width": 400,
+      "height": 400,
+      "color": "1",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Обобщающая способность.md"
+    },
+    {
+      "id": "c47ff1ddb4b491fa",
+      "x": -762,
+      "y": 12504,
+      "width": 454,
+      "height": 510,
+      "color": "2",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Генерализация.md"
+    },
+    {
+      "id": "c8798b063e158953",
+      "x": -1400,
+      "y": 12620,
+      "width": 400,
+      "height": 279,
+      "color": "5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/train и test.md"
+    },
+    {
+      "id": "b0c10c6de01a1a57",
+      "x": -40,
+      "y": 12609,
+      "width": 400,
+      "height": 302,
+      "color": "2",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Переобучение.md"
     }
   ],
   "edges": [
@@ -416,19 +520,115 @@
       "toSide": "top"
     },
     {
-      "id": "11c0cc8959182fdc",
+      "id": "2dc939d0406053fb",
       "styleAttributes": {},
       "fromNode": "e010a0191f3bb7eb",
       "fromSide": "bottom",
-      "toNode": "3514e48b99a0f09e",
+      "toNode": "9ffe31eb71fc3241",
       "toSide": "top"
     },
     {
-      "id": "996b414fc15d6350",
+      "id": "41dd7d091606f3bd",
       "styleAttributes": {},
-      "fromNode": "3514e48b99a0f09e",
+      "fromNode": "9ffe31eb71fc3241",
+      "fromSide": "right",
+      "toNode": "3514e48b99a0f09e",
+      "toSide": "left"
+    },
+    {
+      "id": "c33b5f8d77fda599",
+      "styleAttributes": {},
+      "fromNode": "9ffe31eb71fc3241",
       "fromSide": "bottom",
-      "toNode": "9ffe31eb71fc3241",
+      "toNode": "3dcead565b50fb86",
+      "toSide": "top"
+    },
+    {
+      "id": "df55cca9bb53d359",
+      "styleAttributes": {},
+      "fromNode": "3dcead565b50fb86",
+      "fromSide": "bottom",
+      "toNode": "52b53b0f49f8c706",
+      "toSide": "top"
+    },
+    {
+      "id": "8dfc4231587352c4",
+      "styleAttributes": {},
+      "fromNode": "52b53b0f49f8c706",
+      "fromSide": "bottom",
+      "toNode": "f2a22a9177aceefc",
+      "toSide": "top"
+    },
+    {
+      "id": "140a8bc8071c5996",
+      "styleAttributes": {},
+      "fromNode": "f2a22a9177aceefc",
+      "fromSide": "bottom",
+      "toNode": "1b76a59945bffdd4",
+      "toSide": "top"
+    },
+    {
+      "id": "1bb1acf7e0f0ada0",
+      "styleAttributes": {},
+      "fromNode": "4cc2444075acc55c",
+      "fromSide": "right",
+      "toNode": "1b76a59945bffdd4",
+      "toSide": "left"
+    },
+    {
+      "id": "e4501e6ab819cdc1",
+      "styleAttributes": {},
+      "fromNode": "428338976b51e942",
+      "fromSide": "left",
+      "toNode": "35bb59fd31c3a781",
+      "toSide": "right"
+    },
+    {
+      "id": "7b256ac207bfcb4a",
+      "styleAttributes": {},
+      "fromNode": "203a3cedf129a73b",
+      "fromSide": "left",
+      "toNode": "35bb59fd31c3a781",
+      "toSide": "right"
+    },
+    {
+      "id": "cfbc5b48544a4637",
+      "styleAttributes": {},
+      "fromNode": "1b76a59945bffdd4",
+      "fromSide": "bottom",
+      "toNode": "b552f3fc692340af",
+      "toSide": "top"
+    },
+    {
+      "id": "7c06e13f76de1fb3",
+      "styleAttributes": {},
+      "fromNode": "c47ff1ddb4b491fa",
+      "fromSide": "left",
+      "toNode": "c8798b063e158953",
+      "toSide": "right"
+    },
+    {
+      "id": "4470b23774506680",
+      "styleAttributes": {},
+      "fromNode": "c47ff1ddb4b491fa",
+      "fromSide": "right",
+      "toNode": "b0c10c6de01a1a57",
+      "toSide": "left"
+    },
+    {
+      "id": "a32fd3a9e51fa26e",
+      "styleAttributes": {},
+      "fromNode": "b552f3fc692340af",
+      "fromSide": "bottom",
+      "toNode": "c47ff1ddb4b491fa",
+      "toSide": "top"
+    },
+    {
+      "id": "c0d9d855999403cd",
+      "styleAttributes": {},
+      "fromNode": "b552f3fc692340af",
+      "fromSide": "bottom",
+      "toNode": "b0c10c6de01a1a57",
       "toSide": "top"
     }
   ],
