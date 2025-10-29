@@ -1,0 +1,722 @@
+{
+  "nodes": [
+    {
+      "id": "a0651bfec228ecd9",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/События/Событие.md",
+      "styleAttributes": {},
+      "x": 80,
+      "y": -520,
+      "width": 400,
+      "height": 280,
+      "color": "5"
+    },
+    {
+      "id": "da2ecd3e33e85a0c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/События/Атрибуты события.md",
+      "styleAttributes": {},
+      "x": 38,
+      "y": -80,
+      "width": 484,
+      "height": 767,
+      "color": "3"
+    },
+    {
+      "id": "ff4eb200a701a6e1",
+      "type": "text",
+      "text": "КРАСНОЕ - тема\nБЕЛОЕ - SEC\nГОЛУБОЕ - термин\nЗЕЛЁНОЕ - мини инфа\nЖЁЛТОЕ - важное замечание\nОРАНЖЕВОЕ - подтема/супер важно\nФИОЛЕТОВОЕ - пример",
+      "styleAttributes": {},
+      "x": 150,
+      "y": -880,
+      "width": 260,
+      "height": 280
+    },
+    {
+      "id": "9b05f596c522990d",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/SIEM/SEM.md",
+      "styleAttributes": {},
+      "x": -385,
+      "y": 942,
+      "width": 465,
+      "height": 458,
+      "color": "5"
+    },
+    {
+      "id": "f48c1f3831c547f7",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/SIEM/SIM.md",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 942,
+      "width": 465,
+      "height": 458,
+      "color": "5"
+    },
+    {
+      "id": "4a12fad2dfb9f109",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/SIEM/SIEM.md",
+      "styleAttributes": {},
+      "x": 107,
+      "y": 1744,
+      "width": 415,
+      "height": 576,
+      "color": "5"
+    },
+    {
+      "id": "50fffcc1a4ba2666",
+      "type": "file",
+      "file": "images/Pasted image 20251023161405.png",
+      "styleAttributes": {},
+      "x": 713,
+      "y": 1668,
+      "width": 1687,
+      "height": 729
+    },
+    {
+      "id": "2672b0a389a3f012",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Источники событий.md",
+      "styleAttributes": {},
+      "x": 64,
+      "y": 2720,
+      "width": 501,
+      "height": 458,
+      "color": "3"
+    },
+    {
+      "id": "c34735f5582128a7",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Коллекторы.md",
+      "styleAttributes": {},
+      "x": 41,
+      "y": 3320,
+      "width": 547,
+      "height": 641,
+      "color": "1"
+    },
+    {
+      "id": "a891f6716048856c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Windows Sysmon.md",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": 3561,
+      "width": 480,
+      "height": 599,
+      "color": "6"
+    },
+    {
+      "id": "fa889eaa80becd48",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Windows EventLog.md",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 3080,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "3be0e1deb43dbaf7",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/auditd.md",
+      "styleAttributes": {},
+      "x": 1260,
+      "y": 3162,
+      "width": 594,
+      "height": 957,
+      "color": "6"
+    },
+    {
+      "id": "795e1278dde7b1e7",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Типы событий auditd.md",
+      "styleAttributes": {},
+      "x": 2300,
+      "y": 3333,
+      "width": 584,
+      "height": 615,
+      "color": "3"
+    },
+    {
+      "id": "0e9cf9e3a389da6c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Нормализация событий/Регулярные выражения.md",
+      "styleAttributes": {},
+      "x": 880,
+      "y": 4600,
+      "width": 487,
+      "height": 481,
+      "color": "6"
+    },
+    {
+      "id": "5a214e22a0026600",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Нормализация событий/Нормализация событий.md",
+      "styleAttributes": {},
+      "x": 78,
+      "y": 4620,
+      "width": 473,
+      "height": 440,
+      "color": "#ff0000"
+    },
+    {
+      "id": "38d0b7fdad8af5ba",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Нормализация событий/Правила нормализации.md",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 4638,
+      "width": 514,
+      "height": 406,
+      "color": "6"
+    },
+    {
+      "id": "81aeaebc88007cf5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Корреляция событий.md",
+      "styleAttributes": {},
+      "x": 97,
+      "y": 5560,
+      "width": 436,
+      "height": 500,
+      "color": "#ff0000"
+    },
+    {
+      "id": "0b1f4d52125fd3ca",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Типы правил.md",
+      "styleAttributes": {},
+      "x": 115,
+      "y": 6200,
+      "width": 400,
+      "height": 560,
+      "color": "3"
+    },
+    {
+      "id": "28467dffa2d546db",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Правила корреляции.md",
+      "styleAttributes": {},
+      "x": 115,
+      "y": 6880,
+      "width": 401,
+      "height": 490,
+      "color": "5"
+    },
+    {
+      "id": "5f83ff570e83bb4d",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Жизненный цикл правил корреляции.md",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 6890,
+      "width": 400,
+      "height": 470,
+      "color": "4"
+    },
+    {
+      "id": "bc6c88c4f5d68339",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/ML-based подход.md",
+      "styleAttributes": {},
+      "x": 72,
+      "y": 7640,
+      "width": 487,
+      "height": 430,
+      "color": "#ff0000"
+    },
+    {
+      "id": "7ffd462c6423685c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Математика SIEM-систем.md",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 7533,
+      "width": 539,
+      "height": 644,
+      "color": "3"
+    },
+    {
+      "id": "fbaf6f7a7794efb9",
+      "type": "file",
+      "file": "images/Pasted image 20251023170408.png",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 8280,
+      "width": 1240,
+      "height": 815
+    },
+    {
+      "id": "10f1823f88c07c86",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Подходы ML.md",
+      "styleAttributes": {},
+      "x": 116,
+      "y": 8508,
+      "width": 400,
+      "height": 360,
+      "color": "2"
+    },
+    {
+      "id": "5b9e73e322ac7c8a",
+      "type": "file",
+      "file": "images/Pasted image 20251023170438.png",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 9312,
+      "width": 1240,
+      "height": 856
+    },
+    {
+      "id": "724dfb61f05d6862",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Пример аномалий.md",
+      "styleAttributes": {},
+      "x": 116,
+      "y": 9570,
+      "width": 400,
+      "height": 340,
+      "color": "6"
+    },
+    {
+      "id": "d6a968cf3c6936be",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Метамодели.md",
+      "styleAttributes": {},
+      "x": 66,
+      "y": 10640,
+      "width": 500,
+      "height": 489,
+      "color": "#ff0000"
+    },
+    {
+      "id": "32e7cddb9ec1a977",
+      "type": "file",
+      "file": "images/Pasted image 20251023171200.png",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 10556,
+      "width": 1565,
+      "height": 657
+    },
+    {
+      "id": "d6aee39b6e0b9fb0",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Профайлер.md",
+      "styleAttributes": {},
+      "x": 129,
+      "y": 11520,
+      "width": 374,
+      "height": 314,
+      "color": "2"
+    },
+    {
+      "id": "b0fcd6895c14cdd1",
+      "type": "file",
+      "file": "images/Pasted image 20251023171615.png",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 11519,
+      "width": 1505,
+      "height": 791
+    },
+    {
+      "id": "d7e778e035455c96",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Графовые свёртки/Графовые свёртки.md",
+      "styleAttributes": {},
+      "x": 77,
+      "y": 12120,
+      "width": 489,
+      "height": 480,
+      "color": "#ff0000"
+    },
+    {
+      "id": "08e661bc1283d2f9",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Графовые свёртки/Процесс валидации в обучении с графовыми свёртками.md",
+      "styleAttributes": {},
+      "x": 122,
+      "y": 12837,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "d9b1e98cb74d6626",
+      "type": "file",
+      "file": "images/Pasted image 20251023172059.png",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 12717,
+      "width": 1354,
+      "height": 640
+    },
+    {
+      "id": "df90ea96fef425c3",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Кластеризация в анализе событий/Кластеризация в анализе событий.md",
+      "styleAttributes": {},
+      "x": 55,
+      "y": 13720,
+      "width": 534,
+      "height": 427,
+      "color": "1"
+    },
+    {
+      "id": "2ae1bb572408b878",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Регрессия в анализе событий/Регрессия в анализе событий.md",
+      "styleAttributes": {},
+      "x": 99,
+      "y": 14480,
+      "width": 446,
+      "height": 463,
+      "color": "1"
+    },
+    {
+      "id": "5a02da8c1ea764ce",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Кластеризация в анализе событий/Кластеризация логов.md",
+      "styleAttributes": {},
+      "x": 1173,
+      "y": 13734,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "9ed35e1655fdd8c5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Регрессия в анализе событий/Применение регрессии.md",
+      "styleAttributes": {},
+      "x": 1173,
+      "y": 14495,
+      "width": 433,
+      "height": 433,
+      "color": "6"
+    },
+    {
+      "id": "4a9f6062556fde34",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Типовые сценарии.md",
+      "styleAttributes": {},
+      "x": 122,
+      "y": 15280,
+      "width": 400,
+      "height": 246,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "6d27c09aefed9754",
+      "styleAttributes": {},
+      "fromNode": "a0651bfec228ecd9",
+      "fromSide": "bottom",
+      "toNode": "da2ecd3e33e85a0c",
+      "toSide": "top"
+    },
+    {
+      "id": "a23f15623301d5e2",
+      "styleAttributes": {},
+      "fromNode": "da2ecd3e33e85a0c",
+      "fromSide": "bottom",
+      "toNode": "9b05f596c522990d",
+      "toSide": "top"
+    },
+    {
+      "id": "a1ec620cec93bd39",
+      "styleAttributes": {},
+      "fromNode": "da2ecd3e33e85a0c",
+      "fromSide": "bottom",
+      "toNode": "f48c1f3831c547f7",
+      "toSide": "top"
+    },
+    {
+      "id": "19d9d2a11b72ddf2",
+      "styleAttributes": {},
+      "fromNode": "9b05f596c522990d",
+      "fromSide": "bottom",
+      "toNode": "4a12fad2dfb9f109",
+      "toSide": "top"
+    },
+    {
+      "id": "07bdc242dcebf9bc",
+      "styleAttributes": {},
+      "fromNode": "f48c1f3831c547f7",
+      "fromSide": "bottom",
+      "toNode": "4a12fad2dfb9f109",
+      "toSide": "top"
+    },
+    {
+      "id": "0e38fd6de38f4e15",
+      "styleAttributes": {},
+      "fromNode": "4a12fad2dfb9f109",
+      "fromSide": "right",
+      "toNode": "50fffcc1a4ba2666",
+      "toSide": "left"
+    },
+    {
+      "id": "6a978aa0cc076ac8",
+      "styleAttributes": {},
+      "fromNode": "4a12fad2dfb9f109",
+      "fromSide": "bottom",
+      "toNode": "2672b0a389a3f012",
+      "toSide": "top"
+    },
+    {
+      "id": "c5b241fb85799789",
+      "styleAttributes": {},
+      "fromNode": "2672b0a389a3f012",
+      "fromSide": "bottom",
+      "toNode": "c34735f5582128a7",
+      "toSide": "top"
+    },
+    {
+      "id": "29ab10de390fa3b7",
+      "styleAttributes": {},
+      "fromNode": "c34735f5582128a7",
+      "fromSide": "left",
+      "toNode": "fa889eaa80becd48",
+      "toSide": "right"
+    },
+    {
+      "id": "dc2a25cb2dc3580a",
+      "styleAttributes": {},
+      "fromNode": "c34735f5582128a7",
+      "fromSide": "left",
+      "toNode": "a891f6716048856c",
+      "toSide": "right"
+    },
+    {
+      "id": "000a87b56a174c8d",
+      "styleAttributes": {},
+      "fromNode": "c34735f5582128a7",
+      "fromSide": "right",
+      "toNode": "3be0e1deb43dbaf7",
+      "toSide": "left"
+    },
+    {
+      "id": "50e67c79d437d42b",
+      "styleAttributes": {},
+      "fromNode": "3be0e1deb43dbaf7",
+      "fromSide": "right",
+      "toNode": "795e1278dde7b1e7",
+      "toSide": "left"
+    },
+    {
+      "id": "e147f01dbd19e229",
+      "styleAttributes": {},
+      "fromNode": "c34735f5582128a7",
+      "fromSide": "bottom",
+      "toNode": "5a214e22a0026600",
+      "toSide": "top"
+    },
+    {
+      "id": "dfd61d9f29915288",
+      "styleAttributes": {},
+      "fromNode": "5a214e22a0026600",
+      "fromSide": "right",
+      "toNode": "0e9cf9e3a389da6c",
+      "toSide": "left"
+    },
+    {
+      "id": "d7c3c05080572ead",
+      "styleAttributes": {},
+      "fromNode": "5a214e22a0026600",
+      "fromSide": "left",
+      "toNode": "38d0b7fdad8af5ba",
+      "toSide": "right"
+    },
+    {
+      "id": "af4f9d828834f3c0",
+      "styleAttributes": {},
+      "fromNode": "5a214e22a0026600",
+      "fromSide": "bottom",
+      "toNode": "81aeaebc88007cf5",
+      "toSide": "top"
+    },
+    {
+      "id": "6b3c3bdfb1711535",
+      "styleAttributes": {},
+      "fromNode": "81aeaebc88007cf5",
+      "fromSide": "bottom",
+      "toNode": "0b1f4d52125fd3ca",
+      "toSide": "top"
+    },
+    {
+      "id": "ae422d8216088cc2",
+      "styleAttributes": {},
+      "fromNode": "0b1f4d52125fd3ca",
+      "fromSide": "bottom",
+      "toNode": "28467dffa2d546db",
+      "toSide": "top"
+    },
+    {
+      "id": "953be2be1d844fe2",
+      "styleAttributes": {},
+      "fromNode": "28467dffa2d546db",
+      "fromSide": "right",
+      "toNode": "5f83ff570e83bb4d",
+      "toSide": "left"
+    },
+    {
+      "id": "37b52a2c37ba56ef",
+      "styleAttributes": {},
+      "fromNode": "28467dffa2d546db",
+      "fromSide": "bottom",
+      "toNode": "bc6c88c4f5d68339",
+      "toSide": "top"
+    },
+    {
+      "id": "2b8b4599d313d26a",
+      "styleAttributes": {},
+      "fromNode": "bc6c88c4f5d68339",
+      "fromSide": "right",
+      "toNode": "7ffd462c6423685c",
+      "toSide": "left"
+    },
+    {
+      "id": "2676fdd620e82e7d",
+      "styleAttributes": {},
+      "fromNode": "bc6c88c4f5d68339",
+      "fromSide": "bottom",
+      "toNode": "10f1823f88c07c86",
+      "toSide": "top"
+    },
+    {
+      "id": "2798cf655943d051",
+      "styleAttributes": {},
+      "fromNode": "fbaf6f7a7794efb9",
+      "fromSide": "left",
+      "toNode": "10f1823f88c07c86",
+      "toSide": "right"
+    },
+    {
+      "id": "1abae0b1a511d8b0",
+      "styleAttributes": {},
+      "fromNode": "10f1823f88c07c86",
+      "fromSide": "bottom",
+      "toNode": "724dfb61f05d6862",
+      "toSide": "top"
+    },
+    {
+      "id": "61edcd2b256fe637",
+      "styleAttributes": {},
+      "fromNode": "5b9e73e322ac7c8a",
+      "fromSide": "left",
+      "toNode": "724dfb61f05d6862",
+      "toSide": "right"
+    },
+    {
+      "id": "aa6bc0ba3950ef00",
+      "styleAttributes": {},
+      "fromNode": "724dfb61f05d6862",
+      "fromSide": "bottom",
+      "toNode": "d6a968cf3c6936be",
+      "toSide": "top"
+    },
+    {
+      "id": "a40e4357f19ef925",
+      "styleAttributes": {},
+      "fromNode": "32e7cddb9ec1a977",
+      "fromSide": "left",
+      "toNode": "d6a968cf3c6936be",
+      "toSide": "right"
+    },
+    {
+      "id": "a8045da9ec68845e",
+      "styleAttributes": {},
+      "fromNode": "d6a968cf3c6936be",
+      "fromSide": "bottom",
+      "toNode": "d6aee39b6e0b9fb0",
+      "toSide": "top"
+    },
+    {
+      "id": "319876b3f20da551",
+      "styleAttributes": {},
+      "fromNode": "d6aee39b6e0b9fb0",
+      "fromSide": "right",
+      "toNode": "b0fcd6895c14cdd1",
+      "toSide": "left"
+    },
+    {
+      "id": "2dbdcbd250116959",
+      "styleAttributes": {},
+      "fromNode": "b0fcd6895c14cdd1",
+      "fromSide": "left",
+      "toNode": "d7e778e035455c96",
+      "toSide": "top"
+    },
+    {
+      "id": "cebab4a180db8391",
+      "styleAttributes": {},
+      "fromNode": "d6aee39b6e0b9fb0",
+      "fromSide": "bottom",
+      "toNode": "d7e778e035455c96",
+      "toSide": "top"
+    },
+    {
+      "id": "b7f631541f8f0f33",
+      "styleAttributes": {},
+      "fromNode": "d7e778e035455c96",
+      "fromSide": "bottom",
+      "toNode": "08e661bc1283d2f9",
+      "toSide": "top"
+    },
+    {
+      "id": "0e71dcfdb06dde68",
+      "styleAttributes": {},
+      "fromNode": "d9b1e98cb74d6626",
+      "fromSide": "left",
+      "toNode": "08e661bc1283d2f9",
+      "toSide": "right"
+    },
+    {
+      "id": "22cce20b3f2a02c8",
+      "styleAttributes": {},
+      "fromNode": "08e661bc1283d2f9",
+      "fromSide": "bottom",
+      "toNode": "df90ea96fef425c3",
+      "toSide": "top"
+    },
+    {
+      "id": "828b1ef9477781eb",
+      "styleAttributes": {},
+      "fromNode": "df90ea96fef425c3",
+      "fromSide": "right",
+      "toNode": "5a02da8c1ea764ce",
+      "toSide": "left"
+    },
+    {
+      "id": "c466859cf6671755",
+      "styleAttributes": {},
+      "fromNode": "df90ea96fef425c3",
+      "fromSide": "bottom",
+      "toNode": "2ae1bb572408b878",
+      "toSide": "top"
+    },
+    {
+      "id": "937df7947cb0ccdc",
+      "styleAttributes": {},
+      "fromNode": "2ae1bb572408b878",
+      "fromSide": "right",
+      "toNode": "9ed35e1655fdd8c5",
+      "toSide": "left"
+    },
+    {
+      "id": "e3cf0be648b1d6c6",
+      "styleAttributes": {},
+      "fromNode": "2ae1bb572408b878",
+      "fromSide": "bottom",
+      "toNode": "4a9f6062556fde34",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
