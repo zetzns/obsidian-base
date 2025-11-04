@@ -11,16 +11,6 @@
       "label": "Модель и Алгоритм обучения"
     },
     {
-      "id": "015e8bdf22e70eb4",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -873,
-      "y": 4140,
-      "width": 1303,
-      "height": 2857,
-      "label": "Данные"
-    },
-    {
       "id": "3e9e7e039adc0dc2",
       "type": "group",
       "styleAttributes": {},
@@ -31,6 +21,16 @@
       "label": "Основные виды моделей"
     },
     {
+      "id": "015e8bdf22e70eb4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -873,
+      "y": 4140,
+      "width": 1303,
+      "height": 2857,
+      "label": "Данные"
+    },
+    {
       "id": "350d95126240c95b",
       "type": "group",
       "styleAttributes": {},
@@ -39,6 +39,17 @@
       "width": 2220,
       "height": 1247,
       "label": "Качество модели"
+    },
+    {
+      "id": "203a3cedf129a73b",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/База/Модель.md",
+      "styleAttributes": {},
+      "x": 697,
+      "y": -1160,
+      "width": 400,
+      "height": 271,
+      "color": "5"
     },
     {
       "id": "cdeb5fb6c43ac1b6",
@@ -129,28 +140,6 @@
       "color": "4"
     },
     {
-      "id": "fb9fb4a32ee94367",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/База/Виды задач обучения с учителем.md",
-      "styleAttributes": {},
-      "x": 1645,
-      "y": 640,
-      "width": 580,
-      "height": 880,
-      "color": "3"
-    },
-    {
-      "id": "07e4dfdb310392d5",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/База/Более сложные формы.md",
-      "styleAttributes": {},
-      "x": 1645,
-      "y": 1624,
-      "width": 580,
-      "height": 680,
-      "color": "4"
-    },
-    {
       "id": "9ffe31eb71fc3241",
       "type": "file",
       "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Оптимальные модели.md",
@@ -162,17 +151,6 @@
       "color": "4"
     },
     {
-      "id": "52b53b0f49f8c706",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Бинарная классификация точек на плоскости.md",
-      "styleAttributes": {},
-      "x": 1199,
-      "y": 9102,
-      "width": 630,
-      "height": 1151,
-      "color": "6"
-    },
-    {
       "id": "3514e48b99a0f09e",
       "type": "file",
       "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Поиск оптимального значения метрик.md",
@@ -182,61 +160,6 @@
       "width": 495,
       "height": 594,
       "color": "6"
-    },
-    {
-      "id": "abe304bbca959f44",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Данные/Данные.md",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 4160,
-      "width": 400,
-      "height": 400,
-      "color": "#ff0000"
-    },
-    {
-      "id": "f2a22a9177aceefc",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Функция потерь в задаче бинарной классификации.md",
-      "styleAttributes": {},
-      "x": 1333,
-      "y": 10382,
-      "width": 363,
-      "height": 484,
-      "color": "2"
-    },
-    {
-      "id": "e010a0191f3bb7eb",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Модель.md",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 7200,
-      "width": 480,
-      "height": 518,
-      "color": "#e60000"
-    },
-    {
-      "id": "3dcead565b50fb86",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Алгоритм обучения.md",
-      "styleAttributes": {},
-      "x": -739,
-      "y": 8680,
-      "width": 400,
-      "height": 422,
-      "color": "#ff0000"
-    },
-    {
-      "id": "b552f3fc692340af",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Обобщающая способность.md",
-      "styleAttributes": {},
-      "x": -735,
-      "y": 11960,
-      "width": 400,
-      "height": 400,
-      "color": "1"
     },
     {
       "id": "6bfc8afa211799ce",
@@ -294,15 +217,37 @@
       "color": "5"
     },
     {
-      "id": "aa894e279727b0be",
+      "id": "b0c10c6de01a1a57",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/База/Другие виды ML.md",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Переобучение.md",
       "styleAttributes": {},
-      "x": 87,
-      "y": 13,
+      "x": 2009,
+      "y": 12585,
       "width": 400,
-      "height": 431,
-      "color": "4"
+      "height": 302,
+      "color": "2"
+    },
+    {
+      "id": "52b53b0f49f8c706",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Бинарная классификация точек на плоскости.md",
+      "styleAttributes": {},
+      "x": 1199,
+      "y": 9102,
+      "width": 630,
+      "height": 1151,
+      "color": "6"
+    },
+    {
+      "id": "f2a22a9177aceefc",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Бинарная классификация/Функция потерь в задаче бинарной классификации.md",
+      "styleAttributes": {},
+      "x": 1333,
+      "y": 10382,
+      "width": 363,
+      "height": 484,
+      "color": "2"
     },
     {
       "id": "35bb59fd31c3a781",
@@ -314,17 +259,6 @@
       "width": 500,
       "height": 914,
       "color": "#ff0000"
-    },
-    {
-      "id": "b0c10c6de01a1a57",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Переобучение.md",
-      "styleAttributes": {},
-      "x": 2009,
-      "y": 12585,
-      "width": 400,
-      "height": 302,
-      "color": "2"
     },
     {
       "id": "428338976b51e942",
@@ -360,15 +294,81 @@
       "color": "5"
     },
     {
-      "id": "203a3cedf129a73b",
+      "id": "abe304bbca959f44",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/notes/База/Модель.md",
+      "file": "sync/STUDY/Programming/ML/notes/Данные/Данные.md",
       "styleAttributes": {},
-      "x": 697,
-      "y": -1160,
+      "x": -740,
+      "y": 4160,
       "width": 400,
-      "height": 271,
-      "color": "5"
+      "height": 400,
+      "color": "#ff0000"
+    },
+    {
+      "id": "e010a0191f3bb7eb",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Модель.md",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 7200,
+      "width": 480,
+      "height": 518,
+      "color": "#e60000"
+    },
+    {
+      "id": "3dcead565b50fb86",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Алгоритм обучения.md",
+      "styleAttributes": {},
+      "x": -739,
+      "y": 8680,
+      "width": 400,
+      "height": 422,
+      "color": "#ff0000"
+    },
+    {
+      "id": "b552f3fc692340af",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/Модель и Алгоритм обучения/Выбор модели/Обобщающая способность.md",
+      "styleAttributes": {},
+      "x": -735,
+      "y": 11960,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "aa894e279727b0be",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/База/Другие виды ML.md",
+      "styleAttributes": {},
+      "x": 87,
+      "y": 13,
+      "width": 400,
+      "height": 431,
+      "color": "4"
+    },
+    {
+      "id": "fb9fb4a32ee94367",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/База/Виды задач обучения с учителем.md",
+      "styleAttributes": {},
+      "x": 1645,
+      "y": 640,
+      "width": 580,
+      "height": 880,
+      "color": "3"
+    },
+    {
+      "id": "07e4dfdb310392d5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/notes/База/Более сложные формы.md",
+      "styleAttributes": {},
+      "x": 1645,
+      "y": 1624,
+      "width": 580,
+      "height": 680,
+      "color": "4"
     }
   ],
   "edges": [

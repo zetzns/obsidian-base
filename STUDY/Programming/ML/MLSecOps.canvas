@@ -410,6 +410,26 @@
       "width": 400,
       "height": 246,
       "color": "6"
+    },
+    {
+      "id": "f12f94aea1e279e5",
+      "x": 3768,
+      "y": -558,
+      "width": 432,
+      "height": 400,
+      "color": "#ff0000",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Противодействие сетевым атакам/Данные/Как будем ловить.md"
+    },
+    {
+      "id": "84533a1dc33e82b6",
+      "x": 3784,
+      "y": 40,
+      "width": 400,
+      "height": 400,
+      "color": "2",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/Противодействие сетевым атакам/Данные/Проблемы.md"
     }
   ],
   "edges": [
@@ -715,6 +735,22 @@
       "fromNode": "2ae1bb572408b878",
       "fromSide": "bottom",
       "toNode": "4a9f6062556fde34",
+      "toSide": "top"
+    },
+    {
+      "id": "94fda5f4965865ba",
+      "styleAttributes": {},
+      "fromNode": "a0651bfec228ecd9",
+      "fromSide": "right",
+      "toNode": "f12f94aea1e279e5",
+      "toSide": "left"
+    },
+    {
+      "id": "770b875731ce8fb4",
+      "styleAttributes": {},
+      "fromNode": "f12f94aea1e279e5",
+      "fromSide": "bottom",
+      "toNode": "84533a1dc33e82b6",
       "toSide": "top"
     }
   ],

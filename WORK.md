@@ -6,19 +6,16 @@ kanban-plugin: board
 
 ## tasks
 
-- [ ] Manager: архитектура
-- [ ] Manager: модуль связи с CFG
-- [ ] Manager: модуль обработки CFG
-- [ ] Manager: модуль связи с LLM
-- [ ] Manager: модуль обработки запросов LLM
-- [ ] Manager: связь CFG и LLM - обработка сигналов
-- [ ] Manager: обёртка
+- [ ] ML unix scripts
+- [ ] Обед
+- [ ] SIEM & NAT
+- [ ] ML traffic
+- [ ] ужин
+- [ ] WAF
 
 
 ## On pen
 
-- [ ] CFG: тесты
-- [ ] Manager: идея
 
 
 ## READY
