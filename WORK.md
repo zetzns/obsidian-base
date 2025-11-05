@@ -6,16 +6,15 @@ kanban-plugin: board
 
 ## tasks
 
-- [ ] ML unix scripts
 - [ ] Обед
 - [ ] SIEM & NAT
-- [ ] ML traffic
 - [ ] ужин
-- [ ] WAF
 
 
 ## On pen
 
+- [ ] работа
+- [ ] ML handbook
 
 
 ## READY
