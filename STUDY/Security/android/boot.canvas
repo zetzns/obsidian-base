@@ -1,263 +1,329 @@
 {
-	"nodes":[
-		{
-			"id":"56213ad8398658e9",
-			"type":"text",
-			"text":"# **Подача питания**",
-			"styleAttributes":{},
-			"x":-288,
-			"y":-208,
-			"width":328,
-			"height":68,
-			"color":"1"
-		},
-		{
-			"id":"5b054cfb6f747579",
-			"type":"text",
-			"text":"## Запуск `boot ROM`",
-			"styleAttributes":{},
-			"x":0,
-			"y":20,
-			"width":324,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"65ed913077acdccb",
-			"type":"text",
-			"text":"## Передача управления ядру",
-			"styleAttributes":{},
-			"x":-700,
-			"y":210,
-			"width":325,
-			"height":100,
-			"color":"3"
-		},
-		{
-			"id":"fc3a810b3ecc5c92",
-			"type":"text",
-			"text":"### Извлечение из NAND-памяти устройства загрузчика (aboot с поддержкой fastboot) и передача управления ему",
-			"styleAttributes":{},
-			"x":400,
-			"y":-70,
-			"width":362,
-			"height":240,
-			"color":"4"
-		},
-		{
-			"id":"3ad9291cfeaeee34",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909143744.png",
-			"styleAttributes":{},
-			"x":324,
-			"y":260,
-			"width":555,
-			"height":940
-		},
-		{
-			"id":"982e5cb7e9a552ae",
-			"type":"text",
-			"text":"# Загрузка Android",
-			"styleAttributes":{},
-			"x":-832,
-			"y":984,
-			"width":264,
-			"height":141,
-			"color":"1"
-		},
-		{
-			"id":"b41a57a0a2793431",
-			"type":"text",
-			"text":"# Загрузка recovery",
-			"styleAttributes":{},
-			"x":-431,
-			"y":984,
-			"width":287,
-			"height":141,
-			"color":"1"
-		},
-		{
-			"id":"a597dea5a97ea81c",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909143810.png",
-			"styleAttributes":{},
-			"x":-760,
-			"y":520,
-			"width":520,
-			"height":254
-		},
-		{
-			"id":"f561776796173c46",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909144157.png",
-			"styleAttributes":{},
-			"x":0,
-			"y":1288,
-			"width":972,
-			"height":671
-		},
-		{
-			"id":"a512d0ca1d40678b",
-			"type":"text",
-			"text":"## Передача управления разделу `boot`",
-			"styleAttributes":{},
-			"x":-1016,
-			"y":1300,
-			"width":316,
-			"height":166,
-			"color":"3"
-		},
-		{
-			"id":"9f739e48e5c09305",
-			"type":"text",
-			"text":"### Сразу за ним в памяти идёт gzip/cpio образ RAM-диска",
-			"styleAttributes":{},
-			"x":-660,
-			"y":1300,
-			"width":270,
-			"height":163,
-			"color":"4"
-		},
-		{
-			"id":"320d178b80f93aea",
-			"type":"text",
-			"text":"## Реализация конфига ueventd.rc",
-			"styleAttributes":{},
-			"x":-989,
-			"y":2166,
-			"width":262,
-			"height":154,
-			"color":"3"
-		},
-		{
-			"id":"e820a93ce4fba717",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909144214.png",
-			"styleAttributes":{},
-			"x":-660,
-			"y":2041,
-			"width":1101,
-			"height":405
-		},
-		{
-			"id":"cc4b749ec9933fb8",
-			"type":"text",
-			"text":"# Реализация init",
-			"styleAttributes":{},
-			"x":-1016,
-			"y":2640,
-			"width":325,
-			"height":86,
-			"color":"1"
-		},
-		{
-			"id":"69f5419f01a19dd7",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909144529.png",
-			"styleAttributes":{},
-			"x":-660,
-			"y":2501,
-			"width":1101,
-			"height":502
-		},
-		{
-			"id":"3635a6f235206a6a",
-			"type":"text",
-			"text":"# Запуск `Zygote`",
-			"styleAttributes":{},
-			"x":-1037,
-			"y":3240,
-			"width":377,
-			"height":71,
-			"color":"1"
-		},
-		{
-			"id":"93720e3d107fc65a",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909144703.png",
-			"styleAttributes":{},
-			"x":-600,
-			"y":3097,
-			"width":1040,
-			"height":465
-		},
-		{
-			"id":"f54f413ce2afbab2",
-			"type":"text",
-			"text":"### На самом деле, `Zygote` просто делает `fork` в режиме copy-on-write уже существующего процесса с загруженным фреймворком, а затем запускает `system-server`, который включает в себя большинство высокоуровневых системных сервисов (Window Manager, Status bar, Package Manager, Activity Manager).",
-			"styleAttributes":{},
-			"x":-532,
-			"y":3600,
-			"width":905,
-			"height":286,
-			"color":"4"
-		},
-		{
-			"id":"a6c7fcb16832068f",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909144808.png",
-			"styleAttributes":{},
-			"x":-563,
-			"y":3960,
-			"width":967,
-			"height":435
-		},
-		{
-			"id":"b456bb54840b2501",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909144824.png",
-			"styleAttributes":{},
-			"x":-1465,
-			"y":4480,
-			"width":1232,
-			"height":466,
-			"color":"1"
-		},
-		{
-			"id":"07b615807cb43052",
-			"type":"file",
-			"file":"sync/STUDY/Security/android/Android RunTime.canvas",
-			"styleAttributes":{},
-			"x":-1416,
-			"y":3486,
-			"width":400,
-			"height":400
-		},
-		{
-			"id":"acf3f319f2790b5e",
-			"type":"text",
-			"text":"### aboot читает таблицу разделов и передаёт управления ядру в разделе `boot`",
-			"styleAttributes":{},
-			"x":-288,
-			"y":210,
-			"width":372,
-			"height":190,
-			"color":"4"
-		},
-		{
-			"id":"5032d1fd6a6151c0",
-			"type":"text",
-			"text":"### aboot читает таблицу разделов и передаёт управления ядру в разделе `boot`",
-			"styleAttributes":{},
-			"x":-288,
-			"y":215,
-			"width":372,
-			"height":190,
-			"color":"4"
-		}
-	],
-	"edges":[
-		{"id":"0411b72334b3acfd","fromNode":"56213ad8398658e9","fromSide":"bottom","toNode":"5b054cfb6f747579","toSide":"top"},
-		{"id":"c3461a7ec0d61424","fromNode":"5b054cfb6f747579","fromSide":"bottom","toNode":"65ed913077acdccb","toSide":"top"},
-		{"id":"bcf6c0279df21424","fromNode":"65ed913077acdccb","fromSide":"bottom","toNode":"982e5cb7e9a552ae","toSide":"top"},
-		{"id":"a089b2ee9691d5ac","fromNode":"65ed913077acdccb","fromSide":"bottom","toNode":"b41a57a0a2793431","toSide":"top"},
-		{"id":"179c3f25980f16b6","fromNode":"982e5cb7e9a552ae","fromSide":"bottom","toNode":"a512d0ca1d40678b","toSide":"top"},
-		{"id":"7ec1cff09ee91888","fromNode":"a512d0ca1d40678b","fromSide":"bottom","toNode":"320d178b80f93aea","toSide":"top"},
-		{"id":"47abc2338728ae4d","fromNode":"f561776796173c46","fromSide":"left","toNode":"9f739e48e5c09305","toSide":"right"},
-		{"id":"85ef89eec533f355","fromNode":"320d178b80f93aea","fromSide":"bottom","toNode":"cc4b749ec9933fb8","toSide":"top"},
-		{"id":"2bf4eefd51be40a8","fromNode":"cc4b749ec9933fb8","fromSide":"bottom","toNode":"3635a6f235206a6a","toSide":"top"},
-		{"id":"bc24f26a7ad3857e","fromNode":"3635a6f235206a6a","fromSide":"bottom","toNode":"b456bb54840b2501","toSide":"top"},
-		{"id":"e41019a3fd2452f4","fromNode":"3635a6f235206a6a","fromSide":"bottom","toNode":"07b615807cb43052","toSide":"top"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "56213ad8398658e9",
+      "type": "text",
+      "text": "# **Подача питания**",
+      "styleAttributes": {},
+      "x": -288,
+      "y": -208,
+      "width": 328,
+      "height": 68,
+      "color": "1"
+    },
+    {
+      "id": "5b054cfb6f747579",
+      "type": "text",
+      "text": "## Запуск `boot ROM`",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 20,
+      "width": 324,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "65ed913077acdccb",
+      "type": "text",
+      "text": "## Передача управления ядру",
+      "styleAttributes": {},
+      "x": -700,
+      "y": 210,
+      "width": 325,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "fc3a810b3ecc5c92",
+      "type": "text",
+      "text": "### Извлечение из NAND-памяти устройства загрузчика (aboot с поддержкой fastboot) и передача управления ему",
+      "styleAttributes": {},
+      "x": 400,
+      "y": -70,
+      "width": 362,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "3ad9291cfeaeee34",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909143744.png",
+      "styleAttributes": {},
+      "x": 324,
+      "y": 260,
+      "width": 555,
+      "height": 940
+    },
+    {
+      "id": "982e5cb7e9a552ae",
+      "type": "text",
+      "text": "# Загрузка Android",
+      "styleAttributes": {},
+      "x": -832,
+      "y": 984,
+      "width": 264,
+      "height": 141,
+      "color": "1"
+    },
+    {
+      "id": "b41a57a0a2793431",
+      "type": "text",
+      "text": "# Загрузка recovery",
+      "styleAttributes": {},
+      "x": -431,
+      "y": 984,
+      "width": 287,
+      "height": 141,
+      "color": "1"
+    },
+    {
+      "id": "a597dea5a97ea81c",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909143810.png",
+      "styleAttributes": {},
+      "x": -760,
+      "y": 520,
+      "width": 520,
+      "height": 254
+    },
+    {
+      "id": "f561776796173c46",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909144157.png",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1288,
+      "width": 972,
+      "height": 671
+    },
+    {
+      "id": "a512d0ca1d40678b",
+      "type": "text",
+      "text": "## Передача управления разделу `boot`",
+      "styleAttributes": {},
+      "x": -1016,
+      "y": 1300,
+      "width": 316,
+      "height": 166,
+      "color": "3"
+    },
+    {
+      "id": "9f739e48e5c09305",
+      "type": "text",
+      "text": "### Сразу за ним в памяти идёт gzip/cpio образ RAM-диска",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 1300,
+      "width": 270,
+      "height": 163,
+      "color": "4"
+    },
+    {
+      "id": "320d178b80f93aea",
+      "type": "text",
+      "text": "## Реализация конфига ueventd.rc",
+      "styleAttributes": {},
+      "x": -989,
+      "y": 2166,
+      "width": 262,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "e820a93ce4fba717",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909144214.png",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 2041,
+      "width": 1101,
+      "height": 405
+    },
+    {
+      "id": "cc4b749ec9933fb8",
+      "type": "text",
+      "text": "# Реализация init",
+      "styleAttributes": {},
+      "x": -1016,
+      "y": 2640,
+      "width": 325,
+      "height": 86,
+      "color": "1"
+    },
+    {
+      "id": "69f5419f01a19dd7",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909144529.png",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 2501,
+      "width": 1101,
+      "height": 502
+    },
+    {
+      "id": "3635a6f235206a6a",
+      "type": "text",
+      "text": "# Запуск `Zygote`",
+      "styleAttributes": {},
+      "x": -1037,
+      "y": 3240,
+      "width": 377,
+      "height": 71,
+      "color": "1"
+    },
+    {
+      "id": "93720e3d107fc65a",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909144703.png",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 3097,
+      "width": 1040,
+      "height": 465
+    },
+    {
+      "id": "f54f413ce2afbab2",
+      "type": "text",
+      "text": "### На самом деле, `Zygote` просто делает `fork` в режиме copy-on-write уже существующего процесса с загруженным фреймворком, а затем запускает `system-server`, который включает в себя большинство высокоуровневых системных сервисов (Window Manager, Status bar, Package Manager, Activity Manager).",
+      "styleAttributes": {},
+      "x": -532,
+      "y": 3600,
+      "width": 905,
+      "height": 286,
+      "color": "4"
+    },
+    {
+      "id": "a6c7fcb16832068f",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909144808.png",
+      "styleAttributes": {},
+      "x": -563,
+      "y": 3960,
+      "width": 967,
+      "height": 435
+    },
+    {
+      "id": "b456bb54840b2501",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909144824.png",
+      "styleAttributes": {},
+      "x": -1465,
+      "y": 4480,
+      "width": 1232,
+      "height": 466,
+      "color": "1"
+    },
+    {
+      "id": "07b615807cb43052",
+      "type": "file",
+      "file": "sync/STUDY/Security/android/Android RunTime.canvas",
+      "styleAttributes": {},
+      "x": -1416,
+      "y": 3486,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "acf3f319f2790b5e",
+      "type": "text",
+      "text": "### aboot читает таблицу разделов и передаёт управления ядру в разделе `boot`",
+      "styleAttributes": {},
+      "x": -288,
+      "y": 210,
+      "width": 372,
+      "height": 190,
+      "color": "4"
+    },
+    {
+      "id": "5032d1fd6a6151c0",
+      "type": "text",
+      "text": "### aboot читает таблицу разделов и передаёт управления ядру в разделе `boot`",
+      "styleAttributes": {},
+      "x": -288,
+      "y": 215,
+      "width": 372,
+      "height": 190,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "0411b72334b3acfd",
+      "fromNode": "56213ad8398658e9",
+      "fromSide": "bottom",
+      "toNode": "5b054cfb6f747579",
+      "toSide": "top"
+    },
+    {
+      "id": "c3461a7ec0d61424",
+      "fromNode": "5b054cfb6f747579",
+      "fromSide": "bottom",
+      "toNode": "65ed913077acdccb",
+      "toSide": "top"
+    },
+    {
+      "id": "bcf6c0279df21424",
+      "fromNode": "65ed913077acdccb",
+      "fromSide": "bottom",
+      "toNode": "982e5cb7e9a552ae",
+      "toSide": "top"
+    },
+    {
+      "id": "a089b2ee9691d5ac",
+      "fromNode": "65ed913077acdccb",
+      "fromSide": "bottom",
+      "toNode": "b41a57a0a2793431",
+      "toSide": "top"
+    },
+    {
+      "id": "179c3f25980f16b6",
+      "fromNode": "982e5cb7e9a552ae",
+      "fromSide": "bottom",
+      "toNode": "a512d0ca1d40678b",
+      "toSide": "top"
+    },
+    {
+      "id": "7ec1cff09ee91888",
+      "fromNode": "a512d0ca1d40678b",
+      "fromSide": "bottom",
+      "toNode": "320d178b80f93aea",
+      "toSide": "top"
+    },
+    {
+      "id": "47abc2338728ae4d",
+      "fromNode": "f561776796173c46",
+      "fromSide": "left",
+      "toNode": "9f739e48e5c09305",
+      "toSide": "right"
+    },
+    {
+      "id": "85ef89eec533f355",
+      "fromNode": "320d178b80f93aea",
+      "fromSide": "bottom",
+      "toNode": "cc4b749ec9933fb8",
+      "toSide": "top"
+    },
+    {
+      "id": "2bf4eefd51be40a8",
+      "fromNode": "cc4b749ec9933fb8",
+      "fromSide": "bottom",
+      "toNode": "3635a6f235206a6a",
+      "toSide": "top"
+    },
+    {
+      "id": "bc24f26a7ad3857e",
+      "fromNode": "3635a6f235206a6a",
+      "fromSide": "bottom",
+      "toNode": "b456bb54840b2501",
+      "toSide": "top"
+    },
+    {
+      "id": "e41019a3fd2452f4",
+      "fromNode": "3635a6f235206a6a",
+      "fromSide": "bottom",
+      "toNode": "07b615807cb43052",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }

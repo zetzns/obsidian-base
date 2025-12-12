@@ -6,15 +6,12 @@ kanban-plugin: board
 
 ## tasks
 
-- [ ] Обед
 - [ ] SIEM & NAT
-- [ ] ужин
+- [ ] ML handbook
 
 
 ## On pen
 
-- [ ] работа
-- [ ] ML handbook
 
 
 ## READY

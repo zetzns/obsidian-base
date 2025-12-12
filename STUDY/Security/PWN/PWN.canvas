@@ -1,1520 +1,1542 @@
 {
-	"nodes":[
-		{
-			"id":"420df221af796f9f",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Основы/За чем будем следить?.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":632,
-			"width":400,
-			"height":531,
-			"color":"3"
-		},
-		{
-			"id":"3aedc12f9e50b6e9",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Основы/Но почему это работает?.md",
-			"styleAttributes":{},
-			"x":-237,
-			"y":609,
-			"width":400,
-			"height":554,
-			"color":"1"
-		},
-		{
-			"id":"2d0a9856a962505b",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Основы/Heap (куча).md",
-			"styleAttributes":{},
-			"x":1760,
-			"y":312,
-			"width":400,
-			"height":914,
-			"color":"4"
-		},
-		{
-			"id":"d7aab6d608ce5b03",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Основы/Stack.md",
-			"styleAttributes":{},
-			"x":1280,
-			"y":-354,
-			"width":400,
-			"height":1063,
-			"color":"4"
-		},
-		{
-			"id":"f18b1229038b99c9",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Переполнение/Байты в символы.md",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1756,
-			"width":400,
-			"height":707,
-			"color":"1"
-		},
-		{
-			"id":"81cc0b56295d9215",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Переполнение/Overwriting string.md",
-			"styleAttributes":{},
-			"x":1920,
-			"y":1840,
-			"width":400,
-			"height":539,
-			"color":"#ff0000"
-		},
-		{
-			"id":"3033c2cce21b8b73",
-			"type":"text",
-			"text":"# Переполнение",
-			"styleAttributes":{"textAlign":"center"},
-			"x":700,
-			"y":1360,
-			"width":360,
-			"height":120,
-			"color":"#ff0000"
-		},
-		{
-			"id":"e3420987607a12f6",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Переполнение/gets.md",
-			"styleAttributes":{},
-			"x":-124,
-			"y":1736,
-			"width":400,
-			"height":333,
-			"color":"2"
-		},
-		{
-			"id":"4ceddf7472e6771b",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Переполнение/scanf.md",
-			"styleAttributes":{},
-			"x":-124,
-			"y":2171,
-			"width":400,
-			"height":428,
-			"color":"2"
-		},
-		{
-			"id":"e80ac4efa7d4f5d2",
-			"type":"file",
-			"file":"sync/images/Pasted image 20241107204221.png",
-			"styleAttributes":{},
-			"x":-960,
-			"y":991,
-			"width":668,
-			"height":280
-		},
-		{
-			"id":"9ba1fa479d051ce4",
-			"type":"text",
-			"text":"# Он даёт сделать даже такое",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-846,
-			"y":831,
-			"width":440,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"deb4048b6b5614fd",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Основы/PWN. Что это такое?.md",
-			"styleAttributes":{},
-			"x":-237,
-			"y":-588,
-			"width":400,
-			"height":697,
-			"color":"#ff0000"
-		},
-		{
-			"id":"8bd8e150d79f271f",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Логирование.md",
-			"styleAttributes":{},
-			"x":-1091,
-			"y":3435,
-			"width":400,
-			"height":801,
-			"color":"3"
-		},
-		{
-			"id":"02ced833e8e632d4",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Создание паттернов.md",
-			"styleAttributes":{},
-			"x":-2706,
-			"y":3527,
-			"width":400,
-			"height":849,
-			"color":"3"
-		},
-		{
-			"id":"5f0653f6b9661409",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) ROP цепочки.md",
-			"styleAttributes":{},
-			"x":-1651,
-			"y":3527,
-			"width":400,
-			"height":709,
-			"color":"3"
-		},
-		{
-			"id":"6238aa465e8b4ad7",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Упаковка и распаковка бинарных форматов.md",
-			"styleAttributes":{},
-			"x":-3291,
-			"y":3554,
-			"width":400,
-			"height":822,
-			"color":"2"
-		},
-		{
-			"id":"201faeeedd6b84e3",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Шелкоды.md",
-			"styleAttributes":{},
-			"x":-2171,
-			"y":3554,
-			"width":400,
-			"height":622,
-			"color":"2"
-		},
-		{
-			"id":"3a94484c285a5c32",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) shellcode все команды.md",
-			"styleAttributes":{},
-			"x":-2051,
-			"y":4464,
-			"width":400,
-			"height":2305,
-			"color":"2"
-		},
-		{
-			"id":"889d4a974c1c2b43",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Байты в числа и наоборот.md",
-			"styleAttributes":{},
-			"x":-3106,
-			"y":4534,
-			"width":400,
-			"height":602,
-			"color":"2"
-		},
-		{
-			"id":"c3c1e83ef1a271ab",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/template.md",
-			"styleAttributes":{},
-			"x":-2610,
-			"y":5239,
-			"width":379,
-			"height":587,
-			"color":"1"
-		},
-		{
-			"id":"04e884092438c64c",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/pwntools + debug.md",
-			"styleAttributes":{},
-			"x":-2620,
-			"y":5919,
-			"width":400,
-			"height":462,
-			"color":"#ff0088"
-		},
-		{
-			"id":"659908bb57bbe7a7",
-			"type":"text",
-			"text":"# Управление соединениями",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-3391,
-			"y":2956,
-			"width":357,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"7fd46089161de3d0",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Запуск процессов.md",
-			"styleAttributes":{},
-			"x":-4310,
-			"y":3396,
-			"width":434,
-			"height":659,
-			"color":"3"
-		},
-		{
-			"id":"e439d76614200780",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Чтение до определённой строчки.md",
-			"styleAttributes":{},
-			"x":-4191,
-			"y":4376,
-			"width":400,
-			"height":486,
-			"color":"2"
-		},
-		{
-			"id":"e39586f54666a5d4",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Получение и обработка значений от программы.md",
-			"styleAttributes":{},
-			"x":-3968,
-			"y":5021,
-			"width":400,
-			"height":436,
-			"color":"2"
-		},
-		{
-			"id":"1fdfaa97c08f8263",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Соединение по TCP-UDP.md",
-			"styleAttributes":{},
-			"x":-3791,
-			"y":3439,
-			"width":400,
-			"height":797,
-			"color":"3"
-		},
-		{
-			"id":"88e06135bba87a1a",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Ввод.md",
-			"styleAttributes":{},
-			"x":-3691,
-			"y":4534,
-			"width":400,
-			"height":328,
-			"color":"3"
-		},
-		{
-			"id":"aabd0f70c770930c",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/qira/qira.md",
-			"styleAttributes":{},
-			"x":-4093,
-			"y":1248,
-			"width":400,
-			"height":1502,
-			"color":"#ff0000"
-		},
-		{
-			"id":"372d337c8830a955",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/qira/Но почему qira?.md",
-			"styleAttributes":{},
-			"x":-4933,
-			"y":1866,
-			"width":400,
-			"height":520,
-			"color":"4"
-		},
-		{
-			"id":"c1c033eb601e6905",
-			"type":"file",
-			"file":"sync/images/Pasted image 20241109005731.png",
-			"styleAttributes":{},
-			"x":-5213,
-			"y":1164,
-			"width":876,
-			"height":568
-		},
-		{
-			"id":"160f9e4dce02e742",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/qira/Запуск в виде сервера.md",
-			"styleAttributes":{},
-			"x":-5773,
-			"y":2322,
-			"width":400,
-			"height":643,
-			"color":"2"
-		},
-		{
-			"id":"1e4e646ca9b22830",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/qira/Отслеживание выполнения инструкций.md",
-			"styleAttributes":{},
-			"x":-5773,
-			"y":3157,
-			"width":400,
-			"height":470,
-			"color":"2"
-		},
-		{
-			"id":"951cb85b0e2420ba",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/qira/Отслеживание значений в памяти.md",
-			"styleAttributes":{},
-			"x":-5175,
-			"y":3492,
-			"width":400,
-			"height":499,
-			"color":"2"
-		},
-		{
-			"id":"88f364789d836060",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/qira/Управление qira-ой (Hotkeys).md",
-			"styleAttributes":{},
-			"x":-4933,
-			"y":2703,
-			"width":400,
-			"height":454,
-			"color":"3"
-		},
-		{
-			"id":"daca34871263aa6d",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/edb/Hotkeys.md",
-			"styleAttributes":{},
-			"x":-2485,
-			"y":-468,
-			"width":400,
-			"height":493,
-			"color":"4"
-		},
-		{
-			"id":"94c033c1f2c25052",
-			"type":"text",
-			"text":"# Минимум",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2931,
-			"y":-183,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"16df993a7520ddfc",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/edb/edb.md",
-			"styleAttributes":{},
-			"x":-3001,
-			"y":25,
-			"width":400,
-			"height":593,
-			"color":"#ff0000"
-		},
-		{
-			"id":"1eec01da78ef30ad",
-			"type":"file",
-			"file":"sync/images/Pasted image 20241107220112.png",
-			"styleAttributes":{},
-			"x":-3431,
-			"y":-1421,
-			"width":1260,
-			"height":839
-		},
-		{
-			"id":"e900225e84e4e6cb",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/edb/IDA + edb.md",
-			"styleAttributes":{},
-			"x":-2148,
-			"y":152,
-			"width":400,
-			"height":373,
-			"color":"3"
-		},
-		{
-			"id":"cea64aea7b0b8890",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/edb/Изменение значений памяти и регистров.md",
-			"styleAttributes":{},
-			"x":-3831,
-			"y":-354,
-			"width":400,
-			"height":676,
-			"color":"2"
-		},
-		{
-			"id":"94942aa22043f7f0",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/edb/Смена RIP.md",
-			"styleAttributes":{},
-			"x":-3631,
-			"y":468,
-			"width":400,
-			"height":488,
-			"color":"2"
-		},
-		{
-			"id":"2c31b5b904d1f535",
-			"type":"text",
-			"text":"# Инструменты",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2894,
-			"y":1248,
-			"width":360,
-			"height":120,
-			"color":"#ff0000"
-		},
-		{
-			"id":"55ddb07ea29a2d46",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) shellcode encoding.md",
-			"styleAttributes":{},
-			"x":-1451,
-			"y":4619,
-			"width":400,
-			"height":1448,
-			"color":"#ff0000"
-		},
-		{
-			"id":"042224d52f08f54a",
-			"type":"text",
-			"text":"# PWN",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-287,
-			"y":-1701,
-			"width":500,
-			"height":280,
-			"color":"#ff0000"
-		},
-		{
-			"id":"86fb5a196eb619b7",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/pwntools/pwntools.md",
-			"styleAttributes":{},
-			"x":-2630,
-			"y":2055,
-			"width":400,
-			"height":901,
-			"color":"#ff0000"
-		},
-		{
-			"id":"78535ae87e0f8b1c",
-			"type":"text",
-			"text":"# Логирование",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1728,
-			"y":2956,
-			"width":357,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"05f39c41ea7540e5",
-			"type":"text",
-			"text":"# Работа с данными\n",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2891,
-			"y":3166,
-			"width":357,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"47785100050623c7",
-			"type":"text",
-			"text":"# Создание payload-ов",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2291,
-			"y":3166,
-			"width":437,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"a063440a0f597f2a",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Переполнение/Куда будем бить?.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":1682,
-			"width":400,
-			"height":979,
-			"color":"1"
-		},
-		{
-			"id":"78f33e0047db29ac",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Вызов обычных функций в C.md",
-			"styleAttributes":{},
-			"x":1576,
-			"y":5963,
-			"width":400,
-			"height":815,
-			"color":"4"
-		},
-		{
-			"id":"1868021bae539301",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/libc.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":6212,
-			"width":400,
-			"height":834,
-			"color":"1"
-		},
-		{
-			"id":"410946375984d78c",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Вызов системных функций в C.md",
-			"styleAttributes":{},
-			"x":1576,
-			"y":6842,
-			"width":400,
-			"height":712,
-			"color":"6"
-		},
-		{
-			"id":"0c1080f75869a960",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Атака ret2libc.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":7555,
-			"width":400,
-			"height":619,
-			"color":"#ff0000"
-		},
-		{
-			"id":"13a6b7332a0016b3",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/ASLR и его обход.md",
-			"styleAttributes":{},
-			"x":1576,
-			"y":7601,
-			"width":400,
-			"height":526,
-			"color":"#ffffff"
-		},
-		{
-			"id":"56655d52193fd939",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Отключение рандомизации памяти.md",
-			"styleAttributes":{},
-			"x":120,
-			"y":7631,
-			"width":400,
-			"height":467,
-			"color":"6"
-		},
-		{
-			"id":"37f261f3262fc39e",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/Соглашения о вызовах.md",
-			"styleAttributes":{},
-			"x":2574,
-			"y":6212,
-			"width":400,
-			"height":702,
-			"color":"4"
-		},
-		{
-			"id":"e26cad8d6cc725fc",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/syscalls.md",
-			"styleAttributes":{},
-			"x":2574,
-			"y":7046,
-			"width":400,
-			"height":308,
-			"color":"#ff0000"
-		},
-		{
-			"id":"06094e45c9187cc9",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/ret и call.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":4515,
-			"width":400,
-			"height":554,
-			"color":"#ff0000"
-		},
-		{
-			"id":"bc479175b900a97e",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/Прочитать её значение.md",
-			"styleAttributes":{},
-			"x":2574,
-			"y":4011,
-			"width":400,
-			"height":592,
-			"color":"2"
-		},
-		{
-			"id":"f6610d5b7a2984da",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/Канарейки.md",
-			"styleAttributes":{},
-			"x":1254,
-			"y":4376,
-			"width":1044,
-			"height":832,
-			"color":"#ffffff"
-		},
-		{
-			"id":"58a7cbfa30556da4",
-			"type":"text",
-			"text":"# Способы обхода",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2574,
-			"y":4749,
-			"width":400,
-			"height":86,
-			"color":"1"
-		},
-		{
-			"id":"255640a0ca54a467",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/printf.md",
-			"styleAttributes":{},
-			"x":2574,
-			"y":4983,
-			"width":400,
-			"height":982,
-			"color":"#ff0000"
-		},
-		{
-			"id":"83e95a58db2a79e4",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/Значение канарейки у fork.md",
-			"styleAttributes":{},
-			"x":1576,
-			"y":5331,
-			"width":400,
-			"height":286,
-			"color":"6"
-		},
-		{
-			"id":"76bfb9a181a5ebd9",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/обход ASLR/Получаем system.md",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":8939,
-			"width":400,
-			"height":321,
-			"color":"#ff0000"
-		},
-		{
-			"id":"8736a66359466ce6",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/обход ASLR/Получаем адрес libc_start_main.md",
-			"styleAttributes":{},
-			"x":-440,
-			"y":9160,
-			"width":400,
-			"height":463,
-			"color":"2"
-		},
-		{
-			"id":"171564193a950ed1",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/shellcodes/База shellcode-ов.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":9891,
-			"width":400,
-			"height":217,
-			"color":"2"
-		},
-		{
-			"id":"8e9904b7e252e638",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/shellcodes/Инструкции в байткоды.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":10339,
-			"width":400,
-			"height":400,
-			"color":"2"
-		},
-		{
-			"id":"eb9a4d3b6312adc8",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/обход ASLR/Ну нет у нас libc.md",
-			"styleAttributes":{},
-			"x":120,
-			"y":8820,
-			"width":400,
-			"height":880,
-			"color":"#ff0000"
-		},
-		{
-			"id":"6db20812de98b956",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/А что если мы не можем получить system(bin sh)?.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":8339,
-			"width":400,
-			"height":560,
-			"color":"2"
-		},
-		{
-			"id":"1e15176a9a29576a",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/ROP.md",
-			"styleAttributes":{},
-			"x":680,
-			"y":9059,
-			"width":400,
-			"height":400,
-			"color":"1"
-		},
-		{
-			"id":"612fddf0aa138628",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/ret2libc/onegadjet.md",
-			"styleAttributes":{},
-			"x":2249,
-			"y":7453,
-			"width":400,
-			"height":822,
-			"color":"1"
-		},
-		{
-			"id":"846524aa78d33bd4",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/gadget.md",
-			"styleAttributes":{},
-			"x":2249,
-			"y":8400,
-			"width":400,
-			"height":439,
-			"color":"4"
-		},
-		{
-			"id":"a0ff1e2a8a26eeb5",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/Подготовка регистров.md",
-			"styleAttributes":{},
-			"x":1360,
-			"y":8954,
-			"width":400,
-			"height":611,
-			"color":"3"
-		},
-		{
-			"id":"f1b643eaa0151329",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/(ROP) Пример.md",
-			"styleAttributes":{},
-			"x":2800,
-			"y":8954,
-			"width":400,
-			"height":599,
-			"color":"#e14dff"
-		},
-		{
-			"id":"31c68a317f67c3af",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/Возвращение к эксплоиту.md",
-			"styleAttributes":{},
-			"x":1920,
-			"y":8980,
-			"width":400,
-			"height":559,
-			"color":"1"
-		},
-		{
-			"id":"19a44d156653c513",
-			"type":"file",
-			"file":"sync/STUDY/Security/PWN/Notes/Linux/basic ROP/(ROP gadget) Почему это работает?.md",
-			"styleAttributes":{},
-			"x":2249,
-			"y":9779,
-			"width":400,
-			"height":440,
-			"color":"#ff0000"
-		}
-	],
-	"edges":[
-		{
-			"id":"9dc771a516b81aaf",
-			"styleAttributes":{},
-			"fromNode":"deb4048b6b5614fd",
-			"fromSide":"bottom",
-			"toNode":"3aedc12f9e50b6e9",
-			"toSide":"top"
-		},
-		{
-			"id":"16e29ad8665255fe",
-			"styleAttributes":{},
-			"fromNode":"3aedc12f9e50b6e9",
-			"fromSide":"left",
-			"toNode":"9ba1fa479d051ce4",
-			"toSide":"right"
-		},
-		{
-			"id":"59c2954934901416",
-			"styleAttributes":{},
-			"fromNode":"9ba1fa479d051ce4",
-			"fromSide":"bottom",
-			"toNode":"e80ac4efa7d4f5d2",
-			"toSide":"top"
-		},
-		{
-			"id":"b8402daa84199c75",
-			"styleAttributes":{},
-			"fromNode":"deb4048b6b5614fd",
-			"fromSide":"right",
-			"toNode":"420df221af796f9f",
-			"toSide":"left"
-		},
-		{
-			"id":"8cd0f21a6ac92abc",
-			"styleAttributes":{},
-			"fromNode":"16df993a7520ddfc",
-			"fromSide":"right",
-			"toNode":"e900225e84e4e6cb",
-			"toSide":"left"
-		},
-		{
-			"id":"d430046c04842113",
-			"styleAttributes":{},
-			"fromNode":"3033c2cce21b8b73",
-			"fromSide":"bottom",
-			"toNode":"a063440a0f597f2a",
-			"toSide":"top"
-		},
-		{
-			"id":"c238b889181d65f4",
-			"styleAttributes":{},
-			"fromNode":"a063440a0f597f2a",
-			"fromSide":"left",
-			"toNode":"4ceddf7472e6771b",
-			"toSide":"right"
-		},
-		{
-			"id":"820fcd5cdd8b77c1",
-			"styleAttributes":{},
-			"fromNode":"659908bb57bbe7a7",
-			"fromSide":"bottom",
-			"toNode":"7fd46089161de3d0",
-			"toSide":"top"
-		},
-		{
-			"id":"a25aa11d5207b43a",
-			"styleAttributes":{},
-			"fromNode":"659908bb57bbe7a7",
-			"fromSide":"bottom",
-			"toNode":"1fdfaa97c08f8263",
-			"toSide":"top"
-		},
-		{
-			"id":"4ee8e9f634028ab0",
-			"styleAttributes":{},
-			"fromNode":"7fd46089161de3d0",
-			"fromSide":"bottom",
-			"toNode":"e439d76614200780",
-			"toSide":"top"
-		},
-		{
-			"id":"cad9e6a846f3ccb9",
-			"styleAttributes":{},
-			"fromNode":"1fdfaa97c08f8263",
-			"fromSide":"bottom",
-			"toNode":"e439d76614200780",
-			"toSide":"top"
-		},
-		{
-			"id":"22ca02ebd82194a7",
-			"styleAttributes":{},
-			"fromNode":"7fd46089161de3d0",
-			"fromSide":"bottom",
-			"toNode":"88e06135bba87a1a",
-			"toSide":"top"
-		},
-		{
-			"id":"86ee123d48eb8e53",
-			"styleAttributes":{},
-			"fromNode":"1fdfaa97c08f8263",
-			"fromSide":"bottom",
-			"toNode":"88e06135bba87a1a",
-			"toSide":"top"
-		},
-		{
-			"id":"6c0cc121e969249e",
-			"styleAttributes":{},
-			"fromNode":"c3c1e83ef1a271ab",
-			"fromSide":"bottom",
-			"toNode":"04e884092438c64c",
-			"toSide":"top"
-		},
-		{
-			"id":"dc215d4af53397b2",
-			"styleAttributes":{},
-			"fromNode":"6238aa465e8b4ad7",
-			"fromSide":"bottom",
-			"toNode":"889d4a974c1c2b43",
-			"toSide":"top"
-		},
-		{
-			"id":"81178c47f67a8103",
-			"styleAttributes":{},
-			"fromNode":"889d4a974c1c2b43",
-			"fromSide":"top",
-			"toNode":"6238aa465e8b4ad7",
-			"toSide":"bottom"
-		},
-		{
-			"id":"8a0f396491f90785",
-			"styleAttributes":{},
-			"fromNode":"e439d76614200780",
-			"fromSide":"bottom",
-			"toNode":"e39586f54666a5d4",
-			"toSide":"top"
-		},
-		{
-			"id":"33964bc5fc297772",
-			"styleAttributes":{},
-			"fromNode":"88e06135bba87a1a",
-			"fromSide":"bottom",
-			"toNode":"e39586f54666a5d4",
-			"toSide":"top"
-		},
-		{
-			"id":"708bd7c23646a386",
-			"styleAttributes":{},
-			"fromNode":"420df221af796f9f",
-			"fromSide":"bottom",
-			"toNode":"3033c2cce21b8b73",
-			"toSide":"top"
-		},
-		{
-			"id":"fead47e9f4c7d52e",
-			"styleAttributes":{},
-			"fromNode":"aabd0f70c770930c",
-			"fromSide":"left",
-			"toNode":"c1c033eb601e6905",
-			"toSide":"right"
-		},
-		{
-			"id":"a2fe393852faa20b",
-			"styleAttributes":{},
-			"fromNode":"c1c033eb601e6905",
-			"fromSide":"right",
-			"toNode":"aabd0f70c770930c",
-			"toSide":"left"
-		},
-		{
-			"id":"c7e64f73892ee0b8",
-			"styleAttributes":{},
-			"fromNode":"aabd0f70c770930c",
-			"fromSide":"left",
-			"toNode":"372d337c8830a955",
-			"toSide":"right"
-		},
-		{
-			"id":"a43ed7f54d34a908",
-			"styleAttributes":{},
-			"fromNode":"06094e45c9187cc9",
-			"fromSide":"right",
-			"toNode":"f6610d5b7a2984da",
-			"toSide":"left"
-		},
-		{
-			"id":"5430d743ba8e4b3f",
-			"styleAttributes":{},
-			"fromNode":"f6610d5b7a2984da",
-			"fromSide":"bottom",
-			"toNode":"83e95a58db2a79e4",
-			"toSide":"top"
-		},
-		{
-			"id":"12c09488a0b77fad",
-			"styleAttributes":{},
-			"fromNode":"58a7cbfa30556da4",
-			"fromSide":"bottom",
-			"toNode":"255640a0ca54a467",
-			"toSide":"top"
-		},
-		{
-			"id":"65cc3d7b58b06c80",
-			"styleAttributes":{},
-			"fromNode":"58a7cbfa30556da4",
-			"fromSide":"top",
-			"toNode":"bc479175b900a97e",
-			"toSide":"bottom"
-		},
-		{
-			"id":"164ac848b89f1791",
-			"styleAttributes":{},
-			"fromNode":"d7aab6d608ce5b03",
-			"fromSide":"left",
-			"toNode":"420df221af796f9f",
-			"toSide":"right"
-		},
-		{
-			"id":"2559f9565d045ae2",
-			"styleAttributes":{},
-			"fromNode":"2d0a9856a962505b",
-			"fromSide":"left",
-			"toNode":"420df221af796f9f",
-			"toSide":"right"
-		},
-		{
-			"id":"98b37d4c83cfc9c3",
-			"styleAttributes":{},
-			"fromNode":"420df221af796f9f",
-			"fromSide":"right",
-			"toNode":"d7aab6d608ce5b03",
-			"toSide":"left"
-		},
-		{
-			"id":"9ece09038d838a00",
-			"styleAttributes":{},
-			"fromNode":"420df221af796f9f",
-			"fromSide":"right",
-			"toNode":"2d0a9856a962505b",
-			"toSide":"left"
-		},
-		{
-			"id":"e6830fbf77318e18",
-			"styleAttributes":{},
-			"fromNode":"f6610d5b7a2984da",
-			"fromSide":"right",
-			"toNode":"58a7cbfa30556da4",
-			"toSide":"left"
-		},
-		{
-			"id":"599effe2645036ee",
-			"styleAttributes":{},
-			"fromNode":"201faeeedd6b84e3",
-			"fromSide":"bottom",
-			"toNode":"3a94484c285a5c32",
-			"toSide":"top"
-		},
-		{
-			"id":"d5a2c415919f5713",
-			"styleAttributes":{},
-			"fromNode":"201faeeedd6b84e3",
-			"fromSide":"bottom",
-			"toNode":"55ddb07ea29a2d46",
-			"toSide":"top"
-		},
-		{
-			"id":"da9eb613eea1091c",
-			"styleAttributes":{},
-			"fromNode":"a063440a0f597f2a",
-			"fromSide":"left",
-			"toNode":"e3420987607a12f6",
-			"toSide":"right"
-		},
-		{
-			"id":"4fd3cf622799f4e1",
-			"styleAttributes":{},
-			"fromNode":"f18b1229038b99c9",
-			"fromSide":"right",
-			"toNode":"81cc0b56295d9215",
-			"toSide":"left"
-		},
-		{
-			"id":"81bb68997fdbed2b",
-			"styleAttributes":{},
-			"fromNode":"a063440a0f597f2a",
-			"fromSide":"right",
-			"toNode":"f18b1229038b99c9",
-			"toSide":"left"
-		},
-		{
-			"id":"6e03d2594b5847eb",
-			"styleAttributes":{},
-			"fromNode":"88f364789d836060",
-			"fromSide":"left",
-			"toNode":"951cb85b0e2420ba",
-			"toSide":"top"
-		},
-		{
-			"id":"6cc675e2251a9829",
-			"styleAttributes":{},
-			"fromNode":"88f364789d836060",
-			"fromSide":"left",
-			"toNode":"1e4e646ca9b22830",
-			"toSide":"top"
-		},
-		{
-			"id":"8638ac78bed2d5d7",
-			"styleAttributes":{},
-			"fromNode":"88f364789d836060",
-			"fromSide":"left",
-			"toNode":"160f9e4dce02e742",
-			"toSide":"right"
-		},
-		{
-			"id":"7b3a43ffcd5d6308",
-			"styleAttributes":{},
-			"fromNode":"aabd0f70c770930c",
-			"fromSide":"left",
-			"toNode":"88f364789d836060",
-			"toSide":"top"
-		},
-		{
-			"id":"4e637c0c8e8a8ab4",
-			"styleAttributes":{},
-			"fromNode":"16df993a7520ddfc",
-			"fromSide":"right",
-			"toNode":"daca34871263aa6d",
-			"toSide":"bottom"
-		},
-		{
-			"id":"720a118dd07aecf7",
-			"styleAttributes":{},
-			"fromNode":"16df993a7520ddfc",
-			"fromSide":"top",
-			"toNode":"94c033c1f2c25052",
-			"toSide":"bottom"
-		},
-		{
-			"id":"4dc3522d7b0bd034",
-			"styleAttributes":{},
-			"fromNode":"94c033c1f2c25052",
-			"fromSide":"top",
-			"toNode":"1eec01da78ef30ad",
-			"toSide":"bottom"
-		},
-		{
-			"id":"ddc690aa1bbddd4e",
-			"styleAttributes":{},
-			"fromNode":"2c31b5b904d1f535",
-			"fromSide":"left",
-			"toNode":"aabd0f70c770930c",
-			"toSide":"right"
-		},
-		{
-			"id":"e00eed39d7ab1ac8",
-			"styleAttributes":{},
-			"fromNode":"3033c2cce21b8b73",
-			"fromSide":"left",
-			"toNode":"2c31b5b904d1f535",
-			"toSide":"right"
-		},
-		{
-			"id":"acef4cb95fe795a9",
-			"styleAttributes":{},
-			"fromNode":"042224d52f08f54a",
-			"fromSide":"bottom",
-			"toNode":"deb4048b6b5614fd",
-			"toSide":"top"
-		},
-		{
-			"id":"bb730b1363bb1383",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"fromNode":"06094e45c9187cc9",
-			"fromSide":"bottom",
-			"toNode":"1868021bae539301",
-			"toSide":"top"
-		},
-		{
-			"id":"cf29bd4421b04aae",
-			"styleAttributes":{},
-			"fromNode":"1868021bae539301",
-			"fromSide":"right",
-			"toNode":"78f33e0047db29ac",
-			"toSide":"left"
-		},
-		{
-			"id":"a1eea30c7f04bf9e",
-			"styleAttributes":{},
-			"fromNode":"1868021bae539301",
-			"fromSide":"right",
-			"toNode":"410946375984d78c",
-			"toSide":"left"
-		},
-		{
-			"id":"3e5adf4058df7bef",
-			"styleAttributes":{},
-			"fromNode":"410946375984d78c",
-			"fromSide":"right",
-			"toNode":"e26cad8d6cc725fc",
-			"toSide":"left"
-		},
-		{
-			"id":"86dc2f8f0637a3c3",
-			"styleAttributes":{},
-			"fromNode":"56655d52193fd939",
-			"fromSide":"right",
-			"toNode":"0c1080f75869a960",
-			"toSide":"left"
-		},
-		{
-			"id":"a0ba14904ba69d3c",
-			"styleAttributes":{},
-			"fromNode":"1868021bae539301",
-			"fromSide":"bottom",
-			"toNode":"0c1080f75869a960",
-			"toSide":"top"
-		},
-		{
-			"id":"a39a6bb832873a00",
-			"styleAttributes":{},
-			"fromNode":"13a6b7332a0016b3",
-			"fromSide":"right",
-			"toNode":"612fddf0aa138628",
-			"toSide":"left"
-		},
-		{
-			"id":"4f8cb27a9c3ae9b4",
-			"styleAttributes":{},
-			"fromNode":"0c1080f75869a960",
-			"fromSide":"right",
-			"toNode":"13a6b7332a0016b3",
-			"toSide":"left"
-		},
-		{
-			"id":"c27d10135416604b",
-			"styleAttributes":{},
-			"fromNode":"78f33e0047db29ac",
-			"fromSide":"right",
-			"toNode":"37f261f3262fc39e",
-			"toSide":"left"
-		},
-		{
-			"id":"a8df91ca2bb3f9c1",
-			"styleAttributes":{},
-			"fromNode":"0c1080f75869a960",
-			"fromSide":"bottom",
-			"toNode":"6db20812de98b956",
-			"toSide":"top"
-		},
-		{
-			"id":"49cab83177161d4c",
-			"styleAttributes":{},
-			"fromNode":"6db20812de98b956",
-			"fromSide":"bottom",
-			"toNode":"1e15176a9a29576a",
-			"toSide":"top"
-		},
-		{
-			"id":"418a8a1a3b18b919",
-			"styleAttributes":{},
-			"fromNode":"1e15176a9a29576a",
-			"fromSide":"right",
-			"toNode":"a0ff1e2a8a26eeb5",
-			"toSide":"left"
-		},
-		{
-			"id":"f286f13b5f885aa7",
-			"styleAttributes":{},
-			"fromNode":"a0ff1e2a8a26eeb5",
-			"fromSide":"right",
-			"toNode":"31c68a317f67c3af",
-			"toSide":"left"
-		},
-		{
-			"id":"1ea286e4037d26d8",
-			"styleAttributes":{},
-			"fromNode":"2c31b5b904d1f535",
-			"fromSide":"top",
-			"toNode":"16df993a7520ddfc",
-			"toSide":"bottom"
-		},
-		{
-			"id":"e37fcd359b4282b6",
-			"styleAttributes":{},
-			"fromNode":"16df993a7520ddfc",
-			"fromSide":"left",
-			"toNode":"94942aa22043f7f0",
-			"toSide":"right"
-		},
-		{
-			"id":"eb977c751c489898",
-			"styleAttributes":{},
-			"fromNode":"16df993a7520ddfc",
-			"fromSide":"left",
-			"toNode":"cea64aea7b0b8890",
-			"toSide":"right"
-		},
-		{
-			"id":"57649d9b0dbb119d",
-			"styleAttributes":{},
-			"fromNode":"31c68a317f67c3af",
-			"fromSide":"right",
-			"toNode":"846524aa78d33bd4",
-			"toSide":"bottom"
-		},
-		{
-			"id":"eae1359dd08eafaf",
-			"styleAttributes":{},
-			"fromNode":"612fddf0aa138628",
-			"fromSide":"bottom",
-			"toNode":"846524aa78d33bd4",
-			"toSide":"top"
-		},
-		{
-			"id":"88ce28ba7798eacb",
-			"styleAttributes":{},
-			"fromNode":"31c68a317f67c3af",
-			"fromSide":"right",
-			"toNode":"f1b643eaa0151329",
-			"toSide":"left"
-		},
-		{
-			"id":"2ac23d70424339c9",
-			"styleAttributes":{},
-			"fromNode":"1e15176a9a29576a",
-			"fromSide":"bottom",
-			"toNode":"19a44d156653c513",
-			"toSide":"left"
-		},
-		{
-			"id":"a93df7a52c2a6f47",
-			"styleAttributes":{},
-			"fromNode":"31c68a317f67c3af",
-			"fromSide":"bottom",
-			"toNode":"19a44d156653c513",
-			"toSide":"top"
-		},
-		{
-			"id":"ae87a95ab20e3397",
-			"styleAttributes":{},
-			"fromNode":"f1b643eaa0151329",
-			"fromSide":"bottom",
-			"toNode":"19a44d156653c513",
-			"toSide":"top"
-		},
-		{
-			"id":"6a35596c19ca20b1",
-			"styleAttributes":{},
-			"fromNode":"846524aa78d33bd4",
-			"fromSide":"bottom",
-			"toNode":"19a44d156653c513",
-			"toSide":"top"
-		},
-		{
-			"id":"835e535af97b5c5e",
-			"styleAttributes":{},
-			"fromNode":"eb9a4d3b6312adc8",
-			"fromSide":"left",
-			"toNode":"8736a66359466ce6",
-			"toSide":"right"
-		},
-		{
-			"id":"9925fdf677278d95",
-			"styleAttributes":{},
-			"fromNode":"8736a66359466ce6",
-			"fromSide":"left",
-			"toNode":"76bfb9a181a5ebd9",
-			"toSide":"right"
-		},
-		{
-			"id":"f8cce3dc62d51d02",
-			"styleAttributes":{},
-			"fromNode":"1e15176a9a29576a",
-			"fromSide":"left",
-			"toNode":"eb9a4d3b6312adc8",
-			"toSide":"right"
-		},
-		{
-			"id":"d5247f479f858f40",
-			"styleAttributes":{},
-			"fromNode":"1e15176a9a29576a",
-			"fromSide":"bottom",
-			"toNode":"171564193a950ed1",
-			"toSide":"top"
-		},
-		{
-			"id":"c66a0144e3137a3a",
-			"styleAttributes":{},
-			"fromNode":"171564193a950ed1",
-			"fromSide":"bottom",
-			"toNode":"8e9904b7e252e638",
-			"toSide":"top"
-		},
-		{
-			"id":"f4c42c8a92cdd671",
-			"styleAttributes":{},
-			"fromNode":"47785100050623c7",
-			"fromSide":"bottom",
-			"toNode":"201faeeedd6b84e3",
-			"toSide":"top"
-		},
-		{
-			"id":"737a95c822a78773",
-			"styleAttributes":{},
-			"fromNode":"05f39c41ea7540e5",
-			"fromSide":"bottom",
-			"toNode":"6238aa465e8b4ad7",
-			"toSide":"top"
-		},
-		{
-			"id":"650bd49619a72031",
-			"styleAttributes":{},
-			"fromNode":"05f39c41ea7540e5",
-			"fromSide":"bottom",
-			"toNode":"02ced833e8e632d4",
-			"toSide":"top"
-		},
-		{
-			"id":"9bb576d816617a8d",
-			"styleAttributes":{},
-			"fromNode":"47785100050623c7",
-			"fromSide":"bottom",
-			"toNode":"5f0653f6b9661409",
-			"toSide":"top"
-		},
-		{
-			"id":"6a13e2db51264cac",
-			"styleAttributes":{},
-			"fromNode":"78535ae87e0f8b1c",
-			"fromSide":"bottom",
-			"toNode":"8bd8e150d79f271f",
-			"toSide":"top"
-		},
-		{
-			"id":"46bb976229d53cc7",
-			"styleAttributes":{},
-			"fromNode":"86fb5a196eb619b7",
-			"fromSide":"bottom",
-			"toNode":"05f39c41ea7540e5",
-			"toSide":"top"
-		},
-		{
-			"id":"6982e778f48c2cae",
-			"styleAttributes":{},
-			"fromNode":"86fb5a196eb619b7",
-			"fromSide":"bottom",
-			"toNode":"659908bb57bbe7a7",
-			"toSide":"top"
-		},
-		{
-			"id":"a037b04d63b6939f",
-			"styleAttributes":{},
-			"fromNode":"86fb5a196eb619b7",
-			"fromSide":"bottom",
-			"toNode":"47785100050623c7",
-			"toSide":"top"
-		},
-		{
-			"id":"eef41396144a3687",
-			"styleAttributes":{},
-			"fromNode":"86fb5a196eb619b7",
-			"fromSide":"bottom",
-			"toNode":"78535ae87e0f8b1c",
-			"toSide":"top"
-		},
-		{
-			"id":"2a0dfb084132b422",
-			"styleAttributes":{},
-			"fromNode":"86fb5a196eb619b7",
-			"fromSide":"bottom",
-			"toNode":"c3c1e83ef1a271ab",
-			"toSide":"top"
-		},
-		{
-			"id":"73e3ddfaaf6bdf31",
-			"styleAttributes":{},
-			"fromNode":"2c31b5b904d1f535",
-			"fromSide":"bottom",
-			"toNode":"86fb5a196eb619b7",
-			"toSide":"top"
-		}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "420df221af796f9f",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Основы/За чем будем следить?.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 632,
+      "width": 400,
+      "height": 531,
+      "color": "3"
+    },
+    {
+      "id": "3aedc12f9e50b6e9",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Основы/Но почему это работает?.md",
+      "styleAttributes": {},
+      "x": -237,
+      "y": 609,
+      "width": 400,
+      "height": 554,
+      "color": "1"
+    },
+    {
+      "id": "2d0a9856a962505b",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Основы/Heap (куча).md",
+      "styleAttributes": {},
+      "x": 1760,
+      "y": 312,
+      "width": 400,
+      "height": 914,
+      "color": "4"
+    },
+    {
+      "id": "d7aab6d608ce5b03",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Основы/Stack.md",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -354,
+      "width": 400,
+      "height": 1063,
+      "color": "4"
+    },
+    {
+      "id": "f18b1229038b99c9",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Переполнение/Байты в символы.md",
+      "styleAttributes": {},
+      "x": 1320,
+      "y": 1756,
+      "width": 400,
+      "height": 707,
+      "color": "1"
+    },
+    {
+      "id": "81cc0b56295d9215",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Переполнение/Overwriting string.md",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 1840,
+      "width": 400,
+      "height": 539,
+      "color": "#ff0000"
+    },
+    {
+      "id": "3033c2cce21b8b73",
+      "type": "text",
+      "text": "# Переполнение",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 700,
+      "y": 1360,
+      "width": 360,
+      "height": 120,
+      "color": "#ff0000"
+    },
+    {
+      "id": "e3420987607a12f6",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Переполнение/gets.md",
+      "styleAttributes": {},
+      "x": -124,
+      "y": 1736,
+      "width": 400,
+      "height": 333,
+      "color": "2"
+    },
+    {
+      "id": "4ceddf7472e6771b",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Переполнение/scanf.md",
+      "styleAttributes": {},
+      "x": -124,
+      "y": 2171,
+      "width": 400,
+      "height": 428,
+      "color": "2"
+    },
+    {
+      "id": "e80ac4efa7d4f5d2",
+      "type": "file",
+      "file": "sync/images/Pasted image 20241107204221.png",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 991,
+      "width": 668,
+      "height": 280
+    },
+    {
+      "id": "9ba1fa479d051ce4",
+      "type": "text",
+      "text": "# Он даёт сделать даже такое",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -846,
+      "y": 831,
+      "width": 440,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "deb4048b6b5614fd",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Основы/PWN. Что это такое?.md",
+      "styleAttributes": {},
+      "x": -237,
+      "y": -588,
+      "width": 400,
+      "height": 697,
+      "color": "#ff0000"
+    },
+    {
+      "id": "8bd8e150d79f271f",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Логирование.md",
+      "styleAttributes": {},
+      "x": -1091,
+      "y": 3435,
+      "width": 400,
+      "height": 801,
+      "color": "3"
+    },
+    {
+      "id": "02ced833e8e632d4",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Создание паттернов.md",
+      "styleAttributes": {},
+      "x": -2706,
+      "y": 3527,
+      "width": 400,
+      "height": 849,
+      "color": "3"
+    },
+    {
+      "id": "5f0653f6b9661409",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) ROP цепочки.md",
+      "styleAttributes": {},
+      "x": -1651,
+      "y": 3527,
+      "width": 400,
+      "height": 709,
+      "color": "3"
+    },
+    {
+      "id": "6238aa465e8b4ad7",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Упаковка и распаковка бинарных форматов.md",
+      "styleAttributes": {},
+      "x": -3291,
+      "y": 3554,
+      "width": 400,
+      "height": 822,
+      "color": "2"
+    },
+    {
+      "id": "201faeeedd6b84e3",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Шелкоды.md",
+      "styleAttributes": {},
+      "x": -2171,
+      "y": 3554,
+      "width": 400,
+      "height": 622,
+      "color": "2"
+    },
+    {
+      "id": "3a94484c285a5c32",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) shellcode все команды.md",
+      "styleAttributes": {},
+      "x": -2051,
+      "y": 4464,
+      "width": 400,
+      "height": 2305,
+      "color": "2"
+    },
+    {
+      "id": "889d4a974c1c2b43",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Байты в числа и наоборот.md",
+      "styleAttributes": {},
+      "x": -3106,
+      "y": 4534,
+      "width": 400,
+      "height": 602,
+      "color": "2"
+    },
+    {
+      "id": "c3c1e83ef1a271ab",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/template.md",
+      "styleAttributes": {},
+      "x": -2610,
+      "y": 5239,
+      "width": 379,
+      "height": 587,
+      "color": "1"
+    },
+    {
+      "id": "04e884092438c64c",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/pwntools + debug.md",
+      "styleAttributes": {},
+      "x": -2620,
+      "y": 5919,
+      "width": 400,
+      "height": 462,
+      "color": "#ff0088"
+    },
+    {
+      "id": "659908bb57bbe7a7",
+      "type": "text",
+      "text": "# Управление соединениями",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3391,
+      "y": 2956,
+      "width": 357,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "7fd46089161de3d0",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Запуск процессов.md",
+      "styleAttributes": {},
+      "x": -4310,
+      "y": 3396,
+      "width": 434,
+      "height": 659,
+      "color": "3"
+    },
+    {
+      "id": "e439d76614200780",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Чтение до определённой строчки.md",
+      "styleAttributes": {},
+      "x": -4191,
+      "y": 4376,
+      "width": 400,
+      "height": 486,
+      "color": "2"
+    },
+    {
+      "id": "e39586f54666a5d4",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Получение и обработка значений от программы.md",
+      "styleAttributes": {},
+      "x": -3968,
+      "y": 5021,
+      "width": 400,
+      "height": 436,
+      "color": "2"
+    },
+    {
+      "id": "1fdfaa97c08f8263",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Соединение по TCP-UDP.md",
+      "styleAttributes": {},
+      "x": -3791,
+      "y": 3439,
+      "width": 400,
+      "height": 797,
+      "color": "3"
+    },
+    {
+      "id": "88e06135bba87a1a",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) Ввод.md",
+      "styleAttributes": {},
+      "x": -3691,
+      "y": 4534,
+      "width": 400,
+      "height": 328,
+      "color": "3"
+    },
+    {
+      "id": "aabd0f70c770930c",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/qira/qira.md",
+      "styleAttributes": {},
+      "x": -4093,
+      "y": 1248,
+      "width": 400,
+      "height": 1502,
+      "color": "#ff0000"
+    },
+    {
+      "id": "372d337c8830a955",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/qira/Но почему qira?.md",
+      "styleAttributes": {},
+      "x": -4933,
+      "y": 1866,
+      "width": 400,
+      "height": 520,
+      "color": "4"
+    },
+    {
+      "id": "c1c033eb601e6905",
+      "type": "file",
+      "file": "sync/images/Pasted image 20241109005731.png",
+      "styleAttributes": {},
+      "x": -5213,
+      "y": 1164,
+      "width": 876,
+      "height": 568
+    },
+    {
+      "id": "160f9e4dce02e742",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/qira/Запуск в виде сервера.md",
+      "styleAttributes": {},
+      "x": -5773,
+      "y": 2322,
+      "width": 400,
+      "height": 643,
+      "color": "2"
+    },
+    {
+      "id": "1e4e646ca9b22830",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/qira/Отслеживание выполнения инструкций.md",
+      "styleAttributes": {},
+      "x": -5773,
+      "y": 3157,
+      "width": 400,
+      "height": 470,
+      "color": "2"
+    },
+    {
+      "id": "951cb85b0e2420ba",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/qira/Отслеживание значений в памяти.md",
+      "styleAttributes": {},
+      "x": -5175,
+      "y": 3492,
+      "width": 400,
+      "height": 499,
+      "color": "2"
+    },
+    {
+      "id": "88f364789d836060",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/qira/Управление qira-ой (Hotkeys).md",
+      "styleAttributes": {},
+      "x": -4933,
+      "y": 2703,
+      "width": 400,
+      "height": 454,
+      "color": "3"
+    },
+    {
+      "id": "daca34871263aa6d",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/edb/Hotkeys.md",
+      "styleAttributes": {},
+      "x": -2485,
+      "y": -468,
+      "width": 400,
+      "height": 493,
+      "color": "4"
+    },
+    {
+      "id": "94c033c1f2c25052",
+      "type": "text",
+      "text": "# Минимум",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2931,
+      "y": -183,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "16df993a7520ddfc",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/edb/edb.md",
+      "styleAttributes": {},
+      "x": -3001,
+      "y": 25,
+      "width": 400,
+      "height": 593,
+      "color": "#ff0000"
+    },
+    {
+      "id": "1eec01da78ef30ad",
+      "type": "file",
+      "file": "sync/images/Pasted image 20241107220112.png",
+      "styleAttributes": {},
+      "x": -3431,
+      "y": -1421,
+      "width": 1260,
+      "height": 839
+    },
+    {
+      "id": "e900225e84e4e6cb",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/edb/IDA + edb.md",
+      "styleAttributes": {},
+      "x": -2148,
+      "y": 152,
+      "width": 400,
+      "height": 373,
+      "color": "3"
+    },
+    {
+      "id": "cea64aea7b0b8890",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/edb/Изменение значений памяти и регистров.md",
+      "styleAttributes": {},
+      "x": -3831,
+      "y": -354,
+      "width": 400,
+      "height": 676,
+      "color": "2"
+    },
+    {
+      "id": "94942aa22043f7f0",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/edb/Смена RIP.md",
+      "styleAttributes": {},
+      "x": -3631,
+      "y": 468,
+      "width": 400,
+      "height": 488,
+      "color": "2"
+    },
+    {
+      "id": "2c31b5b904d1f535",
+      "type": "text",
+      "text": "# Инструменты",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2894,
+      "y": 1248,
+      "width": 360,
+      "height": 120,
+      "color": "#ff0000"
+    },
+    {
+      "id": "55ddb07ea29a2d46",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/(pwntools) shellcode encoding.md",
+      "styleAttributes": {},
+      "x": -1451,
+      "y": 4619,
+      "width": 400,
+      "height": 1448,
+      "color": "#ff0000"
+    },
+    {
+      "id": "042224d52f08f54a",
+      "type": "text",
+      "text": "# PWN",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -287,
+      "y": -1701,
+      "width": 500,
+      "height": 280,
+      "color": "#ff0000"
+    },
+    {
+      "id": "86fb5a196eb619b7",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/pwntools/pwntools.md",
+      "styleAttributes": {},
+      "x": -2630,
+      "y": 2055,
+      "width": 400,
+      "height": 901,
+      "color": "#ff0000"
+    },
+    {
+      "id": "78535ae87e0f8b1c",
+      "type": "text",
+      "text": "# Логирование",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1728,
+      "y": 2956,
+      "width": 357,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "05f39c41ea7540e5",
+      "type": "text",
+      "text": "# Работа с данными\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2891,
+      "y": 3166,
+      "width": 357,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "47785100050623c7",
+      "type": "text",
+      "text": "# Создание payload-ов",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2291,
+      "y": 3166,
+      "width": 437,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "a063440a0f597f2a",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Переполнение/Куда будем бить?.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 1682,
+      "width": 400,
+      "height": 979,
+      "color": "1"
+    },
+    {
+      "id": "78f33e0047db29ac",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Вызов обычных функций в C.md",
+      "styleAttributes": {},
+      "x": 1576,
+      "y": 5963,
+      "width": 400,
+      "height": 815,
+      "color": "4"
+    },
+    {
+      "id": "1868021bae539301",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/libc.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 6212,
+      "width": 400,
+      "height": 834,
+      "color": "1"
+    },
+    {
+      "id": "410946375984d78c",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Вызов системных функций в C.md",
+      "styleAttributes": {},
+      "x": 1576,
+      "y": 6842,
+      "width": 400,
+      "height": 712,
+      "color": "6"
+    },
+    {
+      "id": "0c1080f75869a960",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Атака ret2libc.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 7555,
+      "width": 400,
+      "height": 619,
+      "color": "#ff0000"
+    },
+    {
+      "id": "13a6b7332a0016b3",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/ASLR и его обход.md",
+      "styleAttributes": {},
+      "x": 1576,
+      "y": 7601,
+      "width": 400,
+      "height": 526,
+      "color": "#ffffff"
+    },
+    {
+      "id": "56655d52193fd939",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/Отключение рандомизации памяти.md",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 7631,
+      "width": 400,
+      "height": 467,
+      "color": "6"
+    },
+    {
+      "id": "37f261f3262fc39e",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/Соглашения о вызовах.md",
+      "styleAttributes": {},
+      "x": 2574,
+      "y": 6212,
+      "width": 400,
+      "height": 702,
+      "color": "4"
+    },
+    {
+      "id": "e26cad8d6cc725fc",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/syscalls.md",
+      "styleAttributes": {},
+      "x": 2574,
+      "y": 7046,
+      "width": 400,
+      "height": 308,
+      "color": "#ff0000"
+    },
+    {
+      "id": "06094e45c9187cc9",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/ret и call.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 4515,
+      "width": 400,
+      "height": 554,
+      "color": "#ff0000"
+    },
+    {
+      "id": "bc479175b900a97e",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/Прочитать её значение.md",
+      "styleAttributes": {},
+      "x": 2574,
+      "y": 4011,
+      "width": 400,
+      "height": 592,
+      "color": "2"
+    },
+    {
+      "id": "f6610d5b7a2984da",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/Канарейки.md",
+      "styleAttributes": {},
+      "x": 1254,
+      "y": 4376,
+      "width": 1044,
+      "height": 832,
+      "color": "#ffffff"
+    },
+    {
+      "id": "58a7cbfa30556da4",
+      "type": "text",
+      "text": "# Способы обхода",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2574,
+      "y": 4749,
+      "width": 400,
+      "height": 86,
+      "color": "1"
+    },
+    {
+      "id": "255640a0ca54a467",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/printf.md",
+      "styleAttributes": {},
+      "x": 2574,
+      "y": 4983,
+      "width": 400,
+      "height": 982,
+      "color": "#ff0000"
+    },
+    {
+      "id": "83e95a58db2a79e4",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/Адреса возврата/Значение канарейки у fork.md",
+      "styleAttributes": {},
+      "x": 1576,
+      "y": 5331,
+      "width": 400,
+      "height": 286,
+      "color": "6"
+    },
+    {
+      "id": "76bfb9a181a5ebd9",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/обход ASLR/Получаем system.md",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": 8939,
+      "width": 400,
+      "height": 321,
+      "color": "#ff0000"
+    },
+    {
+      "id": "8736a66359466ce6",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/обход ASLR/Получаем адрес libc_start_main.md",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 9160,
+      "width": 400,
+      "height": 463,
+      "color": "2"
+    },
+    {
+      "id": "171564193a950ed1",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/shellcodes/База shellcode-ов.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 9891,
+      "width": 400,
+      "height": 217,
+      "color": "2"
+    },
+    {
+      "id": "8e9904b7e252e638",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/shellcodes/Инструкции в байткоды.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 10339,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "eb9a4d3b6312adc8",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/обход ASLR/Ну нет у нас libc.md",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 8820,
+      "width": 400,
+      "height": 880,
+      "color": "#ff0000"
+    },
+    {
+      "id": "6db20812de98b956",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/А что если мы не можем получить system(bin sh)?.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 8339,
+      "width": 400,
+      "height": 560,
+      "color": "2"
+    },
+    {
+      "id": "1e15176a9a29576a",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/ROP.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 9059,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "612fddf0aa138628",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/ret2libc/onegadjet.md",
+      "styleAttributes": {},
+      "x": 2249,
+      "y": 7453,
+      "width": 400,
+      "height": 822,
+      "color": "1"
+    },
+    {
+      "id": "846524aa78d33bd4",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/gadget.md",
+      "styleAttributes": {},
+      "x": 2249,
+      "y": 8400,
+      "width": 400,
+      "height": 439,
+      "color": "4"
+    },
+    {
+      "id": "a0ff1e2a8a26eeb5",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/Подготовка регистров.md",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": 8954,
+      "width": 400,
+      "height": 611,
+      "color": "3"
+    },
+    {
+      "id": "f1b643eaa0151329",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/(ROP) Пример.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 8954,
+      "width": 400,
+      "height": 599,
+      "color": "#e14dff"
+    },
+    {
+      "id": "31c68a317f67c3af",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/Возвращение к эксплоиту.md",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 8980,
+      "width": 400,
+      "height": 559,
+      "color": "1"
+    },
+    {
+      "id": "19a44d156653c513",
+      "type": "file",
+      "file": "sync/STUDY/Security/PWN/Notes/Linux/basic ROP/(ROP gadget) Почему это работает?.md",
+      "styleAttributes": {},
+      "x": 2249,
+      "y": 9779,
+      "width": 400,
+      "height": 440,
+      "color": "#ff0000"
+    }
+  ],
+  "edges": [
+    {
+      "id": "9dc771a516b81aaf",
+      "styleAttributes": {},
+      "fromNode": "deb4048b6b5614fd",
+      "fromSide": "bottom",
+      "toNode": "3aedc12f9e50b6e9",
+      "toSide": "top"
+    },
+    {
+      "id": "16e29ad8665255fe",
+      "styleAttributes": {},
+      "fromNode": "3aedc12f9e50b6e9",
+      "fromSide": "left",
+      "toNode": "9ba1fa479d051ce4",
+      "toSide": "right"
+    },
+    {
+      "id": "59c2954934901416",
+      "styleAttributes": {},
+      "fromNode": "9ba1fa479d051ce4",
+      "fromSide": "bottom",
+      "toNode": "e80ac4efa7d4f5d2",
+      "toSide": "top"
+    },
+    {
+      "id": "b8402daa84199c75",
+      "styleAttributes": {},
+      "fromNode": "deb4048b6b5614fd",
+      "fromSide": "right",
+      "toNode": "420df221af796f9f",
+      "toSide": "left"
+    },
+    {
+      "id": "8cd0f21a6ac92abc",
+      "styleAttributes": {},
+      "fromNode": "16df993a7520ddfc",
+      "fromSide": "right",
+      "toNode": "e900225e84e4e6cb",
+      "toSide": "left"
+    },
+    {
+      "id": "d430046c04842113",
+      "styleAttributes": {},
+      "fromNode": "3033c2cce21b8b73",
+      "fromSide": "bottom",
+      "toNode": "a063440a0f597f2a",
+      "toSide": "top"
+    },
+    {
+      "id": "c238b889181d65f4",
+      "styleAttributes": {},
+      "fromNode": "a063440a0f597f2a",
+      "fromSide": "left",
+      "toNode": "4ceddf7472e6771b",
+      "toSide": "right"
+    },
+    {
+      "id": "820fcd5cdd8b77c1",
+      "styleAttributes": {},
+      "fromNode": "659908bb57bbe7a7",
+      "fromSide": "bottom",
+      "toNode": "7fd46089161de3d0",
+      "toSide": "top"
+    },
+    {
+      "id": "a25aa11d5207b43a",
+      "styleAttributes": {},
+      "fromNode": "659908bb57bbe7a7",
+      "fromSide": "bottom",
+      "toNode": "1fdfaa97c08f8263",
+      "toSide": "top"
+    },
+    {
+      "id": "4ee8e9f634028ab0",
+      "styleAttributes": {},
+      "fromNode": "7fd46089161de3d0",
+      "fromSide": "bottom",
+      "toNode": "e439d76614200780",
+      "toSide": "top"
+    },
+    {
+      "id": "cad9e6a846f3ccb9",
+      "styleAttributes": {},
+      "fromNode": "1fdfaa97c08f8263",
+      "fromSide": "bottom",
+      "toNode": "e439d76614200780",
+      "toSide": "top"
+    },
+    {
+      "id": "22ca02ebd82194a7",
+      "styleAttributes": {},
+      "fromNode": "7fd46089161de3d0",
+      "fromSide": "bottom",
+      "toNode": "88e06135bba87a1a",
+      "toSide": "top"
+    },
+    {
+      "id": "86ee123d48eb8e53",
+      "styleAttributes": {},
+      "fromNode": "1fdfaa97c08f8263",
+      "fromSide": "bottom",
+      "toNode": "88e06135bba87a1a",
+      "toSide": "top"
+    },
+    {
+      "id": "6c0cc121e969249e",
+      "styleAttributes": {},
+      "fromNode": "c3c1e83ef1a271ab",
+      "fromSide": "bottom",
+      "toNode": "04e884092438c64c",
+      "toSide": "top"
+    },
+    {
+      "id": "dc215d4af53397b2",
+      "styleAttributes": {},
+      "fromNode": "6238aa465e8b4ad7",
+      "fromSide": "bottom",
+      "toNode": "889d4a974c1c2b43",
+      "toSide": "top"
+    },
+    {
+      "id": "81178c47f67a8103",
+      "styleAttributes": {},
+      "fromNode": "889d4a974c1c2b43",
+      "fromSide": "top",
+      "toNode": "6238aa465e8b4ad7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8a0f396491f90785",
+      "styleAttributes": {},
+      "fromNode": "e439d76614200780",
+      "fromSide": "bottom",
+      "toNode": "e39586f54666a5d4",
+      "toSide": "top"
+    },
+    {
+      "id": "33964bc5fc297772",
+      "styleAttributes": {},
+      "fromNode": "88e06135bba87a1a",
+      "fromSide": "bottom",
+      "toNode": "e39586f54666a5d4",
+      "toSide": "top"
+    },
+    {
+      "id": "708bd7c23646a386",
+      "styleAttributes": {},
+      "fromNode": "420df221af796f9f",
+      "fromSide": "bottom",
+      "toNode": "3033c2cce21b8b73",
+      "toSide": "top"
+    },
+    {
+      "id": "fead47e9f4c7d52e",
+      "styleAttributes": {},
+      "fromNode": "aabd0f70c770930c",
+      "fromSide": "left",
+      "toNode": "c1c033eb601e6905",
+      "toSide": "right"
+    },
+    {
+      "id": "a2fe393852faa20b",
+      "styleAttributes": {},
+      "fromNode": "c1c033eb601e6905",
+      "fromSide": "right",
+      "toNode": "aabd0f70c770930c",
+      "toSide": "left"
+    },
+    {
+      "id": "c7e64f73892ee0b8",
+      "styleAttributes": {},
+      "fromNode": "aabd0f70c770930c",
+      "fromSide": "left",
+      "toNode": "372d337c8830a955",
+      "toSide": "right"
+    },
+    {
+      "id": "a43ed7f54d34a908",
+      "styleAttributes": {},
+      "fromNode": "06094e45c9187cc9",
+      "fromSide": "right",
+      "toNode": "f6610d5b7a2984da",
+      "toSide": "left"
+    },
+    {
+      "id": "5430d743ba8e4b3f",
+      "styleAttributes": {},
+      "fromNode": "f6610d5b7a2984da",
+      "fromSide": "bottom",
+      "toNode": "83e95a58db2a79e4",
+      "toSide": "top"
+    },
+    {
+      "id": "12c09488a0b77fad",
+      "styleAttributes": {},
+      "fromNode": "58a7cbfa30556da4",
+      "fromSide": "bottom",
+      "toNode": "255640a0ca54a467",
+      "toSide": "top"
+    },
+    {
+      "id": "65cc3d7b58b06c80",
+      "styleAttributes": {},
+      "fromNode": "58a7cbfa30556da4",
+      "fromSide": "top",
+      "toNode": "bc479175b900a97e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "164ac848b89f1791",
+      "styleAttributes": {},
+      "fromNode": "d7aab6d608ce5b03",
+      "fromSide": "left",
+      "toNode": "420df221af796f9f",
+      "toSide": "right"
+    },
+    {
+      "id": "2559f9565d045ae2",
+      "styleAttributes": {},
+      "fromNode": "2d0a9856a962505b",
+      "fromSide": "left",
+      "toNode": "420df221af796f9f",
+      "toSide": "right"
+    },
+    {
+      "id": "98b37d4c83cfc9c3",
+      "styleAttributes": {},
+      "fromNode": "420df221af796f9f",
+      "fromSide": "right",
+      "toNode": "d7aab6d608ce5b03",
+      "toSide": "left"
+    },
+    {
+      "id": "9ece09038d838a00",
+      "styleAttributes": {},
+      "fromNode": "420df221af796f9f",
+      "fromSide": "right",
+      "toNode": "2d0a9856a962505b",
+      "toSide": "left"
+    },
+    {
+      "id": "e6830fbf77318e18",
+      "styleAttributes": {},
+      "fromNode": "f6610d5b7a2984da",
+      "fromSide": "right",
+      "toNode": "58a7cbfa30556da4",
+      "toSide": "left"
+    },
+    {
+      "id": "599effe2645036ee",
+      "styleAttributes": {},
+      "fromNode": "201faeeedd6b84e3",
+      "fromSide": "bottom",
+      "toNode": "3a94484c285a5c32",
+      "toSide": "top"
+    },
+    {
+      "id": "d5a2c415919f5713",
+      "styleAttributes": {},
+      "fromNode": "201faeeedd6b84e3",
+      "fromSide": "bottom",
+      "toNode": "55ddb07ea29a2d46",
+      "toSide": "top"
+    },
+    {
+      "id": "da9eb613eea1091c",
+      "styleAttributes": {},
+      "fromNode": "a063440a0f597f2a",
+      "fromSide": "left",
+      "toNode": "e3420987607a12f6",
+      "toSide": "right"
+    },
+    {
+      "id": "4fd3cf622799f4e1",
+      "styleAttributes": {},
+      "fromNode": "f18b1229038b99c9",
+      "fromSide": "right",
+      "toNode": "81cc0b56295d9215",
+      "toSide": "left"
+    },
+    {
+      "id": "81bb68997fdbed2b",
+      "styleAttributes": {},
+      "fromNode": "a063440a0f597f2a",
+      "fromSide": "right",
+      "toNode": "f18b1229038b99c9",
+      "toSide": "left"
+    },
+    {
+      "id": "6e03d2594b5847eb",
+      "styleAttributes": {},
+      "fromNode": "88f364789d836060",
+      "fromSide": "left",
+      "toNode": "951cb85b0e2420ba",
+      "toSide": "top"
+    },
+    {
+      "id": "6cc675e2251a9829",
+      "styleAttributes": {},
+      "fromNode": "88f364789d836060",
+      "fromSide": "left",
+      "toNode": "1e4e646ca9b22830",
+      "toSide": "top"
+    },
+    {
+      "id": "8638ac78bed2d5d7",
+      "styleAttributes": {},
+      "fromNode": "88f364789d836060",
+      "fromSide": "left",
+      "toNode": "160f9e4dce02e742",
+      "toSide": "right"
+    },
+    {
+      "id": "7b3a43ffcd5d6308",
+      "styleAttributes": {},
+      "fromNode": "aabd0f70c770930c",
+      "fromSide": "left",
+      "toNode": "88f364789d836060",
+      "toSide": "top"
+    },
+    {
+      "id": "4e637c0c8e8a8ab4",
+      "styleAttributes": {},
+      "fromNode": "16df993a7520ddfc",
+      "fromSide": "right",
+      "toNode": "daca34871263aa6d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "720a118dd07aecf7",
+      "styleAttributes": {},
+      "fromNode": "16df993a7520ddfc",
+      "fromSide": "top",
+      "toNode": "94c033c1f2c25052",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4dc3522d7b0bd034",
+      "styleAttributes": {},
+      "fromNode": "94c033c1f2c25052",
+      "fromSide": "top",
+      "toNode": "1eec01da78ef30ad",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ddc690aa1bbddd4e",
+      "styleAttributes": {},
+      "fromNode": "2c31b5b904d1f535",
+      "fromSide": "left",
+      "toNode": "aabd0f70c770930c",
+      "toSide": "right"
+    },
+    {
+      "id": "e00eed39d7ab1ac8",
+      "styleAttributes": {},
+      "fromNode": "3033c2cce21b8b73",
+      "fromSide": "left",
+      "toNode": "2c31b5b904d1f535",
+      "toSide": "right"
+    },
+    {
+      "id": "acef4cb95fe795a9",
+      "styleAttributes": {},
+      "fromNode": "042224d52f08f54a",
+      "fromSide": "bottom",
+      "toNode": "deb4048b6b5614fd",
+      "toSide": "top"
+    },
+    {
+      "id": "bb730b1363bb1383",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "06094e45c9187cc9",
+      "fromSide": "bottom",
+      "toNode": "1868021bae539301",
+      "toSide": "top"
+    },
+    {
+      "id": "cf29bd4421b04aae",
+      "styleAttributes": {},
+      "fromNode": "1868021bae539301",
+      "fromSide": "right",
+      "toNode": "78f33e0047db29ac",
+      "toSide": "left"
+    },
+    {
+      "id": "a1eea30c7f04bf9e",
+      "styleAttributes": {},
+      "fromNode": "1868021bae539301",
+      "fromSide": "right",
+      "toNode": "410946375984d78c",
+      "toSide": "left"
+    },
+    {
+      "id": "3e5adf4058df7bef",
+      "styleAttributes": {},
+      "fromNode": "410946375984d78c",
+      "fromSide": "right",
+      "toNode": "e26cad8d6cc725fc",
+      "toSide": "left"
+    },
+    {
+      "id": "86dc2f8f0637a3c3",
+      "styleAttributes": {},
+      "fromNode": "56655d52193fd939",
+      "fromSide": "right",
+      "toNode": "0c1080f75869a960",
+      "toSide": "left"
+    },
+    {
+      "id": "a0ba14904ba69d3c",
+      "styleAttributes": {},
+      "fromNode": "1868021bae539301",
+      "fromSide": "bottom",
+      "toNode": "0c1080f75869a960",
+      "toSide": "top"
+    },
+    {
+      "id": "a39a6bb832873a00",
+      "styleAttributes": {},
+      "fromNode": "13a6b7332a0016b3",
+      "fromSide": "right",
+      "toNode": "612fddf0aa138628",
+      "toSide": "left"
+    },
+    {
+      "id": "4f8cb27a9c3ae9b4",
+      "styleAttributes": {},
+      "fromNode": "0c1080f75869a960",
+      "fromSide": "right",
+      "toNode": "13a6b7332a0016b3",
+      "toSide": "left"
+    },
+    {
+      "id": "c27d10135416604b",
+      "styleAttributes": {},
+      "fromNode": "78f33e0047db29ac",
+      "fromSide": "right",
+      "toNode": "37f261f3262fc39e",
+      "toSide": "left"
+    },
+    {
+      "id": "a8df91ca2bb3f9c1",
+      "styleAttributes": {},
+      "fromNode": "0c1080f75869a960",
+      "fromSide": "bottom",
+      "toNode": "6db20812de98b956",
+      "toSide": "top"
+    },
+    {
+      "id": "49cab83177161d4c",
+      "styleAttributes": {},
+      "fromNode": "6db20812de98b956",
+      "fromSide": "bottom",
+      "toNode": "1e15176a9a29576a",
+      "toSide": "top"
+    },
+    {
+      "id": "418a8a1a3b18b919",
+      "styleAttributes": {},
+      "fromNode": "1e15176a9a29576a",
+      "fromSide": "right",
+      "toNode": "a0ff1e2a8a26eeb5",
+      "toSide": "left"
+    },
+    {
+      "id": "f286f13b5f885aa7",
+      "styleAttributes": {},
+      "fromNode": "a0ff1e2a8a26eeb5",
+      "fromSide": "right",
+      "toNode": "31c68a317f67c3af",
+      "toSide": "left"
+    },
+    {
+      "id": "1ea286e4037d26d8",
+      "styleAttributes": {},
+      "fromNode": "2c31b5b904d1f535",
+      "fromSide": "top",
+      "toNode": "16df993a7520ddfc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e37fcd359b4282b6",
+      "styleAttributes": {},
+      "fromNode": "16df993a7520ddfc",
+      "fromSide": "left",
+      "toNode": "94942aa22043f7f0",
+      "toSide": "right"
+    },
+    {
+      "id": "eb977c751c489898",
+      "styleAttributes": {},
+      "fromNode": "16df993a7520ddfc",
+      "fromSide": "left",
+      "toNode": "cea64aea7b0b8890",
+      "toSide": "right"
+    },
+    {
+      "id": "57649d9b0dbb119d",
+      "styleAttributes": {},
+      "fromNode": "31c68a317f67c3af",
+      "fromSide": "right",
+      "toNode": "846524aa78d33bd4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eae1359dd08eafaf",
+      "styleAttributes": {},
+      "fromNode": "612fddf0aa138628",
+      "fromSide": "bottom",
+      "toNode": "846524aa78d33bd4",
+      "toSide": "top"
+    },
+    {
+      "id": "88ce28ba7798eacb",
+      "styleAttributes": {},
+      "fromNode": "31c68a317f67c3af",
+      "fromSide": "right",
+      "toNode": "f1b643eaa0151329",
+      "toSide": "left"
+    },
+    {
+      "id": "2ac23d70424339c9",
+      "styleAttributes": {},
+      "fromNode": "1e15176a9a29576a",
+      "fromSide": "bottom",
+      "toNode": "19a44d156653c513",
+      "toSide": "left"
+    },
+    {
+      "id": "a93df7a52c2a6f47",
+      "styleAttributes": {},
+      "fromNode": "31c68a317f67c3af",
+      "fromSide": "bottom",
+      "toNode": "19a44d156653c513",
+      "toSide": "top"
+    },
+    {
+      "id": "ae87a95ab20e3397",
+      "styleAttributes": {},
+      "fromNode": "f1b643eaa0151329",
+      "fromSide": "bottom",
+      "toNode": "19a44d156653c513",
+      "toSide": "top"
+    },
+    {
+      "id": "6a35596c19ca20b1",
+      "styleAttributes": {},
+      "fromNode": "846524aa78d33bd4",
+      "fromSide": "bottom",
+      "toNode": "19a44d156653c513",
+      "toSide": "top"
+    },
+    {
+      "id": "835e535af97b5c5e",
+      "styleAttributes": {},
+      "fromNode": "eb9a4d3b6312adc8",
+      "fromSide": "left",
+      "toNode": "8736a66359466ce6",
+      "toSide": "right"
+    },
+    {
+      "id": "9925fdf677278d95",
+      "styleAttributes": {},
+      "fromNode": "8736a66359466ce6",
+      "fromSide": "left",
+      "toNode": "76bfb9a181a5ebd9",
+      "toSide": "right"
+    },
+    {
+      "id": "f8cce3dc62d51d02",
+      "styleAttributes": {},
+      "fromNode": "1e15176a9a29576a",
+      "fromSide": "left",
+      "toNode": "eb9a4d3b6312adc8",
+      "toSide": "right"
+    },
+    {
+      "id": "d5247f479f858f40",
+      "styleAttributes": {},
+      "fromNode": "1e15176a9a29576a",
+      "fromSide": "bottom",
+      "toNode": "171564193a950ed1",
+      "toSide": "top"
+    },
+    {
+      "id": "c66a0144e3137a3a",
+      "styleAttributes": {},
+      "fromNode": "171564193a950ed1",
+      "fromSide": "bottom",
+      "toNode": "8e9904b7e252e638",
+      "toSide": "top"
+    },
+    {
+      "id": "f4c42c8a92cdd671",
+      "styleAttributes": {},
+      "fromNode": "47785100050623c7",
+      "fromSide": "bottom",
+      "toNode": "201faeeedd6b84e3",
+      "toSide": "top"
+    },
+    {
+      "id": "737a95c822a78773",
+      "styleAttributes": {},
+      "fromNode": "05f39c41ea7540e5",
+      "fromSide": "bottom",
+      "toNode": "6238aa465e8b4ad7",
+      "toSide": "top"
+    },
+    {
+      "id": "650bd49619a72031",
+      "styleAttributes": {},
+      "fromNode": "05f39c41ea7540e5",
+      "fromSide": "bottom",
+      "toNode": "02ced833e8e632d4",
+      "toSide": "top"
+    },
+    {
+      "id": "9bb576d816617a8d",
+      "styleAttributes": {},
+      "fromNode": "47785100050623c7",
+      "fromSide": "bottom",
+      "toNode": "5f0653f6b9661409",
+      "toSide": "top"
+    },
+    {
+      "id": "6a13e2db51264cac",
+      "styleAttributes": {},
+      "fromNode": "78535ae87e0f8b1c",
+      "fromSide": "bottom",
+      "toNode": "8bd8e150d79f271f",
+      "toSide": "top"
+    },
+    {
+      "id": "46bb976229d53cc7",
+      "styleAttributes": {},
+      "fromNode": "86fb5a196eb619b7",
+      "fromSide": "bottom",
+      "toNode": "05f39c41ea7540e5",
+      "toSide": "top"
+    },
+    {
+      "id": "6982e778f48c2cae",
+      "styleAttributes": {},
+      "fromNode": "86fb5a196eb619b7",
+      "fromSide": "bottom",
+      "toNode": "659908bb57bbe7a7",
+      "toSide": "top"
+    },
+    {
+      "id": "a037b04d63b6939f",
+      "styleAttributes": {},
+      "fromNode": "86fb5a196eb619b7",
+      "fromSide": "bottom",
+      "toNode": "47785100050623c7",
+      "toSide": "top"
+    },
+    {
+      "id": "eef41396144a3687",
+      "styleAttributes": {},
+      "fromNode": "86fb5a196eb619b7",
+      "fromSide": "bottom",
+      "toNode": "78535ae87e0f8b1c",
+      "toSide": "top"
+    },
+    {
+      "id": "2a0dfb084132b422",
+      "styleAttributes": {},
+      "fromNode": "86fb5a196eb619b7",
+      "fromSide": "bottom",
+      "toNode": "c3c1e83ef1a271ab",
+      "toSide": "top"
+    },
+    {
+      "id": "73e3ddfaaf6bdf31",
+      "styleAttributes": {},
+      "fromNode": "2c31b5b904d1f535",
+      "fromSide": "bottom",
+      "toNode": "86fb5a196eb619b7",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }

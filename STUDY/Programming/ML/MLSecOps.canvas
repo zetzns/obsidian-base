@@ -3,7 +3,7 @@
     {
       "id": "a0651bfec228ecd9",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/События/Событие.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/События/Событие.md",
       "styleAttributes": {},
       "x": 80,
       "y": -520,
@@ -14,7 +14,7 @@
     {
       "id": "da2ecd3e33e85a0c",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/События/Атрибуты события.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/События/Атрибуты события.md",
       "styleAttributes": {},
       "x": 38,
       "y": -80,
@@ -35,7 +35,7 @@
     {
       "id": "9b05f596c522990d",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/SIEM/SEM.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/SIEM/SEM.md",
       "styleAttributes": {},
       "x": -385,
       "y": 942,
@@ -46,7 +46,7 @@
     {
       "id": "f48c1f3831c547f7",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/SIEM/SIM.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/SIEM/SIM.md",
       "styleAttributes": {},
       "x": 480,
       "y": 942,
@@ -57,7 +57,7 @@
     {
       "id": "4a12fad2dfb9f109",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/SIEM/SIEM.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/SIEM/SIEM.md",
       "styleAttributes": {},
       "x": 107,
       "y": 1744,
@@ -78,7 +78,7 @@
     {
       "id": "2672b0a389a3f012",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Источники событий.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Коллекторы/Источники событий.md",
       "styleAttributes": {},
       "x": 64,
       "y": 2720,
@@ -89,7 +89,7 @@
     {
       "id": "c34735f5582128a7",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Коллекторы.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Коллекторы/Коллекторы.md",
       "styleAttributes": {},
       "x": 41,
       "y": 3320,
@@ -100,7 +100,7 @@
     {
       "id": "a891f6716048856c",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Windows Sysmon.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Коллекторы/Windows Sysmon.md",
       "styleAttributes": {},
       "x": -1120,
       "y": 3561,
@@ -111,7 +111,7 @@
     {
       "id": "fa889eaa80becd48",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Windows EventLog.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Коллекторы/Windows EventLog.md",
       "styleAttributes": {},
       "x": -1080,
       "y": 3080,
@@ -122,7 +122,7 @@
     {
       "id": "3be0e1deb43dbaf7",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/auditd.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Коллекторы/auditd.md",
       "styleAttributes": {},
       "x": 1260,
       "y": 3162,
@@ -133,7 +133,7 @@
     {
       "id": "795e1278dde7b1e7",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Коллекторы/Типы событий auditd.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Коллекторы/Типы событий auditd.md",
       "styleAttributes": {},
       "x": 2300,
       "y": 3333,
@@ -144,7 +144,7 @@
     {
       "id": "0e9cf9e3a389da6c",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Нормализация событий/Регулярные выражения.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Нормализация событий/Регулярные выражения.md",
       "styleAttributes": {},
       "x": 880,
       "y": 4600,
@@ -155,7 +155,7 @@
     {
       "id": "5a214e22a0026600",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Нормализация событий/Нормализация событий.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Нормализация событий/Нормализация событий.md",
       "styleAttributes": {},
       "x": 78,
       "y": 4620,
@@ -166,7 +166,7 @@
     {
       "id": "38d0b7fdad8af5ba",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Нормализация событий/Правила нормализации.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Нормализация событий/Правила нормализации.md",
       "styleAttributes": {},
       "x": -800,
       "y": 4638,
@@ -177,7 +177,7 @@
     {
       "id": "81aeaebc88007cf5",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Корреляция событий.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Корреляция событий/Корреляция событий.md",
       "styleAttributes": {},
       "x": 97,
       "y": 5560,
@@ -188,7 +188,7 @@
     {
       "id": "0b1f4d52125fd3ca",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Типы правил.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Корреляция событий/Типы правил.md",
       "styleAttributes": {},
       "x": 115,
       "y": 6200,
@@ -199,7 +199,7 @@
     {
       "id": "28467dffa2d546db",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Правила корреляции.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Корреляция событий/Правила корреляции.md",
       "styleAttributes": {},
       "x": 115,
       "y": 6880,
@@ -210,7 +210,7 @@
     {
       "id": "5f83ff570e83bb4d",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Корреляция событий/Жизненный цикл правил корреляции.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Корреляция событий/Жизненный цикл правил корреляции.md",
       "styleAttributes": {},
       "x": 920,
       "y": 6890,
@@ -221,7 +221,7 @@
     {
       "id": "bc6c88c4f5d68339",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/ML-based подход.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/ML-based подход.md",
       "styleAttributes": {},
       "x": 72,
       "y": 7640,
@@ -232,7 +232,7 @@
     {
       "id": "7ffd462c6423685c",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Математика SIEM-систем.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Математика SIEM-систем.md",
       "styleAttributes": {},
       "x": 920,
       "y": 7533,
@@ -253,7 +253,7 @@
     {
       "id": "10f1823f88c07c86",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Подходы ML.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Подходы ML.md",
       "styleAttributes": {},
       "x": 116,
       "y": 8508,
@@ -274,7 +274,7 @@
     {
       "id": "724dfb61f05d6862",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Пример аномалий.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Пример аномалий.md",
       "styleAttributes": {},
       "x": 116,
       "y": 9570,
@@ -285,7 +285,7 @@
     {
       "id": "d6a968cf3c6936be",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Метамодели.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Метамодели.md",
       "styleAttributes": {},
       "x": 66,
       "y": 10640,
@@ -306,7 +306,7 @@
     {
       "id": "d6aee39b6e0b9fb0",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Профайлер.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Профайлер.md",
       "styleAttributes": {},
       "x": 129,
       "y": 11520,
@@ -327,7 +327,7 @@
     {
       "id": "d7e778e035455c96",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Графовые свёртки/Графовые свёртки.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Графовые свёртки/Графовые свёртки.md",
       "styleAttributes": {},
       "x": 77,
       "y": 12120,
@@ -338,7 +338,7 @@
     {
       "id": "08e661bc1283d2f9",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Графовые свёртки/Процесс валидации в обучении с графовыми свёртками.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Графовые свёртки/Процесс валидации в обучении с графовыми свёртками.md",
       "styleAttributes": {},
       "x": 122,
       "y": 12837,
@@ -359,7 +359,7 @@
     {
       "id": "df90ea96fef425c3",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Кластеризация в анализе событий/Кластеризация в анализе событий.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Кластеризация в анализе событий/Кластеризация в анализе событий.md",
       "styleAttributes": {},
       "x": 55,
       "y": 13720,
@@ -370,7 +370,7 @@
     {
       "id": "2ae1bb572408b878",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Регрессия в анализе событий/Регрессия в анализе событий.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Регрессия в анализе событий/Регрессия в анализе событий.md",
       "styleAttributes": {},
       "x": 99,
       "y": 14480,
@@ -381,7 +381,7 @@
     {
       "id": "5a02da8c1ea764ce",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Кластеризация в анализе событий/Кластеризация логов.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Кластеризация в анализе событий/Кластеризация логов.md",
       "styleAttributes": {},
       "x": 1173,
       "y": 13734,
@@ -392,7 +392,7 @@
     {
       "id": "9ed35e1655fdd8c5",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Регрессия в анализе событий/Применение регрессии.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Регрессия в анализе событий/Применение регрессии.md",
       "styleAttributes": {},
       "x": 1173,
       "y": 14495,
@@ -403,7 +403,7 @@
     {
       "id": "4a9f6062556fde34",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/ML на событиях/Типовые сценарии.md",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/ML на событиях/Типовые сценарии.md",
       "styleAttributes": {},
       "x": 122,
       "y": 15280,
@@ -413,23 +413,25 @@
     },
     {
       "id": "f12f94aea1e279e5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Противодействие сетевым атакам/Данные/Как будем ловить.md",
+      "styleAttributes": {},
       "x": 3768,
       "y": -558,
       "width": 432,
       "height": 400,
-      "color": "#ff0000",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Противодействие сетевым атакам/Данные/Как будем ловить.md"
+      "color": "#ff0000"
     },
     {
       "id": "84533a1dc33e82b6",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/mlsecops/PT/Противодействие сетевым атакам/Данные/Проблемы.md",
+      "styleAttributes": {},
       "x": 3784,
       "y": 40,
       "width": 400,
       "height": 400,
-      "color": "2",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/mlsecops/Противодействие сетевым атакам/Данные/Проблемы.md"
+      "color": "2"
     }
   ],
   "edges": [

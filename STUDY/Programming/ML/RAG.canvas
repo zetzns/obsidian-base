@@ -1,0 +1,882 @@
+{
+  "nodes": [
+    {
+      "id": "3662454dd50bcb7c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Embeddings.md",
+      "styleAttributes": {},
+      "x": -229,
+      "y": -266,
+      "width": 509,
+      "height": 526,
+      "color": "5"
+    },
+    {
+      "id": "a9d2807f53fa0837",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Зачем нужны embeddings.md",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": -340,
+      "width": 539,
+      "height": 936,
+      "color": "3"
+    },
+    {
+      "id": "a57733d287d8e28a",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Магия семантического пространства.md",
+      "styleAttributes": {},
+      "x": -1300,
+      "y": 760,
+      "width": 760,
+      "height": 940,
+      "color": "3"
+    },
+    {
+      "id": "1d0c07e2d3f98d42",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Зачем нужны Embeddings для RAG.md",
+      "styleAttributes": {},
+      "x": -281,
+      "y": 1440,
+      "width": 614,
+      "height": 680,
+      "color": "4"
+    },
+    {
+      "id": "3818ffbf4d4e6a07",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Виды embedding-моделей.md",
+      "styleAttributes": {},
+      "x": -405,
+      "y": 2320,
+      "width": 863,
+      "height": 1419,
+      "color": "2"
+    },
+    {
+      "id": "acf9ab8125d4a86d",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Базовый пайплайн/Пайплайн RAG.md",
+      "styleAttributes": {},
+      "x": -339,
+      "y": 4000,
+      "width": 733,
+      "height": 2040,
+      "color": "#ff00c8"
+    },
+    {
+      "id": "d651ce40f081c8e0",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Базовый пайплайн/Значение каждого шага.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 4760,
+      "width": 492,
+      "height": 520,
+      "color": "3"
+    },
+    {
+      "id": "c471ff33f493787c",
+      "type": "text",
+      "text": "# LOCAL DEPLOY\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2880,
+      "y": 7058,
+      "width": 720,
+      "height": 400,
+      "color": "#ff0000"
+    },
+    {
+      "id": "c472d643969a7c34",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Особенности деплоя и масштабирования/Локальная среда разработки/Docker Compose для OpenSearch.md",
+      "styleAttributes": {},
+      "x": 2492,
+      "y": 7680,
+      "width": 616,
+      "height": 663,
+      "color": "4"
+    },
+    {
+      "id": "f6dd6c6f87ef69a6",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Особенности деплоя и масштабирования/Локальная среда разработки/Пример сервиса на FastAPI.md",
+      "styleAttributes": {},
+      "x": 3240,
+      "y": 7680,
+      "width": 727,
+      "height": 1158,
+      "color": "4"
+    },
+    {
+      "id": "6d8977092a95c737",
+      "type": "text",
+      "text": "# PRODUCT DEPLOY\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 4604,
+      "y": 7058,
+      "width": 720,
+      "height": 400,
+      "color": "#ff0000"
+    },
+    {
+      "id": "daab2d2d7b41ef3d",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Особенности деплоя и масштабирования/Шаблоны продакшен-деплоя/Деплой в Kubernetes.md",
+      "styleAttributes": {},
+      "x": 4280,
+      "y": 7787,
+      "width": 649,
+      "height": 945,
+      "color": "4"
+    },
+    {
+      "id": "875224d51035396f",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Особенности деплоя и масштабирования/Шаблоны продакшен-деплоя/Мониторинг и наблюдаемость.md",
+      "styleAttributes": {},
+      "x": 5049,
+      "y": 7787,
+      "width": 680,
+      "height": 747,
+      "color": "4"
+    },
+    {
+      "id": "45926d726e957cae",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Подводные камни токенезации/Выбор модели для задачи.md",
+      "styleAttributes": {},
+      "x": -5899,
+      "y": 9772,
+      "width": 480,
+      "height": 640,
+      "color": "4"
+    },
+    {
+      "id": "6ed5de44d4b2e282",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Хранение векторов/Strategy 2. Reference-Based Storage.md",
+      "styleAttributes": {},
+      "x": -3855,
+      "y": 9599,
+      "width": 612,
+      "height": 560,
+      "color": "3"
+    },
+    {
+      "id": "d21fd2333223f087",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Подводные камни токенезации/Ignoring Token Limits.md",
+      "styleAttributes": {},
+      "x": -7299,
+      "y": 9092,
+      "width": 540,
+      "height": 680,
+      "color": "2"
+    },
+    {
+      "id": "e39311869da1a8ad",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Подводные камни токенезации/Inconsistent Tokenizers.md",
+      "styleAttributes": {},
+      "x": -6579,
+      "y": 9092,
+      "width": 479,
+      "height": 582,
+      "color": "2"
+    },
+    {
+      "id": "330f59d9a72f7949",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Подводные камни токенезации/Подводные камни токенезации и эмбедингов.md",
+      "styleAttributes": {},
+      "x": -6540,
+      "y": 8379,
+      "width": 400,
+      "height": 353,
+      "color": "1"
+    },
+    {
+      "id": "646e4ee97d04c936",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Tokenization.md",
+      "styleAttributes": {},
+      "x": -6339,
+      "y": 6972,
+      "width": 680,
+      "height": 840,
+      "color": "1"
+    },
+    {
+      "id": "b483cc5f1f2efff3",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Подводные камни токенезации/Wrong model for task.md",
+      "styleAttributes": {},
+      "x": -5939,
+      "y": 9092,
+      "width": 560,
+      "height": 340,
+      "color": "2"
+    },
+    {
+      "id": "4c7f35267d7eb70c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Векторные БД - основа современных RAG.md",
+      "styleAttributes": {},
+      "x": -4557,
+      "y": 7056,
+      "width": 702,
+      "height": 1315,
+      "color": "1"
+    },
+    {
+      "id": "f473f445042258f8",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Хранение векторов/Стратегии хранения векторов.md",
+      "styleAttributes": {},
+      "x": -4406,
+      "y": 9330,
+      "width": 400,
+      "height": 246,
+      "color": "1"
+    },
+    {
+      "id": "bf2af5f2dcc622e3",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Хранение векторов/Strategy 1. Full Text + Vector Storage.md",
+      "styleAttributes": {},
+      "x": -3855,
+      "y": 8917,
+      "width": 612,
+      "height": 540,
+      "color": "3"
+    },
+    {
+      "id": "5e8f84e577a8694a",
+      "type": "text",
+      "text": "# Critical Design Decisions and Architecture Patterns",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1100,
+      "y": 9383,
+      "width": 740,
+      "height": 480,
+      "color": "#ff0000"
+    },
+    {
+      "id": "e66192d2efaa0530",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Критически важные архитектурные решения и паттерны/Почему одни только эмбеддинги не могут работать.md",
+      "styleAttributes": {},
+      "x": 1152,
+      "y": 10143,
+      "width": 637,
+      "height": 1141,
+      "color": "#ff0000"
+    },
+    {
+      "id": "a759ec36d6cf2750",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Критически важные архитектурные решения и паттерны/Продвинутые архитектурные паттерны хранения/Паттерн 1. Лёгкое хранилище на базе ссылок (reference-based).md",
+      "styleAttributes": {},
+      "x": -171,
+      "y": 11631,
+      "width": 573,
+      "height": 1056,
+      "color": "2"
+    },
+    {
+      "id": "b3e3e236b0f33230",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Критически важные архитектурные решения и паттерны/Продвинутые архитектурные паттерны хранения/Паттерн 2. Иерархический многоуровневый поиск.md",
+      "styleAttributes": {},
+      "x": 493,
+      "y": 11631,
+      "width": 898,
+      "height": 1383,
+      "color": "2"
+    },
+    {
+      "id": "bef3c97a353ce308",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Критически важные архитектурные решения и паттерны/Паттерны отказоустойчивости (fallback & resilience). Multi-strategy retrieval.md",
+      "styleAttributes": {},
+      "x": 1522,
+      "y": 11631,
+      "width": 637,
+      "height": 872,
+      "color": "2"
+    },
+    {
+      "id": "414827acf8f7e2f3",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Критически важные архитектурные решения и паттерны/Оптимизация производительности через кэширование. Content-aware embedding cache.md",
+      "styleAttributes": {},
+      "x": 2362,
+      "y": 11623,
+      "width": 1036,
+      "height": 1760,
+      "color": "2"
+    },
+    {
+      "id": "7b86fd5d3ffc4fd5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Продвинутая гибридная стратегия.md",
+      "styleAttributes": {},
+      "x": -1225,
+      "y": 9482,
+      "width": 830,
+      "height": 961,
+      "color": "2"
+    },
+    {
+      "id": "6ac999eb59dd6231",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Иерархическая архитектура эмбеддингов.md",
+      "styleAttributes": {},
+      "x": -2086,
+      "y": 10638,
+      "width": 769,
+      "height": 1015,
+      "color": "1"
+    },
+    {
+      "id": "8b06cefecf783fb8",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Техники оптимизации, основанные на токенах.md",
+      "styleAttributes": {},
+      "x": -2077,
+      "y": 11792,
+      "width": 760,
+      "height": 1062,
+      "color": "2"
+    },
+    {
+      "id": "0fd4bae8204c1f3a",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Семантический чанкинг.md",
+      "styleAttributes": {},
+      "x": -2054,
+      "y": 9482,
+      "width": 702,
+      "height": 869,
+      "color": "2"
+    },
+    {
+      "id": "0e89eb081e78ea66",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Фиксированный чанкинг по размеру.md",
+      "styleAttributes": {},
+      "x": -2760,
+      "y": 9482,
+      "width": 555,
+      "height": 660,
+      "color": "2"
+    },
+    {
+      "id": "fed7ddec5e29c855",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Продвинутые методы оптимизации/Стратегии улучшения запросов.md",
+      "styleAttributes": {},
+      "x": -2657,
+      "y": 16425,
+      "width": 700,
+      "height": 980,
+      "color": "1"
+    },
+    {
+      "id": "0c7659e21b17883e",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Продвинутые методы оптимизации/Стратегии поиска с несколькими векторами.md",
+      "styleAttributes": {},
+      "x": -1532,
+      "y": 16425,
+      "width": 1101,
+      "height": 1542,
+      "color": "1"
+    },
+    {
+      "id": "11dc4b32ca7f0f17",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Снижение стоимости эмбеддинга.md",
+      "styleAttributes": {},
+      "x": -2817,
+      "y": 14636,
+      "width": 786,
+      "height": 1249,
+      "color": "2"
+    },
+    {
+      "id": "e0d2342676c8ff05",
+      "type": "file",
+      "file": "images/Pasted image 20251211202132.png",
+      "styleAttributes": {},
+      "x": -2135,
+      "y": 13026,
+      "width": 876,
+      "height": 1215
+    },
+    {
+      "id": "6e5ded80a85d3515",
+      "type": "text",
+      "text": "# Продвинутые методы оптимизации",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1892,
+      "y": 16125,
+      "width": 360,
+      "height": 140,
+      "color": "#ff0000"
+    },
+    {
+      "id": "cc74c956cbff05e9",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Метрики качества поиска.md",
+      "styleAttributes": {},
+      "x": -1417,
+      "y": 14636,
+      "width": 870,
+      "height": 1091,
+      "color": "2"
+    },
+    {
+      "id": "550bdb10b61ed8a4",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Архитектура (подробнее).md",
+      "styleAttributes": {},
+      "x": -2880,
+      "y": 13227,
+      "width": 333,
+      "height": 809,
+      "color": "4"
+    },
+    {
+      "id": "d2f0c05305ddd66d",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Чанкинг/Стратегии чанкинга.md",
+      "styleAttributes": {},
+      "x": -1901,
+      "y": 8927,
+      "width": 398,
+      "height": 334,
+      "color": "1"
+    },
+    {
+      "id": "595db790fd68d36f",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Традиционный RAG vs. Гибридный RAG.md",
+      "styleAttributes": {},
+      "x": -1901,
+      "y": 7932,
+      "width": 398,
+      "height": 836,
+      "color": "#ff0000"
+    },
+    {
+      "id": "0ada5ee89437dc8a",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/RAG/Токенезация/Tokenization EXAMPLE.md",
+      "styleAttributes": {},
+      "x": -7643,
+      "y": 8023,
+      "width": 688,
+      "height": 894,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "c08325a2ec4e1d5d",
+      "styleAttributes": {},
+      "fromNode": "3662454dd50bcb7c",
+      "fromSide": "left",
+      "toNode": "a9d2807f53fa0837",
+      "toSide": "right"
+    },
+    {
+      "id": "00b4627a2e7cf37c",
+      "styleAttributes": {},
+      "fromNode": "3662454dd50bcb7c",
+      "fromSide": "left",
+      "toNode": "a57733d287d8e28a",
+      "toSide": "right"
+    },
+    {
+      "id": "b5fbca1ffedd21ad",
+      "styleAttributes": {},
+      "fromNode": "a9d2807f53fa0837",
+      "fromSide": "right",
+      "toNode": "1d0c07e2d3f98d42",
+      "toSide": "top"
+    },
+    {
+      "id": "d34cde474e4dcd2d",
+      "styleAttributes": {},
+      "fromNode": "a57733d287d8e28a",
+      "fromSide": "right",
+      "toNode": "1d0c07e2d3f98d42",
+      "toSide": "top"
+    },
+    {
+      "id": "3cff66bf71a37b05",
+      "styleAttributes": {},
+      "fromNode": "3662454dd50bcb7c",
+      "fromSide": "bottom",
+      "toNode": "1d0c07e2d3f98d42",
+      "toSide": "top"
+    },
+    {
+      "id": "496c7917262480f4",
+      "styleAttributes": {},
+      "fromNode": "1d0c07e2d3f98d42",
+      "fromSide": "bottom",
+      "toNode": "3818ffbf4d4e6a07",
+      "toSide": "top"
+    },
+    {
+      "id": "4cf40523fb11582d",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "right",
+      "toNode": "d651ce40f081c8e0",
+      "toSide": "left"
+    },
+    {
+      "id": "bdde61e7e27fef2b",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "bottom",
+      "toNode": "646e4ee97d04c936",
+      "toSide": "top"
+    },
+    {
+      "id": "46a89d0d568814a8",
+      "styleAttributes": {},
+      "fromNode": "646e4ee97d04c936",
+      "fromSide": "bottom",
+      "toNode": "0ada5ee89437dc8a",
+      "toSide": "top"
+    },
+    {
+      "id": "e1fedcc2d4f5043d",
+      "styleAttributes": {},
+      "fromNode": "646e4ee97d04c936",
+      "fromSide": "bottom",
+      "toNode": "330f59d9a72f7949",
+      "toSide": "top"
+    },
+    {
+      "id": "96a016fc3b06f129",
+      "styleAttributes": {},
+      "fromNode": "330f59d9a72f7949",
+      "fromSide": "bottom",
+      "toNode": "d21fd2333223f087",
+      "toSide": "top"
+    },
+    {
+      "id": "856e3e356b1cb3a8",
+      "styleAttributes": {},
+      "fromNode": "330f59d9a72f7949",
+      "fromSide": "bottom",
+      "toNode": "e39311869da1a8ad",
+      "toSide": "top"
+    },
+    {
+      "id": "c2423723fc9f44cc",
+      "styleAttributes": {},
+      "fromNode": "330f59d9a72f7949",
+      "fromSide": "bottom",
+      "toNode": "b483cc5f1f2efff3",
+      "toSide": "top"
+    },
+    {
+      "id": "31aa7773f07075e7",
+      "styleAttributes": {},
+      "fromNode": "b483cc5f1f2efff3",
+      "fromSide": "bottom",
+      "toNode": "45926d726e957cae",
+      "toSide": "top"
+    },
+    {
+      "id": "30ac9c8b2616d74b",
+      "styleAttributes": {},
+      "fromNode": "f473f445042258f8",
+      "fromSide": "right",
+      "toNode": "bf2af5f2dcc622e3",
+      "toSide": "left"
+    },
+    {
+      "id": "123dca977749f80e",
+      "styleAttributes": {},
+      "fromNode": "f473f445042258f8",
+      "fromSide": "right",
+      "toNode": "6ed5de44d4b2e282",
+      "toSide": "left"
+    },
+    {
+      "id": "bf62580ae045ba67",
+      "styleAttributes": {},
+      "fromNode": "4c7f35267d7eb70c",
+      "fromSide": "bottom",
+      "toNode": "f473f445042258f8",
+      "toSide": "top"
+    },
+    {
+      "id": "c49c952ec27f931e",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "bottom",
+      "toNode": "4c7f35267d7eb70c",
+      "toSide": "top"
+    },
+    {
+      "id": "69c2c33ba47829a2",
+      "styleAttributes": {},
+      "fromNode": "3818ffbf4d4e6a07",
+      "fromSide": "bottom",
+      "toNode": "acf9ab8125d4a86d",
+      "toSide": "top"
+    },
+    {
+      "id": "7395b2848fe0d9db",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "bottom",
+      "toNode": "595db790fd68d36f",
+      "toSide": "top"
+    },
+    {
+      "id": "dee6ecb1ee60e93e",
+      "styleAttributes": {},
+      "fromNode": "595db790fd68d36f",
+      "fromSide": "bottom",
+      "toNode": "d2f0c05305ddd66d",
+      "toSide": "top"
+    },
+    {
+      "id": "80c1bc5de47b2963",
+      "styleAttributes": {},
+      "fromNode": "d2f0c05305ddd66d",
+      "fromSide": "bottom",
+      "toNode": "0e89eb081e78ea66",
+      "toSide": "top"
+    },
+    {
+      "id": "0d0a3871646ae184",
+      "styleAttributes": {},
+      "fromNode": "d2f0c05305ddd66d",
+      "fromSide": "bottom",
+      "toNode": "0fd4bae8204c1f3a",
+      "toSide": "top"
+    },
+    {
+      "id": "8aaab43ae5419736",
+      "styleAttributes": {},
+      "fromNode": "d2f0c05305ddd66d",
+      "fromSide": "bottom",
+      "toNode": "7b86fd5d3ffc4fd5",
+      "toSide": "top"
+    },
+    {
+      "id": "b09f1acc44b372ef",
+      "styleAttributes": {},
+      "fromNode": "0e89eb081e78ea66",
+      "fromSide": "bottom",
+      "toNode": "6ac999eb59dd6231",
+      "toSide": "top"
+    },
+    {
+      "id": "de61d20173c59483",
+      "styleAttributes": {},
+      "fromNode": "0fd4bae8204c1f3a",
+      "fromSide": "bottom",
+      "toNode": "6ac999eb59dd6231",
+      "toSide": "top"
+    },
+    {
+      "id": "095a39c929704f17",
+      "styleAttributes": {},
+      "fromNode": "7b86fd5d3ffc4fd5",
+      "fromSide": "bottom",
+      "toNode": "6ac999eb59dd6231",
+      "toSide": "top"
+    },
+    {
+      "id": "bdf5683886c0e337",
+      "styleAttributes": {},
+      "fromNode": "6ac999eb59dd6231",
+      "fromSide": "bottom",
+      "toNode": "8b06cefecf783fb8",
+      "toSide": "top"
+    },
+    {
+      "id": "1171970d1ace7b5c",
+      "styleAttributes": {},
+      "fromNode": "8b06cefecf783fb8",
+      "fromSide": "bottom",
+      "toNode": "e0d2342676c8ff05",
+      "toSide": "top"
+    },
+    {
+      "id": "0425177ff0665fc1",
+      "styleAttributes": {},
+      "fromNode": "550bdb10b61ed8a4",
+      "fromSide": "right",
+      "toNode": "e0d2342676c8ff05",
+      "toSide": "left"
+    },
+    {
+      "id": "0e79b555fb5f10cf",
+      "styleAttributes": {},
+      "fromNode": "8b06cefecf783fb8",
+      "fromSide": "bottom",
+      "toNode": "cc74c956cbff05e9",
+      "toSide": "top"
+    },
+    {
+      "id": "53905b8cbbfb6279",
+      "styleAttributes": {},
+      "fromNode": "8b06cefecf783fb8",
+      "fromSide": "bottom",
+      "toNode": "11dc4b32ca7f0f17",
+      "toSide": "top"
+    },
+    {
+      "id": "d5d43060c57aa84e",
+      "styleAttributes": {},
+      "fromNode": "11dc4b32ca7f0f17",
+      "fromSide": "bottom",
+      "toNode": "6e5ded80a85d3515",
+      "toSide": "top"
+    },
+    {
+      "id": "d292276c239873c2",
+      "styleAttributes": {},
+      "fromNode": "cc74c956cbff05e9",
+      "fromSide": "bottom",
+      "toNode": "6e5ded80a85d3515",
+      "toSide": "top"
+    },
+    {
+      "id": "f950be0403ec700d",
+      "styleAttributes": {},
+      "fromNode": "6e5ded80a85d3515",
+      "fromSide": "bottom",
+      "toNode": "fed7ddec5e29c855",
+      "toSide": "top"
+    },
+    {
+      "id": "84c98b111527c19a",
+      "styleAttributes": {},
+      "fromNode": "6e5ded80a85d3515",
+      "fromSide": "bottom",
+      "toNode": "0c7659e21b17883e",
+      "toSide": "top"
+    },
+    {
+      "id": "91ee63b48a5bfded",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "bottom",
+      "toNode": "c471ff33f493787c",
+      "toSide": "top"
+    },
+    {
+      "id": "d28f9c170f8e8945",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "bottom",
+      "toNode": "6d8977092a95c737",
+      "toSide": "top"
+    },
+    {
+      "id": "c2951e3efd3a0f14",
+      "styleAttributes": {},
+      "fromNode": "c471ff33f493787c",
+      "fromSide": "bottom",
+      "toNode": "c472d643969a7c34",
+      "toSide": "top"
+    },
+    {
+      "id": "c8d2c498ace3ee68",
+      "styleAttributes": {},
+      "fromNode": "c471ff33f493787c",
+      "fromSide": "bottom",
+      "toNode": "f6dd6c6f87ef69a6",
+      "toSide": "top"
+    },
+    {
+      "id": "64516e6ba337ff18",
+      "styleAttributes": {},
+      "fromNode": "6d8977092a95c737",
+      "fromSide": "bottom",
+      "toNode": "daab2d2d7b41ef3d",
+      "toSide": "top"
+    },
+    {
+      "id": "4513627bcbd83b7c",
+      "styleAttributes": {},
+      "fromNode": "6d8977092a95c737",
+      "fromSide": "bottom",
+      "toNode": "875224d51035396f",
+      "toSide": "top"
+    },
+    {
+      "id": "7ea3aab5f5df0dcd",
+      "styleAttributes": {},
+      "fromNode": "acf9ab8125d4a86d",
+      "fromSide": "bottom",
+      "toNode": "5e8f84e577a8694a",
+      "toSide": "top"
+    },
+    {
+      "id": "cf75103250ac30d2",
+      "styleAttributes": {},
+      "fromNode": "5e8f84e577a8694a",
+      "fromSide": "bottom",
+      "toNode": "e66192d2efaa0530",
+      "toSide": "top"
+    },
+    {
+      "id": "2cc85f24009e01b8",
+      "styleAttributes": {},
+      "fromNode": "e66192d2efaa0530",
+      "fromSide": "bottom",
+      "toNode": "a759ec36d6cf2750",
+      "toSide": "top"
+    },
+    {
+      "id": "d01630be88be300f",
+      "styleAttributes": {},
+      "fromNode": "e66192d2efaa0530",
+      "fromSide": "bottom",
+      "toNode": "b3e3e236b0f33230",
+      "toSide": "top"
+    },
+    {
+      "id": "bbc4f608404cb411",
+      "styleAttributes": {},
+      "fromNode": "e66192d2efaa0530",
+      "fromSide": "bottom",
+      "toNode": "bef3c97a353ce308",
+      "toSide": "top"
+    },
+    {
+      "id": "8a79a138793a7010",
+      "styleAttributes": {},
+      "fromNode": "e66192d2efaa0530",
+      "fromSide": "bottom",
+      "toNode": "414827acf8f7e2f3",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,131 +1,167 @@
 {
-	"nodes":[
-		{
-			"id":"d5925996d5140e9f",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":384,
-			"y":1258,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"5be40031ef5b3c4a",
-			"type":"text",
-			"text":"Secure/Non-Secure — это режим процессора. Он задается битом NS (Non-Secure) в регистре SCR (Secure Configuration Register). Если NS=1, мы в режиме Non-Secure, если NS=0, мы в доверенном, то есть Secure-режиме.",
-			"styleAttributes":{},
-			"x":-140,
-			"y":-320,
-			"width":345,
-			"height":275,
-			"color":"4"
-		},
-		{
-			"id":"bb47981d47b92216",
-			"type":"text",
-			"text":"- NS=0: доверенная ОС или Trusted OS, или Trusted Execution Environment (TEE);  \n",
-			"styleAttributes":{},
-			"x":-380,
-			"y":22,
-			"width":360,
-			"height":100
-		},
-		{
-			"id":"bc26421766f358d5",
-			"type":"text",
-			"text":"- NS=1: гостевая ОС, или Rich OS, или Normal World OS.",
-			"styleAttributes":{},
-			"x":100,
-			"y":24,
-			"width":360,
-			"height":98
-		},
-		{
-			"id":"f05ccd8a820eb3b5",
-			"type":"file",
-			"file":"sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Запуск TEE.md",
-			"styleAttributes":{},
-			"x":-260,
-			"y":633,
-			"width":590,
-			"height":567,
-			"color":"#ffffff"
-		},
-		{
-			"id":"14ddc3337a30a320",
-			"type":"file",
-			"file":"sync/images/Pasted image 20240909162540.png",
-			"styleAttributes":{},
-			"x":-366,
-			"y":1280,
-			"width":800,
-			"height":518,
-			"color":"#ffffff"
-		},
-		{
-			"id":"bbca0bac30f37955",
-			"type":"text",
-			"text":"# Интересует ->",
-			"styleAttributes":{},
-			"x":-780,
-			"y":1489,
-			"width":312,
-			"height":50,
-			"color":"1"
-		},
-		{
-			"id":"6b1d9f0d62572633",
-			"type":"file",
-			"file":"sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Режимы процессора.md",
-			"styleAttributes":{},
-			"x":-366,
-			"y":1920,
-			"width":400,
-			"height":400,
-			"color":"6"
-		},
-		{
-			"id":"b7efa267602bdc87",
-			"type":"file",
-			"file":"sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Secure Monitor.md",
-			"styleAttributes":{},
-			"x":-260,
-			"y":2960,
-			"width":400,
-			"height":3320,
-			"color":"1"
-		},
-		{
-			"id":"eb5eb73fde799f71",
-			"type":"file",
-			"file":"sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Особые режимы процессора.md",
-			"styleAttributes":{},
-			"x":400,
-			"y":2260,
-			"width":400,
-			"height":920,
-			"color":"4"
-		},
-		{
-			"id":"641ad6a1997a5efe",
-			"type":"file",
-			"file":"sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Запуск Boot.md",
-			"styleAttributes":{},
-			"x":700,
-			"y":180,
-			"width":440,
-			"height":1280,
-			"color":"#ffffff"
-		}
-	],
-	"edges":[
-		{"id":"21bdd20cba9136a2","fromNode":"5be40031ef5b3c4a","fromSide":"bottom","toNode":"641ad6a1997a5efe","toSide":"top"},
-		{"id":"0bb9fc5415794cb7","fromNode":"641ad6a1997a5efe","fromSide":"bottom","toNode":"f05ccd8a820eb3b5","toSide":"top"},
-		{"id":"afd2dea5edb76f2e","fromNode":"f05ccd8a820eb3b5","fromSide":"bottom","toNode":"14ddc3337a30a320","toSide":"top"},
-		{"id":"c52cd78c98f5ea8a","fromNode":"14ddc3337a30a320","fromSide":"bottom","toNode":"6b1d9f0d62572633","toSide":"top"},
-		{"id":"84387dedb7ecdb85","fromNode":"6b1d9f0d62572633","fromSide":"bottom","toNode":"eb5eb73fde799f71","toSide":"top"},
-		{"id":"2b51ed5391c1f234","fromNode":"eb5eb73fde799f71","fromSide":"bottom","toNode":"b7efa267602bdc87","toSide":"top"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "d5925996d5140e9f",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 384,
+      "y": 1258,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5be40031ef5b3c4a",
+      "type": "text",
+      "text": "Secure/Non-Secure — это режим процессора. Он задается битом NS (Non-Secure) в регистре SCR (Secure Configuration Register). Если NS=1, мы в режиме Non-Secure, если NS=0, мы в доверенном, то есть Secure-режиме.",
+      "styleAttributes": {},
+      "x": -140,
+      "y": -320,
+      "width": 345,
+      "height": 275,
+      "color": "4"
+    },
+    {
+      "id": "bb47981d47b92216",
+      "type": "text",
+      "text": "- NS=0: доверенная ОС или Trusted OS, или Trusted Execution Environment (TEE);  \n",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 22,
+      "width": 360,
+      "height": 100
+    },
+    {
+      "id": "bc26421766f358d5",
+      "type": "text",
+      "text": "- NS=1: гостевая ОС, или Rich OS, или Normal World OS.",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 24,
+      "width": 360,
+      "height": 98
+    },
+    {
+      "id": "f05ccd8a820eb3b5",
+      "type": "file",
+      "file": "sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Запуск TEE.md",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 633,
+      "width": 590,
+      "height": 567,
+      "color": "#ffffff"
+    },
+    {
+      "id": "14ddc3337a30a320",
+      "type": "file",
+      "file": "sync/images/Pasted image 20240909162540.png",
+      "styleAttributes": {},
+      "x": -366,
+      "y": 1280,
+      "width": 800,
+      "height": 518,
+      "color": "#ffffff"
+    },
+    {
+      "id": "bbca0bac30f37955",
+      "type": "text",
+      "text": "# Интересует ->",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 1489,
+      "width": 312,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "6b1d9f0d62572633",
+      "type": "file",
+      "file": "sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Режимы процессора.md",
+      "styleAttributes": {},
+      "x": -366,
+      "y": 1920,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "b7efa267602bdc87",
+      "type": "file",
+      "file": "sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Secure Monitor.md",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 2960,
+      "width": 400,
+      "height": 3320,
+      "color": "1"
+    },
+    {
+      "id": "eb5eb73fde799f71",
+      "type": "file",
+      "file": "sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Особые режимы процессора.md",
+      "styleAttributes": {},
+      "x": 400,
+      "y": 2260,
+      "width": 400,
+      "height": 920,
+      "color": "4"
+    },
+    {
+      "id": "641ad6a1997a5efe",
+      "type": "file",
+      "file": "sync/STUDY/Security/android/ARM TRUSTZONE/Apparation/Запуск Boot.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 180,
+      "width": 440,
+      "height": 1280,
+      "color": "#ffffff"
+    }
+  ],
+  "edges": [
+    {
+      "id": "21bdd20cba9136a2",
+      "fromNode": "5be40031ef5b3c4a",
+      "fromSide": "bottom",
+      "toNode": "641ad6a1997a5efe",
+      "toSide": "top"
+    },
+    {
+      "id": "0bb9fc5415794cb7",
+      "fromNode": "641ad6a1997a5efe",
+      "fromSide": "bottom",
+      "toNode": "f05ccd8a820eb3b5",
+      "toSide": "top"
+    },
+    {
+      "id": "afd2dea5edb76f2e",
+      "fromNode": "f05ccd8a820eb3b5",
+      "fromSide": "bottom",
+      "toNode": "14ddc3337a30a320",
+      "toSide": "top"
+    },
+    {
+      "id": "c52cd78c98f5ea8a",
+      "fromNode": "14ddc3337a30a320",
+      "fromSide": "bottom",
+      "toNode": "6b1d9f0d62572633",
+      "toSide": "top"
+    },
+    {
+      "id": "84387dedb7ecdb85",
+      "fromNode": "6b1d9f0d62572633",
+      "fromSide": "bottom",
+      "toNode": "eb5eb73fde799f71",
+      "toSide": "top"
+    },
+    {
+      "id": "2b51ed5391c1f234",
+      "fromNode": "eb5eb73fde799f71",
+      "fromSide": "bottom",
+      "toNode": "b7efa267602bdc87",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }
