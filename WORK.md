@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## tasks
 
-- [ ] SIEM & NAT
-- [ ] ML handbook
 
 
 ## On pen

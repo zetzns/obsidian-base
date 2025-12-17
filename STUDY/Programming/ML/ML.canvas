@@ -433,7 +433,7 @@
 		{"id":"c14cc6e104d44b33","x":6701,"y":2560,"width":400,"height":339,"color":"2","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Сведение к задаче оптимизации.md"},
 		{"id":"9e5644f970b4d1d2","x":7803,"y":5340,"width":400,"height":300,"color":"5","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Градиентный спуск.md"},
 		{"id":"6894a3a37b8006cc","x":5967,"y":5460,"width":488,"height":680,"color":"#e100ff","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Аналитическое решение MSE. Решение.md"},
-		{"id":"71ad39106d76c3ec","x":6701,"y":5600,"width":400,"height":400,"color":"2","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Проблемы \"точного\" решения.md"},
+		{"id":"71ad39106d76c3ec","x":6701,"y":5600,"width":400,"height":400,"color":"2","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Проблемы точного решения.md"},
 		{"id":"5695bb94bec843d8","x":7358,"y":5743,"width":445,"height":557,"color":"#bb00ff","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Градиентный спуск функции потерь.md"},
 		{"id":"32b4bce035171c0e","x":6701,"y":6780,"width":400,"height":421,"type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Стоахатический градиентный спуск.md"},
 		{"id":"70d44fdef7213fe1","x":5941,"y":4540,"width":539,"height":719,"color":"#ff0000","type":"file","file":"sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Аналитическое решение MSE. Постановка задачи.md"},
