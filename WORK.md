@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## tasks
 
+- [ ] work (2h)
+- [ ] ml (3h)
+- [ ] lunch (1h)
+- [ ] ml (2h) practice
 
 
 ## On pen
