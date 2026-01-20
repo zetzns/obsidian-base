@@ -71,170 +71,6 @@
       "label": "Качество модели"
     },
     {
-      "id": "33656092119e2447",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Данные/Проблемы при сборе данных.md",
-      "styleAttributes": {},
-      "x": 915,
-      "y": 5720,
-      "width": 626,
-      "height": 1137,
-      "color": "#ffffff"
-    },
-    {
-      "id": "e1f8cfdfccdf4a19",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Прочее.md",
-      "styleAttributes": {},
-      "x": 834,
-      "y": 3120,
-      "width": 581,
-      "height": 767,
-      "color": "4"
-    },
-    {
-      "id": "3514e48b99a0f09e",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Поиск оптимального значения метрик.md",
-      "styleAttributes": {},
-      "x": 1696,
-      "y": 7743,
-      "width": 495,
-      "height": 594,
-      "color": "6"
-    },
-    {
-      "id": "52b53b0f49f8c706",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Бинарная классификация точек на плоскости.md",
-      "styleAttributes": {},
-      "x": 1199,
-      "y": 9102,
-      "width": 630,
-      "height": 1151,
-      "color": "6"
-    },
-    {
-      "id": "f2a22a9177aceefc",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Функция потерь в задаче бинарной классификации.md",
-      "styleAttributes": {},
-      "x": 1333,
-      "y": 10382,
-      "width": 363,
-      "height": 484,
-      "color": "2"
-    },
-    {
-      "id": "1b76a59945bffdd4",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Градиентный спуск в задаче бинарной классификации.md",
-      "styleAttributes": {},
-      "x": 1315,
-      "y": 10982,
-      "width": 400,
-      "height": 661,
-      "color": "2"
-    },
-    {
-      "id": "cdeb5fb6c43ac1b6",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Данные/Разновидности признаков.md",
-      "styleAttributes": {},
-      "x": 1608,
-      "y": 4457,
-      "width": 570,
-      "height": 686,
-      "color": "3"
-    },
-    {
-      "id": "280c6acf67f2dec6",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Данные/Численные признаки.md",
-      "styleAttributes": {},
-      "x": 1693,
-      "y": 5260,
-      "width": 400,
-      "height": 302,
-      "color": "2"
-    },
-    {
-      "id": "e6c151db0e8e888a",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Данные/Создание признаков.md",
-      "styleAttributes": {},
-      "x": 1041,
-      "y": 5240,
-      "width": 374,
-      "height": 342,
-      "color": "2"
-    },
-    {
-      "id": "b2f5ed6384111aff",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Данные/Признаки.md",
-      "styleAttributes": {},
-      "x": 1028,
-      "y": 4560,
-      "width": 400,
-      "height": 480,
-      "color": "3"
-    },
-    {
-      "id": "aa894e279727b0be",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Другие виды ML.md",
-      "styleAttributes": {},
-      "x": 87,
-      "y": 13,
-      "width": 400,
-      "height": 431,
-      "color": "4"
-    },
-    {
-      "id": "e0a0d8387da12faa",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Задача обучения с учителем.md",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 0,
-      "width": 400,
-      "height": 456,
-      "color": "5"
-    },
-    {
-      "id": "71ad39106d76c3ec",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Проблемы точного решения.md",
-      "styleAttributes": {},
-      "x": 6701,
-      "y": 5600,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "5695bb94bec843d8",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Градиентный спуск функции потерь.md",
-      "styleAttributes": {},
-      "x": 7358,
-      "y": 5743,
-      "width": 445,
-      "height": 557,
-      "color": "#bb00ff"
-    },
-    {
-      "id": "32b4bce035171c0e",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Стоахатический градиентный спуск.md",
-      "styleAttributes": {},
-      "x": 6701,
-      "y": 6780,
-      "width": 400,
-      "height": 421
-    },
-    {
       "id": "70d44fdef7213fe1",
       "type": "file",
       "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Аналитическое решение MSE. Постановка задачи.md",
@@ -243,17 +79,6 @@
       "y": 4540,
       "width": 539,
       "height": 719,
-      "color": "#ff0000"
-    },
-    {
-      "id": "abe304bbca959f44",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Данные/Данные.md",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 4160,
-      "width": 400,
-      "height": 400,
       "color": "#ff0000"
     },
     {
@@ -279,15 +104,37 @@
       "color": "5"
     },
     {
-      "id": "6894a3a37b8006cc",
+      "id": "266c6292a96399df",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Аналитическое решение MSE. Решение.md",
+      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Вид функции потерь.md",
       "styleAttributes": {},
-      "x": 5967,
-      "y": 5460,
-      "width": 488,
-      "height": 680,
+      "x": 6631,
+      "y": 3460,
+      "width": 540,
+      "height": 660,
       "color": "#e100ff"
+    },
+    {
+      "id": "71ad39106d76c3ec",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Проблемы точного решения.md",
+      "styleAttributes": {},
+      "x": 6701,
+      "y": 5600,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "5695bb94bec843d8",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Градиентный спуск функции потерь.md",
+      "styleAttributes": {},
+      "x": 7358,
+      "y": 5743,
+      "width": 445,
+      "height": 557,
+      "color": "#bb00ff"
     },
     {
       "id": "a65ae6fc105804f4",
@@ -299,17 +146,6 @@
       "width": 400,
       "height": 359,
       "color": "2"
-    },
-    {
-      "id": "266c6292a96399df",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Вид функции потерь.md",
-      "styleAttributes": {},
-      "x": 6631,
-      "y": 3460,
-      "width": 540,
-      "height": 660,
-      "color": "#e100ff"
     },
     {
       "id": "85a61cadbd37e07d",
@@ -334,39 +170,6 @@
       "color": "2"
     },
     {
-      "id": "428338976b51e942",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Обучающая выборка.md",
-      "styleAttributes": {},
-      "x": 600,
-      "y": -808,
-      "width": 595,
-      "height": 562,
-      "color": "5"
-    },
-    {
-      "id": "6bfc8afa211799ce",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Определение качества модели.md",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 2560,
-      "width": 400,
-      "height": 296,
-      "color": "#ff0000"
-    },
-    {
-      "id": "fb9fb4a32ee94367",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Виды задач обучения с учителем.md",
-      "styleAttributes": {},
-      "x": 1645,
-      "y": 640,
-      "width": 580,
-      "height": 880,
-      "color": "3"
-    },
-    {
       "id": "b6f7f0296e806196",
       "type": "file",
       "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Сущность MSE.md",
@@ -389,103 +192,25 @@
       "color": "#1e00ff"
     },
     {
-      "id": "3dcead565b50fb86",
+      "id": "32b4bce035171c0e",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Алгоритм обучения.md",
+      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Численное решение/Стоахатический градиентный спуск.md",
       "styleAttributes": {},
-      "x": -739,
-      "y": 8680,
+      "x": 6701,
+      "y": 6780,
       "width": 400,
-      "height": 422,
-      "color": "#ff0000"
+      "height": 421
     },
     {
-      "id": "9ffe31eb71fc3241",
+      "id": "6894a3a37b8006cc",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Оптимальные модели.md",
+      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/МНК/Аналитическое решение/Аналитическое решение MSE. Решение.md",
       "styleAttributes": {},
-      "x": 805,
-      "y": 7718,
-      "width": 623,
-      "height": 645,
-      "color": "4"
-    },
-    {
-      "id": "e010a0191f3bb7eb",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Модель.md",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 7200,
-      "width": 480,
-      "height": 518,
-      "color": "#e60000"
-    },
-    {
-      "id": "b552f3fc692340af",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Выбор модели/Обобщающая способность.md",
-      "styleAttributes": {},
-      "x": -735,
-      "y": 11960,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "4cc2444075acc55c",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Гиперпараметры.md",
-      "styleAttributes": {},
-      "x": 801,
-      "y": 11168,
-      "width": 398,
-      "height": 289,
-      "color": "5"
-    },
-    {
-      "id": "cacfcaf28dd86892",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Иерархия метрик.md",
-      "styleAttributes": {},
-      "x": 1674,
-      "y": 3120,
-      "width": 600,
-      "height": 640,
-      "color": "3"
-    },
-    {
-      "id": "07e4dfdb310392d5",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Более сложные формы.md",
-      "styleAttributes": {},
-      "x": 1645,
-      "y": 1624,
-      "width": 580,
+      "x": 5967,
+      "y": 5460,
+      "width": 488,
       "height": 680,
-      "color": "4"
-    },
-    {
-      "id": "35bb59fd31c3a781",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Проблематика.md",
-      "styleAttributes": {},
-      "x": -790,
-      "y": -1160,
-      "width": 500,
-      "height": 914,
-      "color": "#ff0000"
-    },
-    {
-      "id": "203a3cedf129a73b",
-      "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/База/Модель.md",
-      "styleAttributes": {},
-      "x": 697,
-      "y": -1160,
-      "width": 400,
-      "height": 271,
-      "color": "5"
+      "color": "#e100ff"
     },
     {
       "id": "7d823490d3dd02e6",
@@ -497,6 +222,72 @@
       "width": 400,
       "height": 400,
       "color": "#0008ff"
+    },
+    {
+      "id": "e1f8cfdfccdf4a19",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Прочее.md",
+      "styleAttributes": {},
+      "x": 834,
+      "y": 3120,
+      "width": 581,
+      "height": 767,
+      "color": "4"
+    },
+    {
+      "id": "aa894e279727b0be",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/База/Другие виды ML.md",
+      "styleAttributes": {},
+      "x": 87,
+      "y": 13,
+      "width": 400,
+      "height": 431,
+      "color": "4"
+    },
+    {
+      "id": "abe304bbca959f44",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Данные/Данные.md",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 4160,
+      "width": 400,
+      "height": 400,
+      "color": "#ff0000"
+    },
+    {
+      "id": "428338976b51e942",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/База/Обучающая выборка.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -808,
+      "width": 595,
+      "height": 562,
+      "color": "5"
+    },
+    {
+      "id": "6bfc8afa211799ce",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Определение качества модели.md",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 2560,
+      "width": 400,
+      "height": 296,
+      "color": "#ff0000"
+    },
+    {
+      "id": "d5902a316aab6637",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/Достоинства Линейных моделей.md",
+      "styleAttributes": {},
+      "x": 6966,
+      "y": 660,
+      "width": 400,
+      "height": 400,
+      "color": "3"
     },
     {
       "id": "77a769fc6046d08b",
@@ -543,15 +334,114 @@
       "color": "3"
     },
     {
-      "id": "d5902a316aab6637",
+      "id": "33656092119e2447",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Линейные модели/Достоинства Линейных моделей.md",
+      "file": "sync/STUDY/Programming/ML/ml/Данные/Проблемы при сборе данных.md",
       "styleAttributes": {},
-      "x": 6966,
-      "y": 660,
+      "x": 915,
+      "y": 5720,
+      "width": 626,
+      "height": 1137,
+      "color": "#ffffff"
+    },
+    {
+      "id": "1b76a59945bffdd4",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Градиентный спуск в задаче бинарной классификации.md",
+      "styleAttributes": {},
+      "x": 1315,
+      "y": 10982,
+      "width": 400,
+      "height": 661,
+      "color": "2"
+    },
+    {
+      "id": "e6c151db0e8e888a",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Данные/Создание признаков.md",
+      "styleAttributes": {},
+      "x": 1041,
+      "y": 5240,
+      "width": 374,
+      "height": 342,
+      "color": "2"
+    },
+    {
+      "id": "b2f5ed6384111aff",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Данные/Признаки.md",
+      "styleAttributes": {},
+      "x": 1028,
+      "y": 4560,
+      "width": 400,
+      "height": 480,
+      "color": "3"
+    },
+    {
+      "id": "9ffe31eb71fc3241",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Оптимальные модели.md",
+      "styleAttributes": {},
+      "x": 805,
+      "y": 7718,
+      "width": 623,
+      "height": 645,
+      "color": "4"
+    },
+    {
+      "id": "4cc2444075acc55c",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Гиперпараметры.md",
+      "styleAttributes": {},
+      "x": 801,
+      "y": 11168,
+      "width": 398,
+      "height": 289,
+      "color": "5"
+    },
+    {
+      "id": "e0a0d8387da12faa",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/База/Задача обучения с учителем.md",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 0,
+      "width": 400,
+      "height": 456,
+      "color": "5"
+    },
+    {
+      "id": "3dcead565b50fb86",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Алгоритм обучения.md",
+      "styleAttributes": {},
+      "x": -739,
+      "y": 8680,
+      "width": 400,
+      "height": 422,
+      "color": "#ff0000"
+    },
+    {
+      "id": "e010a0191f3bb7eb",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Модель.md",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 7200,
+      "width": 480,
+      "height": 518,
+      "color": "#e60000"
+    },
+    {
+      "id": "b552f3fc692340af",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Выбор модели/Обобщающая способность.md",
+      "styleAttributes": {},
+      "x": -735,
+      "y": 11960,
       "width": 400,
       "height": 400,
-      "color": "3"
+      "color": "1"
     },
     {
       "id": "3c6e6517a42f2eb1",
@@ -565,14 +455,25 @@
       "color": "5"
     },
     {
-      "id": "8ae13346e8863a72",
+      "id": "35bb59fd31c3a781",
       "type": "file",
-      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Accuracy Recall Precision.md",
+      "file": "sync/STUDY/Programming/ML/ml/База/Проблематика.md",
       "styleAttributes": {},
-      "x": 2614,
-      "y": 3291,
+      "x": -790,
+      "y": -1160,
+      "width": 500,
+      "height": 914,
+      "color": "#ff0000"
+    },
+    {
+      "id": "203a3cedf129a73b",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/База/Модель.md",
+      "styleAttributes": {},
+      "x": 697,
+      "y": -1160,
       "width": 400,
-      "height": 298,
+      "height": 271,
       "color": "5"
     },
     {
@@ -629,6 +530,105 @@
       "y": 12480,
       "width": 454,
       "height": 510,
+      "color": "2"
+    },
+    {
+      "id": "fb9fb4a32ee94367",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/База/Виды задач обучения с учителем.md",
+      "styleAttributes": {},
+      "x": 1645,
+      "y": 640,
+      "width": 580,
+      "height": 880,
+      "color": "3"
+    },
+    {
+      "id": "cacfcaf28dd86892",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Иерархия метрик.md",
+      "styleAttributes": {},
+      "x": 1674,
+      "y": 3120,
+      "width": 600,
+      "height": 640,
+      "color": "3"
+    },
+    {
+      "id": "07e4dfdb310392d5",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/База/Более сложные формы.md",
+      "styleAttributes": {},
+      "x": 1645,
+      "y": 1624,
+      "width": 580,
+      "height": 680,
+      "color": "4"
+    },
+    {
+      "id": "8ae13346e8863a72",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Критерии качества/Accuracy Recall Precision.md",
+      "styleAttributes": {},
+      "x": 2614,
+      "y": 3291,
+      "width": 400,
+      "height": 298,
+      "color": "5"
+    },
+    {
+      "id": "3514e48b99a0f09e",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Поиск оптимального значения метрик.md",
+      "styleAttributes": {},
+      "x": 1696,
+      "y": 7743,
+      "width": 495,
+      "height": 594,
+      "color": "6"
+    },
+    {
+      "id": "52b53b0f49f8c706",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Бинарная классификация точек на плоскости.md",
+      "styleAttributes": {},
+      "x": 1199,
+      "y": 9102,
+      "width": 630,
+      "height": 1151,
+      "color": "6"
+    },
+    {
+      "id": "cdeb5fb6c43ac1b6",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Данные/Разновидности признаков.md",
+      "styleAttributes": {},
+      "x": 1608,
+      "y": 4457,
+      "width": 570,
+      "height": 686,
+      "color": "3"
+    },
+    {
+      "id": "280c6acf67f2dec6",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Данные/Численные признаки.md",
+      "styleAttributes": {},
+      "x": 1693,
+      "y": 5260,
+      "width": 400,
+      "height": 302,
+      "color": "2"
+    },
+    {
+      "id": "f2a22a9177aceefc",
+      "type": "file",
+      "file": "sync/STUDY/Programming/ML/ml/Модель и Алгоритм обучения/Бинарная классификация/Функция потерь в задаче бинарной классификации.md",
+      "styleAttributes": {},
+      "x": 1333,
+      "y": 10382,
+      "width": 363,
+      "height": 484,
       "color": "2"
     }
   ],
