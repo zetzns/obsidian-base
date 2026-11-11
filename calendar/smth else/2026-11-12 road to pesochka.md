@@ -1,0 +1,8 @@
+---
+title: road to pesochka
+allDay: false
+startTime: 18:00
+endTime: 19:00
+date: 2026-11-12
+completed: null
+---

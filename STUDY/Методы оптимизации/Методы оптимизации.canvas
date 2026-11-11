@@ -1,0 +1,160 @@
+{
+	"nodes":[
+		{"id":"5fdf72e8f16f9ca3","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/База/Мотивация.md","x":-200,"y":-920,"width":560,"height":500,"color":"#f00000"},
+		{"id":"31205469faf7a7b9","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/База/Пример.md","x":-930,"y":-720,"width":500,"height":480,"color":"4"},
+		{"id":"820c25e0452fcd11","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/База/Диета Стиглера.md","x":-1130,"y":-180,"width":700,"height":560,"color":"4"},
+		{"id":"37d6b52c1c44c4eb","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/База/Формулировка задачи оптимизации.md","x":-170,"y":100,"width":500,"height":460,"color":"1"},
+		{"id":"49679160036f6d78","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классификация задач оптимизации/Классификация задач оптимизации.md","x":-190,"y":760,"width":540,"height":600,"color":"1"},
+		{"id":"cc3b02830f3ef9ea","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классификация задач оптимизации/Условия экстремума/Гладкий случай.md","x":800,"y":680,"width":640,"height":760,"color":"2"},
+		{"id":"0d17882453ce0097","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классификация задач оптимизации/Оптимальное решение.md","x":-830,"y":900,"width":400,"height":320,"color":"1"},
+		{"id":"9147d58c5ce980f6","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классы функций в оптимизации/Сильно выпуклые функции с параметром m.md","x":-1490,"y":3480,"width":660,"height":580,"color":"2"},
+		{"id":"14fb7fb6d9057347","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классы функций в оптимизации/Выпуклые множества.md","x":-3260,"y":1660,"width":600,"height":760,"color":"2"},
+		{"id":"4b6ddb17bbe9e1f8","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классы функций в оптимизации/Класс Липшецевых функций.md","x":-2540,"y":1660,"width":720,"height":940,"color":"2"},
+		{"id":"089c18d7dc396689","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Классы функций в оптимизации/Выпуклые функции.md","x":-3280,"y":2540,"width":640,"height":940,"color":"2"},
+		{"id":"d63ea1eb34541bd5","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Эффективность численных методов.md","x":-360,"y":4160,"width":860,"height":860,"color":"#ff0000"},
+		{"id":"afcb92921caf4da1","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Типы Оракулов.md","x":740,"y":4450,"width":380,"height":280,"color":"2"},
+		{"id":"325b7297f6bffde9","type":"file","file":"sync/STUDY/Методы оптимизации/ИТМО/Лекция 1/Скорость сходимости итерационных процессов.md","x":-230,"y":5140,"width":600,"height":1120,"color":"1"},
+		{"id":"d14944a74135578f","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/ЛП.canvas","x":1760,"y":1760,"width":760,"height":820}
+	],
+	"edges":[
+		{
+			"id":"18c0a41a6fcee19f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5fdf72e8f16f9ca3",
+			"fromSide":"left",
+			"toNode":"31205469faf7a7b9",
+			"toSide":"right"
+		},
+		{
+			"id":"3adebd88c371816c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5fdf72e8f16f9ca3",
+			"fromSide":"left",
+			"toNode":"820c25e0452fcd11",
+			"toSide":"right"
+		},
+		{
+			"id":"784cc6c181629218",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5fdf72e8f16f9ca3",
+			"fromSide":"bottom",
+			"toNode":"37d6b52c1c44c4eb",
+			"toSide":"top"
+		},
+		{
+			"id":"4199d09bf0965262",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37d6b52c1c44c4eb",
+			"fromSide":"bottom",
+			"toNode":"49679160036f6d78",
+			"toSide":"top"
+		},
+		{
+			"id":"c1d45d5e797621ab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"right",
+			"toNode":"cc3b02830f3ef9ea",
+			"toSide":"left"
+		},
+		{
+			"id":"fb60962f763562e3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"left",
+			"toNode":"0d17882453ce0097",
+			"toSide":"right"
+		},
+		{
+			"id":"8b428efea3574083",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"14fb7fb6d9057347",
+			"fromSide":"bottom",
+			"toNode":"089c18d7dc396689",
+			"toSide":"top"
+		},
+		{
+			"id":"2d15e4fd7845af2a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"089c18d7dc396689",
+			"fromSide":"bottom",
+			"toNode":"9147d58c5ce980f6",
+			"toSide":"top"
+		},
+		{
+			"id":"4b6cc4f032bf90f1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"bottom",
+			"toNode":"14fb7fb6d9057347",
+			"toSide":"top"
+		},
+		{
+			"id":"f32024d5b963eca3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"bottom",
+			"toNode":"4b6ddb17bbe9e1f8",
+			"toSide":"top"
+		},
+		{
+			"id":"449e7ed6f78a8670",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"bottom",
+			"toNode":"9147d58c5ce980f6",
+			"toSide":"top"
+		},
+		{
+			"id":"36f7a93cc15dc504",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"bottom",
+			"toNode":"d63ea1eb34541bd5",
+			"toSide":"top"
+		},
+		{
+			"id":"cdd1e4c1e2e702cd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d63ea1eb34541bd5",
+			"fromSide":"right",
+			"toNode":"afcb92921caf4da1",
+			"toSide":"left"
+		},
+		{
+			"id":"71d278e264993cf1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d63ea1eb34541bd5",
+			"fromSide":"bottom",
+			"toNode":"325b7297f6bffde9",
+			"toSide":"top"
+		},
+		{
+			"id":"ee407f63c2134c7b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49679160036f6d78",
+			"fromSide":"bottom",
+			"toNode":"d14944a74135578f",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

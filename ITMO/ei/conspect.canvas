@@ -1,0 +1,147 @@
+{
+	"nodes":[
+		{"id":"5be8e8bccd7da637","type":"file","file":"sync/ITMO/ei/Emotional Intelligence.md","x":-260,"y":-300,"width":520,"height":620,"color":"1"},
+		{"id":"5beda4efd72b8478","type":"file","file":"sync/ITMO/ei/Why emotions are so powerful.md","x":-360,"y":440,"width":720,"height":880,"color":"2"},
+		{"id":"c04312381b5a8144","type":"file","file":"sync/ITMO/ei/Individual differences in emotions.md","x":-330,"y":1480,"width":660,"height":760,"color":"1"},
+		{"id":"a771dc83f326ee4f","type":"file","file":"sync/ITMO/ei/Emotions as “programs”.md","x":600,"y":1630,"width":720,"height":460,"color":"4"},
+		{"id":"55e25fdd5448eaba","type":"file","file":"sync/ITMO/ei/Respecting differences.md","x":80,"y":2640,"width":680,"height":740,"color":"2"},
+		{"id":"5d6b33c66a62c78c","type":"file","file":"sync/ITMO/ei/Four important emotional skills.md","x":220,"y":3560,"width":400,"height":340,"color":"1"},
+		{"id":"7ebe80a854f84481","type":"file","file":"sync/ITMO/ei/Notice when you have already started reacting.md","x":-160,"y":4160,"width":520,"height":740,"color":"2"},
+		{"id":"95c39bd554b3a349","type":"file","file":"sync/ITMO/ei/Respond constructively to other people's emotions.md","x":1080,"y":4080,"width":700,"height":740,"color":"2"},
+		{"id":"4dedb53ecbdfb71c","type":"file","file":"sync/ITMO/ei/Recognise emotions in other people.md","x":480,"y":4160,"width":500,"height":740,"color":"2"},
+		{"id":"c2c35a01a1d34a7a","type":"file","file":"sync/ITMO/ei/Notice the impulse before acting.md","x":-960,"y":4080,"width":660,"height":600,"color":"2"},
+		{"id":"c7c4ebd39ddc79ec","type":"file","file":"sync/ITMO/ei/Main idea of 1 lecture.md","x":190,"y":5200,"width":460,"height":640,"color":"1"}
+	],
+	"edges":[
+		{
+			"id":"79cd2763f8f45d34",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5be8e8bccd7da637",
+			"fromSide":"bottom",
+			"toNode":"5beda4efd72b8478",
+			"toSide":"top"
+		},
+		{
+			"id":"f5576af759876aa6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5beda4efd72b8478",
+			"fromSide":"bottom",
+			"toNode":"c04312381b5a8144",
+			"toSide":"top"
+		},
+		{
+			"id":"fdd92df7ac77bddc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a771dc83f326ee4f",
+			"fromSide":"left",
+			"toNode":"c04312381b5a8144",
+			"toSide":"right"
+		},
+		{
+			"id":"690d6a2b3ff48a06",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c04312381b5a8144",
+			"fromSide":"bottom",
+			"toNode":"55e25fdd5448eaba",
+			"toSide":"top"
+		},
+		{
+			"id":"da896d710f44a6a0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a771dc83f326ee4f",
+			"fromSide":"bottom",
+			"toNode":"55e25fdd5448eaba",
+			"toSide":"top"
+		},
+		{
+			"id":"b8abd9ff84a0997c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55e25fdd5448eaba",
+			"fromSide":"bottom",
+			"toNode":"5d6b33c66a62c78c",
+			"toSide":"top"
+		},
+		{
+			"id":"a1c99072528d9edf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d6b33c66a62c78c",
+			"fromSide":"bottom",
+			"toNode":"4dedb53ecbdfb71c",
+			"toSide":"top"
+		},
+		{
+			"id":"94feb2b31f7561ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d6b33c66a62c78c",
+			"fromSide":"bottom",
+			"toNode":"7ebe80a854f84481",
+			"toSide":"top"
+		},
+		{
+			"id":"f303397a82c1d85a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d6b33c66a62c78c",
+			"fromSide":"bottom",
+			"toNode":"95c39bd554b3a349",
+			"toSide":"top"
+		},
+		{
+			"id":"36cc532926938a10",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d6b33c66a62c78c",
+			"fromSide":"bottom",
+			"toNode":"c2c35a01a1d34a7a",
+			"toSide":"top"
+		},
+		{
+			"id":"8b51a2e66ebb60c4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4dedb53ecbdfb71c",
+			"fromSide":"bottom",
+			"toNode":"c7c4ebd39ddc79ec",
+			"toSide":"top"
+		},
+		{
+			"id":"fbee6e4d7a7193e8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ebe80a854f84481",
+			"fromSide":"bottom",
+			"toNode":"c7c4ebd39ddc79ec",
+			"toSide":"top"
+		},
+		{
+			"id":"f83bc5553ccc90bc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"95c39bd554b3a349",
+			"fromSide":"bottom",
+			"toNode":"c7c4ebd39ddc79ec",
+			"toSide":"top"
+		},
+		{
+			"id":"057dc04290debdfd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c2c35a01a1d34a7a",
+			"fromSide":"bottom",
+			"toNode":"c7c4ebd39ddc79ec",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

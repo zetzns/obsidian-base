@@ -1,0 +1,472 @@
+{
+	"nodes":[
+		{"id":"68298e51bf0207bb","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Графический метод решения задач линейного программирования.md","x":-800,"y":1120,"width":740,"height":780,"color":"1"},
+		{"id":"a549c40bfff52823","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Графический метод/2 Графический способ Градиент.md","x":-1230,"y":2780,"width":800,"height":1040,"color":"3"},
+		{"id":"eae388fc0027838f","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Графический метод/Пример 2 способом.md","x":-1120,"y":3920,"width":580,"height":960,"color":"6"},
+		{"id":"43122e7dbbd4901a","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Графический метод/1 Графичисеский способ Перебор.md","x":-2080,"y":2780,"width":510,"height":400,"color":"3"},
+		{"id":"277b0dcd661fce06","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Графический метод/Линия уровня.md","x":-320,"y":2170,"width":400,"height":340,"color":"4"},
+		{"id":"3fecb49aa962a5fc","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Графический метод/Опорная прямая.md","x":240,"y":2170,"width":400,"height":440,"color":"4"},
+		{"id":"ec9c5406f590ad16","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод решения ЛП.md","x":1680,"y":1120,"width":720,"height":840,"color":"#ff0000"},
+		{"id":"ae134c5dd6843d83","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Базис решения.md","x":1740,"y":2060,"width":600,"height":660,"color":"2"},
+		{"id":"8f41aa2dc32eb024","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Формализация симплекс метода 1.md","x":1770,"y":3400,"width":540,"height":380,"color":"2"},
+		{"id":"75c935a949e59460","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Симлекс метод Алгоритм.md","x":1785,"y":2780,"width":510,"height":520,"color":"1"},
+		{"id":"f4420ea7ae034c16","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/База/Невырожденная матрица.md","x":2520,"y":1120,"width":400,"height":260,"color":"4"},
+		{"id":"c73343e2bcc9ffaf","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/База/Ранг матрицы.md","x":2520,"y":1440,"width":400,"height":200,"color":"4"},
+		{"id":"c49b536029eee418","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Сведение задачи ЛП к каноническому виду.md","x":640,"y":1120,"width":640,"height":620,"color":"2"},
+		{"id":"c76abc48129af5e5","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Формализация симплекс метода 2.md","x":1793,"y":3880,"width":495,"height":1020,"color":"2"},
+		{"id":"77a160a316bc94b7","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Формализация симплекс метода 3.md","x":1757,"y":5000,"width":567,"height":1000,"color":"2"},
+		{"id":"68ef3e3060bfb3fc","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Алгоритм выбора столбца.md","x":1711,"y":6160,"width":660,"height":960,"color":"1"},
+		{"id":"202c756c676c788d","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Уменьшение нескольких базисных перменных.md","x":2560,"y":6310,"width":580,"height":660,"color":"3"},
+		{"id":"1bd864c101fc6392","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Поворот базиса.md","x":1701,"y":7280,"width":680,"height":1060,"color":"1"},
+		{"id":"be56dd3f80d68b4a","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Симлекс метод/Пример.md","x":1621,"y":8480,"width":840,"height":1640,"color":"4"},
+		{"id":"e44b40113ab6aae6","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Получение базиса/Метод искусственного базиса.md","x":2720,"y":3000,"width":960,"height":1560,"color":"1"},
+		{"id":"490dfaf2789a5dc7","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Двойственная задача/Двойственная задача ЛП.md","x":4400,"y":1120,"width":600,"height":840,"color":"#ff0000"},
+		{"id":"9327531e4542dd3f","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Двойственная задача/Алгоритм формулировки новой задачи.md","x":4390,"y":2080,"width":620,"height":740,"color":"1"},
+		{"id":"9d62b5fa22517a5a","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Двойственная задача/Теорема о допустимых решениях.md","x":4420,"y":2920,"width":560,"height":320,"color":"2"},
+		{"id":"aa34c3ceb2808473","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Методы решения/Двойственная задача/Теорема двойственности.md","x":4445,"y":3360,"width":510,"height":1020,"color":"2"},
+		{"id":"759995935212359c","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортная задача.md","x":6880,"y":1120,"width":560,"height":360,"color":"#ff0000"},
+		{"id":"b7465e2ba25561ba","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Виды транспортных задач.md","x":6970,"y":1640,"width":380,"height":360,"color":"2"},
+		{"id":"2f8fdf78977ecae6","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Линейное программирование.md","x":3360,"y":-2080,"width":640,"height":480,"color":"#ff0000"},
+		{"id":"8702d897b463b288","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Стандартная задача ЛП.md","x":3380,"y":-1460,"width":600,"height":720,"color":"2"},
+		{"id":"4b3833ba1655019f","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/КТЗ/КТЗ.md","x":6800,"y":2500,"width":860,"height":1160,"color":"1"},
+		{"id":"8fdf8a6394d101bf","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/КТЗ/Условие баланса КТЗ.md","x":6885,"y":3800,"width":690,"height":840,"color":"2"},
+		{"id":"c330ec3283a096c6","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/КТЗ/Решение дисбаланса.md","x":7575,"y":4920,"width":500,"height":560,"color":"4"},
+		{"id":"3260a6b4af0cf44d","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/КТЗ/КТЗ Постановка задачи ЛП.md","x":6980,"y":5680,"width":500,"height":520,"color":"2"},
+		{"id":"1a1f373af8986712","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/Общая идея.md","x":7030,"y":6540,"width":400,"height":340,"color":"3"},
+		{"id":"143b17a158121360","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/Нахождение первоначального базиса.md","x":6890,"y":7140,"width":680,"height":1020,"color":"1"},
+		{"id":"4cfe46c88a0bfb0e","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/План перевозок и матрица издержек.md","x":7760,"y":6320,"width":400,"height":300,"color":"4"},
+		{"id":"0d3a993c18ec776f","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/Допустимый план.md","x":7760,"y":6660,"width":400,"height":220,"color":"4"},
+		{"id":"0f6d00fd88eaf026","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/Оптимальный план.md","x":7760,"y":6940,"width":400,"height":180,"color":"4"},
+		{"id":"55ca9503d874a264","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/Проверка текущего базиса на оптимальность.md","x":6740,"y":8400,"width":980,"height":1620,"color":"1"},
+		{"id":"f3655f1ff502fd17","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/Решение КТЗ методом потенциалов/Улучшение базиса.md","x":6880,"y":10280,"width":700,"height":780,"color":"1"},
+		{"id":"97e55cc975845da9","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Задача определения кратчайщего пути на сети/Задача определения кратчайшего пути на сети.md","x":9120,"y":10280,"width":520,"height":780,"color":"1"},
+		{"id":"63056fe46305dd7a","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/ОТЗ/Условие баланса ОТЗ.md","x":5265,"y":10670,"width":460,"height":440,"color":"2"},
+		{"id":"51cf04f5fc6b8a87","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/ОТЗ/ОТЗ.md","x":5190,"y":9390,"width":610,"height":1140,"color":"1"},
+		{"id":"7025a28207179356","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/ОТЗ через КТЗ/Решение ОТЗ путём сведения к задаче поиска кратчайшего пути и КТЗ.md","x":5125,"y":11840,"width":740,"height":1080,"color":"1"},
+		{"id":"b1e8e94a50fc3920","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/ОТЗ через КТЗ/Алгоритм решения ОТЗ.md","x":5195,"y":13040,"width":600,"height":560,"color":"1"},
+		{"id":"9754efc46b5dbce9","type":"file","file":"sync/STUDY/Методы оптимизации/Линейное программирование/Транспортные задачи/Алгоритмы/ОТЗ через КТЗ/Ограничения на пропускную способность.md","x":5153,"y":13720,"width":685,"height":840,"color":"1"}
+	],
+	"edges":[
+		{
+			"id":"e8eff7700e03a4ec",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2f8fdf78977ecae6",
+			"fromSide":"bottom",
+			"toNode":"8702d897b463b288",
+			"toSide":"top"
+		},
+		{
+			"id":"95534684d23579c1",
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":null
+			},
+			"toFloating":false,
+			"fromNode":"8702d897b463b288",
+			"fromSide":"bottom",
+			"toNode":"68298e51bf0207bb",
+			"toSide":"top"
+		},
+		{
+			"id":"181a3b5ca5ee2d42",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68298e51bf0207bb",
+			"fromSide":"bottom",
+			"toNode":"43122e7dbbd4901a",
+			"toSide":"top"
+		},
+		{
+			"id":"6a2aefed86938c43",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68298e51bf0207bb",
+			"fromSide":"bottom",
+			"toNode":"a549c40bfff52823",
+			"toSide":"top"
+		},
+		{
+			"id":"a2ab351732b4e912",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"277b0dcd661fce06",
+			"fromSide":"bottom",
+			"toNode":"a549c40bfff52823",
+			"toSide":"top"
+		},
+		{
+			"id":"02aad09036383d46",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3fecb49aa962a5fc",
+			"fromSide":"bottom",
+			"toNode":"a549c40bfff52823",
+			"toSide":"top"
+		},
+		{
+			"id":"b0000b07c0accf2f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a549c40bfff52823",
+			"fromSide":"bottom",
+			"toNode":"eae388fc0027838f",
+			"toSide":"top"
+		},
+		{
+			"id":"85ebed4bff595bdf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8702d897b463b288",
+			"fromSide":"bottom",
+			"toNode":"c49b536029eee418",
+			"toSide":"top"
+		},
+		{
+			"id":"8c47378eb55e2262",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8702d897b463b288",
+			"fromSide":"bottom",
+			"toNode":"ec9c5406f590ad16",
+			"toSide":"top"
+		},
+		{
+			"id":"4c5bfd9037d3b575",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f4420ea7ae034c16",
+			"fromSide":"left",
+			"toNode":"ec9c5406f590ad16",
+			"toSide":"right"
+		},
+		{
+			"id":"fe0d6db101eeea96",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c73343e2bcc9ffaf",
+			"fromSide":"left",
+			"toNode":"ec9c5406f590ad16",
+			"toSide":"right"
+		},
+		{
+			"id":"20ab3294476f63ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ec9c5406f590ad16",
+			"fromSide":"bottom",
+			"toNode":"ae134c5dd6843d83",
+			"toSide":"top"
+		},
+		{
+			"id":"1ac9bf1706ac6c60",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ae134c5dd6843d83",
+			"fromSide":"bottom",
+			"toNode":"75c935a949e59460",
+			"toSide":"top"
+		},
+		{
+			"id":"ac0873e64c13d0fa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"75c935a949e59460",
+			"fromSide":"bottom",
+			"toNode":"8f41aa2dc32eb024",
+			"toSide":"top"
+		},
+		{
+			"id":"726d7e4530377506",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8f41aa2dc32eb024",
+			"fromSide":"bottom",
+			"toNode":"c76abc48129af5e5",
+			"toSide":"top"
+		},
+		{
+			"id":"ec12c3305f44a7ea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c76abc48129af5e5",
+			"fromSide":"bottom",
+			"toNode":"77a160a316bc94b7",
+			"toSide":"top"
+		},
+		{
+			"id":"cb4643f517d3057c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"77a160a316bc94b7",
+			"fromSide":"bottom",
+			"toNode":"68ef3e3060bfb3fc",
+			"toSide":"top"
+		},
+		{
+			"id":"303f4963be2b764f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68ef3e3060bfb3fc",
+			"fromSide":"right",
+			"toNode":"202c756c676c788d",
+			"toSide":"left"
+		},
+		{
+			"id":"2530641c4136b711",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68ef3e3060bfb3fc",
+			"fromSide":"bottom",
+			"toNode":"1bd864c101fc6392",
+			"toSide":"top"
+		},
+		{
+			"id":"0ff61a03b5e23eb5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1bd864c101fc6392",
+			"fromSide":"bottom",
+			"toNode":"be56dd3f80d68b4a",
+			"toSide":"top"
+		},
+		{
+			"id":"eb4989c3e84375ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"75c935a949e59460",
+			"fromSide":"right",
+			"toNode":"e44b40113ab6aae6",
+			"toSide":"top"
+		},
+		{
+			"id":"dad8fc2baa86ea76",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"490dfaf2789a5dc7",
+			"fromSide":"bottom",
+			"toNode":"9327531e4542dd3f",
+			"toSide":"top"
+		},
+		{
+			"id":"e8d64e5886c7e6f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9327531e4542dd3f",
+			"fromSide":"bottom",
+			"toNode":"9d62b5fa22517a5a",
+			"toSide":"top"
+		},
+		{
+			"id":"91d00da5e0e93e39",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9d62b5fa22517a5a",
+			"fromSide":"bottom",
+			"toNode":"aa34c3ceb2808473",
+			"toSide":"top"
+		},
+		{
+			"id":"255d143a6e365019",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8702d897b463b288",
+			"fromSide":"bottom",
+			"toNode":"490dfaf2789a5dc7",
+			"toSide":"top"
+		},
+		{
+			"id":"d6acfc42adc43e6f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"759995935212359c",
+			"fromSide":"bottom",
+			"toNode":"b7465e2ba25561ba",
+			"toSide":"top"
+		},
+		{
+			"id":"175cf00b71885ba9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8702d897b463b288",
+			"fromSide":"bottom",
+			"toNode":"759995935212359c",
+			"toSide":"top"
+		},
+		{
+			"id":"627ff0537fc37e4c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b7465e2ba25561ba",
+			"fromSide":"bottom",
+			"toNode":"51cf04f5fc6b8a87",
+			"toSide":"top"
+		},
+		{
+			"id":"ae96286ec6f532f5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b7465e2ba25561ba",
+			"fromSide":"bottom",
+			"toNode":"4b3833ba1655019f",
+			"toSide":"top"
+		},
+		{
+			"id":"9052e2a718e929e4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4b3833ba1655019f",
+			"fromSide":"bottom",
+			"toNode":"8fdf8a6394d101bf",
+			"toSide":"top"
+		},
+		{
+			"id":"639d1e71e89d2c56",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"51cf04f5fc6b8a87",
+			"fromSide":"bottom",
+			"toNode":"63056fe46305dd7a",
+			"toSide":"top"
+		},
+		{
+			"id":"42969870c5efa5a4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b7465e2ba25561ba",
+			"fromSide":"bottom",
+			"toNode":"97e55cc975845da9",
+			"toSide":"top"
+		},
+		{
+			"id":"36f333ad3ca9cfe3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8fdf8a6394d101bf",
+			"fromSide":"right",
+			"toNode":"c330ec3283a096c6",
+			"toSide":"top"
+		},
+		{
+			"id":"82789685261e7218",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8fdf8a6394d101bf",
+			"fromSide":"bottom",
+			"toNode":"3260a6b4af0cf44d",
+			"toSide":"top"
+		},
+		{
+			"id":"3f01470e61999e51",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4cfe46c88a0bfb0e",
+			"fromSide":"left",
+			"toNode":"1a1f373af8986712",
+			"toSide":"right"
+		},
+		{
+			"id":"e61be7252facbec5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0d3a993c18ec776f",
+			"fromSide":"left",
+			"toNode":"1a1f373af8986712",
+			"toSide":"right"
+		},
+		{
+			"id":"5a0d8e1b7f84579c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0f6d00fd88eaf026",
+			"fromSide":"left",
+			"toNode":"1a1f373af8986712",
+			"toSide":"right"
+		},
+		{
+			"id":"6bca21c62f04b383",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3260a6b4af0cf44d",
+			"fromSide":"bottom",
+			"toNode":"1a1f373af8986712",
+			"toSide":"top"
+		},
+		{
+			"id":"4e516db500273aff",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1a1f373af8986712",
+			"fromSide":"bottom",
+			"toNode":"143b17a158121360",
+			"toSide":"top"
+		},
+		{
+			"id":"34a6fb771c543feb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"143b17a158121360",
+			"fromSide":"bottom",
+			"toNode":"55ca9503d874a264",
+			"toSide":"top"
+		},
+		{
+			"id":"bbe92cc1e2c52b74",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55ca9503d874a264",
+			"fromSide":"bottom",
+			"toNode":"f3655f1ff502fd17",
+			"toSide":"top"
+		},
+		{
+			"id":"df110b3fc1609593",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f3655f1ff502fd17",
+			"fromSide":"bottom",
+			"toNode":"7025a28207179356",
+			"toSide":"top"
+		},
+		{
+			"id":"09930036a00b8d8c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97e55cc975845da9",
+			"fromSide":"bottom",
+			"toNode":"7025a28207179356",
+			"toSide":"top"
+		},
+		{
+			"id":"9b58dddae7f37e72",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"63056fe46305dd7a",
+			"fromSide":"bottom",
+			"toNode":"7025a28207179356",
+			"toSide":"top"
+		},
+		{
+			"id":"93917db535b15b73",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7025a28207179356",
+			"fromSide":"bottom",
+			"toNode":"b1e8e94a50fc3920",
+			"toSide":"top"
+		},
+		{
+			"id":"96338b85cd9647b9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b1e8e94a50fc3920",
+			"fromSide":"bottom",
+			"toNode":"9754efc46b5dbce9",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
